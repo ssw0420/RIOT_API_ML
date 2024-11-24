@@ -4,8 +4,8 @@ from urllib import parse
 from dotenv import load_dotenv
 import os
 
-json_file_names = ['challengerleagues.json', 'grandmasterleagues.json', 'masterleagues.json']
-
+# json_file_names = ['challengerleagues.json', 'grandmasterleagues.json', 'masterleagues.json']
+json_file_names = ['challengerleagues.json', 'grandmasterleagues.json']
 
 # with open('challengerleagues.json', 'r') as file:
 #      data_json = file.read()
@@ -22,7 +22,7 @@ for file_name in json_file_names:
 
 summoner_ids = list(set(summoner_ids))
 
-with open('all_summoner_ids.json', 'w') as output_file:
+with open('ch_gm_summoner_ids.json', 'w') as output_file:
     json.dump(summoner_ids, output_file, indent=4)
 
-print("챌린저, 그랜드마스터, 마스터 json 소환사 아이디 병합")
+print("챌린저, 그랜드마스터 json 소환사 아이디 병합")

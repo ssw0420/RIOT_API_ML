@@ -1,5 +1,4 @@
 import json
-import pprint
 
 with open('ddragon_champion_all_info.json', 'r', encoding='utf-8') as f:
     champion_data = json.load(f)
@@ -45,10 +44,6 @@ for champion_name, champion_details in champion_data['data'].items():
     
     # 결과 딕셔너리에 저장
     champion_features[champ_id] = champion_feature
-
-# 3. 결과 확인 및 저장
-# 임의의 챔피언 데이터 확인
-# pprint.pprint(champion_features['84'])  # 예: Akali
 
 # 결과를 JSON 파일로 저장
 with open('processed_champion_features.json', 'w', encoding='utf-8') as f:

@@ -111,7 +111,7 @@ summoner_features_df.to_csv('weighted_summoner_clustering_results.csv')
 # 또는 JSON 파일로 저장
 summoner_features_df.to_json('weighted_summoner_clustering_results.json', orient='index', indent=4)
 
-print("\n클러스터링 결과를 저장했습니다.")
+print("\n클러스터링 결과를 저장")
 
 
 # 클러스터별 평균 특성 계산
@@ -133,10 +133,10 @@ fig = plt.figure(figsize=(10, 7))
 ax = fig.add_subplot(111, projection='3d')
 
 scatter = ax.scatter(pca_df['PC1'], pca_df['PC2'], pca_df['PC3'], c=pca_df['cluster'], cmap='Set2')
-ax.set_title('PCA 3D 시각화')
+ax.set_title('PCA 3D')
 ax.set_xlabel('PC1')
 ax.set_ylabel('PC2')
 ax.set_zlabel('PC3')
 
-plt.legend(*scatter.legend_elements(), title="클러스터")
+plt.legend(*scatter.legend_elements(), title="cluster")
 plt.show()

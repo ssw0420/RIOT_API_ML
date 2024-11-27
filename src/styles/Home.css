@@ -36,6 +36,11 @@
   font-size: 12px;
   font-weight: bold;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  transition: color 0.3s ease-in-out;
+}
+
+.main-text-div.blurred-text h1 {
+  color: #d9d9d9;
 }
 
 .overlay-content {
@@ -95,4 +100,9 @@
 
 .button:hover {
   background: #ddd;
+}
+
+.button.blurred-button {
+  background: #888888;
+  color: white;
 }

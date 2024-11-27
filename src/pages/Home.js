@@ -7,8 +7,12 @@ import BlurredChamp from "../assets/blur_champ.png";
 const Home = () => {
   const [isBlurred, setIsBlurred] = useState(false);
 
-  const handleButtonClick = () => {
+  const handleShowResults = () => {
     setIsBlurred(true);
+  };
+
+  const handleBackToHome = () => {
+    setIsBlurred(false);
   };
 
   return (
@@ -33,12 +37,19 @@ const Home = () => {
                 <button className="button">결과 보기</button>
               </div>
             )}
-            <div className="main-text-div">
+            <div
+              className={`main-text-div ${
+                isBlurred ? "blurred-text" : ""
+              }`}
+            >
               <h1>
                 LOL을 통해 보는<br />나의 TFT 성향은?
               </h1>
-              <button className="button" onClick={handleButtonClick}>
-                성향 알아보기
+              <button
+                className={`button ${isBlurred ? "blurred-button" : ""}`}
+                onClick={isBlurred ? handleBackToHome : handleShowResults}
+              >
+                {isBlurred ? "홈으로 이동" : "성향 알아보기"}
               </button>
             </div>
           </div>

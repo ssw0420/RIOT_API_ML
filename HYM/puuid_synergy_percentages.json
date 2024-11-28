@@ -1,0 +1,2089 @@
+[
+    {
+        "puuid": "HZLnTJT2C42A_IPDKHxLns_afBguizLaE1DaVJZMUlJQ3MvDQjDgzYZtjdiI7jP_rJB8zAAhqNuY9w",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "GlkvLWGvpu8_6YWIsmcASN335tsZaXXSYYQhn4cTO5e3ET9yp4-bAMdtWdiUcHszftR1tkBA-Pn3Ag",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "_Fe_QbjVBbbQEH5kB0zzK--jMuqIRFjN5kjxzK_P1ERauFnATbKNlGqAzlurmErHdXlmLpfcFtkLgw",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 88.88888888888889,
+            "TFT13_Crime": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "kBYQhV8vFQLI_bjiiQ4fe7IULAnp9Q2NxEb1gCvzgI_x_3qZf8-eJZy_16TyTEB_dm6dyYfkETLw7Q",
+        "synergy_percentages": {
+            "TFT13_Scrap": 10.0,
+            "TFT13_Cabal": 80.0,
+            "TFT13_Academy": 10.0
+        }
+    },
+    {
+        "puuid": "yhoXMJ3C-SKIJl3hdaAhrx_RWR7kGPHFXEFxp22RvqfQE8Z5GuXIAWsNesbbdr9tszdePEFrLTAdfQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 16.666666666666664,
+            "TFT13_Scrap": 33.33333333333333,
+            "TFT13_Watcher": 16.666666666666664,
+            "TFT13_Sorcerer": 16.666666666666664,
+            "TFT13_Ambusher": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "x1P3cAGGzEPZ89fgRoetYB8SFzNsqah6Tq2drA4NXabnFzOJKkyBUFUHdHN_n727MfryRkVXzcAQ3g",
+        "synergy_percentages": {
+            "TFT13_Squad": 50.0,
+            "TFT13_Scrap": 50.0
+        }
+    },
+    {
+        "puuid": "Yiy4lRf0zF-cQPTt9O9LygHyERsazOCXDCx_8T8Tzg2VPt8BqdPTbdc2C4YCEiki2cMfwcN4ZVYbqQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 50.0,
+            "TFT13_Family": 25.0,
+            "TFT13_Scrap": 25.0
+        }
+    },
+    {
+        "puuid": "tEdgHFqrsTI4rIohBbdnnyhdVKHuL9xO24Fa-EDwprsYrdhjy0SatbzIpAUZPEfAaKn7SniCDeZYUw",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "Jsa9kyYXHx5xfh17ZoWYfI2EBeCv2Uqz73kVkFE5_9k28WzQjrgqi1MiYwX7pgRuT8OO7n0j8cFpoA",
+        "synergy_percentages": {
+            "TFT13_Crime": 100.0
+        }
+    },
+    {
+        "puuid": "LpZPk0GwsjwypO-DlR-Hm7naahXnNAwTJ9BOnb1jDG_v68jIzc604JCJW6BpYoNHo-xi4_Jmxi9FOQ",
+        "synergy_percentages": {
+            "TFT13_Invoker": 10.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Warband": 30.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Watcher": 20.0
+        }
+    },
+    {
+        "puuid": "wC1Bn02IMDorCcRu7ziEGK3FMHLQNPylRMNAouGm6EyI51n8rQDqbP4F6UQh7oyxcuijUmx2HzaCQQ",
+        "synergy_percentages": {
+            "TFT13_Cabal": 30.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Hoverboard": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Crime": 10.0
+        }
+    },
+    {
+        "puuid": "t7bIt7dHGPnEDUKtcJsdlMC6TXtZpjrYuUUuqUizF4s3saLn9nGlZeWH1MwbSk3nmb41bun1i7nPuA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 40.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Rebel": 30.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Ambassador": 10.0
+        }
+    },
+    {
+        "puuid": "4PSpzzzzOn1nYdFfv3-JhxnubNd4TYka1hU_R-wgZvFJWdoF9CX94VjNphhJ4dOVfX8c6MHzrjuhGw",
+        "synergy_percentages": {
+            "TFT13_Challenger": 11.11111111111111,
+            "TFT13_Cabal": 22.22222222222222,
+            "TFT13_Ambusher": 22.22222222222222,
+            "TFT13_Scrap": 22.22222222222222,
+            "TFT13_Warband": 11.11111111111111,
+            "TFT13_Sorcerer": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "yQAsVcG6zoN_EUVg_z2PDTYlIb8q8SZ4C3CsV2wE6koR7Vl0GO30FjG4N72JQNiJkZQ59UxvZVZZeQ",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Rebel": 30.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Invoker": 10.0
+        }
+    },
+    {
+        "puuid": "wfjHsdOF_963uLgsvWqVRJIzBusPbelL0CZZEWTfgk5CkbTPKr2ws140Wy0HV924KJIvVVDF2IyI4Q",
+        "synergy_percentages": {
+            "TFT13_Cabal": 70.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Invoker": 10.0
+        }
+    },
+    {
+        "puuid": "_oqfVyoHyppQUbQyY8UzTMfTKZWmbRxqXpK0SSepOjN8LKOwHbcrCL6XkI32SE8qB1KzPP3BRie47w",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "xdU5fjDiZ_zNj0r22wixJnvMElTkkBbCzGvLN5LVwj6vVOKnIwVyh-nb5TURMZA0mj8n7EvEjnfmhA",
+        "synergy_percentages": {
+            "TFT13_Experiment": 25.0,
+            "TFT13_Ambusher": 25.0,
+            "TFT13_Squad": 25.0,
+            "TFT13_Hoverboard": 25.0
+        }
+    },
+    {
+        "puuid": "4ZkzJ1PcJ6HSPEM-lzsnSCSOFuKYVLqeK-kM96VCvvber1sMVmjonvFmWCxWRm3o_Vc2J6n5vMzE8A",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 30.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Squad": 10.0
+        }
+    },
+    {
+        "puuid": "xC9JQTSCaEasaNCoBavEi42SpiG2j6GXmfZV_6hpnEGps1_E7OiTZOv6O3Mq6zigSZCX5Mv4OQQ26g",
+        "synergy_percentages": {
+            "TFT13_Watcher": 10.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Invoker": 30.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Bruiser": 10.0
+        }
+    },
+    {
+        "puuid": "Vbq-t6ljucBnMA8cNeuICi3WfUBgBqgCnmkxMGuYshVTdQ3Tb6ZxxKl5AonTx5JpXacnp37ONOvH4g",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 11.11111111111111,
+            "TFT13_Rebel": 22.22222222222222,
+            "TFT13_Ambassador": 22.22222222222222,
+            "TFT13_Scrap": 11.11111111111111,
+            "TFT13_Watcher": 11.11111111111111,
+            "TFT13_Squad": 11.11111111111111,
+            "TFT13_Titan": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "0Nhzo7HfZ1oRaruyHlLuJluwX_yYOcugJosz7lJfr89_kAXVEF76F27IHjaD8HuHCndCpjGX6RPqNw",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_FormSwapper": 40.0,
+            "TFT13_Squad": 20.0
+        }
+    },
+    {
+        "puuid": "yf3V_sEcMxy2XwaVMBmD_5yF2lNL2YxwarFLolTsv3f1Jb_byOBovD_uJZQ9HM-STcxXNWAAc1sMcw",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Ambassador": 10.0
+        }
+    },
+    {
+        "puuid": "0AZJ2hl7YL4H5zCOQdAMuLhdx5evBNNnE9g7iXyN73mYiR_4wmYDYwBih86fclkII1HvDGoKWtVgRw",
+        "synergy_percentages": {
+            "TFT13_Crime": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Titan": 20.0
+        }
+    },
+    {
+        "puuid": "OJDZBhEUjxxnLgf3VDAQEeC23Gw4gUU9GKbM90F8_ABKP9vHEGt9jUCrrZ_yxW3xr0Atmt_1MG4C5A",
+        "synergy_percentages": {
+            "TFT13_Watcher": 10.0,
+            "TFT13_Challenger": 20.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Bruiser": 10.0
+        }
+    },
+    {
+        "puuid": "UxJQOpo-KjI1ngNGJSkiAmEJw_WoGwggMh8oNY77QUHGyvcHmB1lRsTv-LxmfykgR1CJlMTNjxziIw",
+        "synergy_percentages": {
+            "TFT13_Watcher": 50.0,
+            "TFT13_Pugilist": 25.0,
+            "TFT13_Titan": 25.0
+        }
+    },
+    {
+        "puuid": "G6wg47dBYZTDw2ravCrKh2gvBx2gQD-s187Rm1hAhusRtQ6nUuBPAl9TO8-oq5LEFFyxNlsCfTpAWA",
+        "synergy_percentages": {
+            "TFT13_Watcher": 80.0,
+            "TFT13_Invoker": 20.0
+        }
+    },
+    {
+        "puuid": "JC43SnadnMPzyddR2LPJtGQvoVEsvFAVkAiExqrfIw2ekoFVUPnKfVNtu23yoAmzEK-Tgf5h4cb31g",
+        "synergy_percentages": {
+            "TFT13_Infused": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Academy": 20.0,
+            "TFT13_Cabal": 30.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Crime": 10.0
+        }
+    },
+    {
+        "puuid": "3Ot6e6f1b_qm3LtYRiQVuPwyKExxVkFVmycIKqW9Zo_X5fGq7L-VsTRJDYZ14w16Yiu7TZnoewDVqw",
+        "synergy_percentages": {
+            "TFT13_Crime": 50.0,
+            "TFT13_Family": 50.0
+        }
+    },
+    {
+        "puuid": "qDCTjLmpIv8sWTFS0v-TKIXs345xgQOx7a1OPp0MOCLgcWv4-Y2nqyYdJDyQqR_zpdSKSfbYsF4zAw",
+        "synergy_percentages": {
+            "TFT13_Scrap": 20.0,
+            "TFT13_Titan": 30.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "6ry9DS-viUgQ-yAH7-temoPkPrLVfkqLzjEqEzzSHZ_J6_zXTt8uP9AdLHIyBXmeHki4zT8SsKqqWA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 60.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Hoverboard": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "1cO9Rw9c0--3F29iMebH8nhQ8YAIBuRz2xnOojc6X5rHWnHlrAKEz3bAlNI2VZcvV8_4pC7zcv-3LA",
+        "synergy_percentages": {
+            "TFT13_Hoverboard": 33.33333333333333,
+            "TFT13_Crime": 66.66666666666666
+        }
+    },
+    {
+        "puuid": "f2-s5OMMyOcMresNSI029yMkfMes6Igd9rOmyMWnHwWovBvualss0fZ0DH8uv2c4jWD1wU5WONI9OA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 100.0
+        }
+    },
+    {
+        "puuid": "nfbh1vS4F4PM1MVaPmNySJhAaNu05ZlFckaihZ4Q1nj1WGrOQnHP8PjH9K6QUvKtI92z5oZYU7_2oQ",
+        "synergy_percentages": {
+            "TFT13_Hoverboard": 25.0,
+            "TFT13_Crime": 50.0,
+            "TFT13_Infused": 25.0
+        }
+    },
+    {
+        "puuid": "IwbOqg7keW8rJSlVg3M6-Y8OEZQlePOO7AXgorv1B_PTekpGa5DWB4t5sZAsbr9dEli5DB8mh5ad_g",
+        "synergy_percentages": {
+            "TFT13_Squad": 100.0
+        }
+    },
+    {
+        "puuid": "QDnJ3Vl9-miVF0ANu453OJkX9UFKKFawurscOXUOtgdbIy0LJEUUdpg91S6z2xcjDUZnu_xiTwGLEQ",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 50.0,
+            "TFT13_Rebel": 50.0
+        }
+    },
+    {
+        "puuid": "_C0gCTy3ml0Ba0RK4xld0-MmhlxU6t56khEfmv6XgJrDG1zIRvkHhJf8bJ7uYMvX73F3t44VTn5fRQ",
+        "synergy_percentages": {
+            "TFT13_Rebel": 100.0
+        }
+    },
+    {
+        "puuid": "PpIO0F1_LOQFup_FpyKnXR6-z_gSm3Y21xblHSgdV09CIxKqBL9VKxe6a44UtTuIoQGGW2SwLjzzjQ",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Rebel": 30.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Pugilist": 10.0
+        }
+    },
+    {
+        "puuid": "s96ffWQSxllpoCVESoqyKDkCmcjJBM0z-8J8jcexLS0K9clMeICEMJJscajIKrhu7df2HTEjX85kxA",
+        "synergy_percentages": {
+            "TFT13_Crime": 100.0
+        }
+    },
+    {
+        "puuid": "Q-Nl0EGZwoEqurQ94LkOGwSqv5pirBKfBZzA3hMH9IG1ZFoxRyjjEmUL8JwN38QSYd0skaNhSWF17A",
+        "synergy_percentages": {
+            "TFT13_Warband": 20.0,
+            "TFT13_Invoker": 20.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "SrMoBD2a7bF2ugiPLCKrYBcLoBKpVJ7qPzcVcuq7f_SFExhsZhySUm9Mh9e7eD-9E_8r_NPRvb44wg",
+        "synergy_percentages": {
+            "TFT13_Cabal": 90.0,
+            "TFT13_Family": 10.0
+        }
+    },
+    {
+        "puuid": "lpTT6R3-SVsD_ThCVNc7TAFw2mOevX9DmU-0GPDy4E9QwCUIt01kRzK8KsJomJzWvUdugG7P4VQV9A",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Scrap": 30.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "8jZge6X5hAJZvlTPVfnpzhIYASIa9Fhbp2HewLrbSE5S4KciDTk7umOGgeH7EomHWs_oYa6ylOYKJQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 30.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Warband": 20.0
+        }
+    },
+    {
+        "puuid": "c3rHbRyccAF9mP_tMlVeZPZsY2Y43sA8u3DqBuhDBqnWiH0rj69DrsxoVja4RKsT9uvGdPAHj2U28g",
+        "synergy_percentages": {
+            "TFT13_Watcher": 100.0
+        }
+    },
+    {
+        "puuid": "mIuIIr2ijhzyvyB8HA2IvkWzE-hexXpjGMQezFiIP43Dd8Wemk1nLknmbMcwJbTpEmwRBG3LRRkHhA",
+        "synergy_percentages": {
+            "TFT13_Sniper": 20.0,
+            "TFT13_Cabal": 60.0,
+            "TFT13_Watcher": 20.0
+        }
+    },
+    {
+        "puuid": "LwLMKi_KtI3yc3wZVfrIzvNdmjp4kDORu81rZukjkT1YQJMPcP-XX4x6YB4s_bstjHZSnYPpJ25lhw",
+        "synergy_percentages": {
+            "TFT13_Invoker": 20.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Crime": 40.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Rebel": 10.0
+        }
+    },
+    {
+        "puuid": "2gYxdMG4Xt-3_bMF9F7jQSxV81wRFUpJ_KCL1DTeCEtljq3rpJAji8DwAZzaCXe9R7R1pldSIWNoQg",
+        "synergy_percentages": {
+            "TFT13_Martialist": 10.0,
+            "TFT13_Experiment": 30.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "MBifbzV8IjNOxgLCjjgeoCWTBaJGZvHCyjcrwh3EWArvOfnXUNg2g53XespSgAbY-YvzCf3T16Unyg",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 100.0
+        }
+    },
+    {
+        "puuid": "1Efn3m6_5bieU8buSbUpYYwrZBVSRKURvQqx2oa3rq5pQgG0tTayFMqEMtOfxBdE7-CtjI9_atyD_w",
+        "synergy_percentages": {
+            "TFT13_Crime": 25.0,
+            "TFT13_Cabal": 25.0,
+            "TFT13_Squad": 25.0,
+            "TFT13_Warband": 25.0
+        }
+    },
+    {
+        "puuid": "bLafxYMq5TdLpAxLJDqMdQF_w0SSMoIi2W6Je3eCQQ0jv-ox5L9zLrRHOJq1ZKCs6ZW3ULQ5YaNMmQ",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 40.0,
+            "TFT13_Pugilist": 60.0
+        }
+    },
+    {
+        "puuid": "Xc9xPXy4YS1RnB1oZegZmPEFqWKxR7AC7F96TrtNYK6z2a5_nu3icLPuft4qHx9rLN9CEAIB3jUjdQ",
+        "synergy_percentages": {
+            "TFT13_Crime": 10.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Pugilist": 10.0
+        }
+    },
+    {
+        "puuid": "7mS0WSmfqNDnH7ZhWMF424cohrQF-wHuiaEMLmKxcPHapY-7dtnvKJyEPnTZeEioALdJ_8076nZxAA",
+        "synergy_percentages": {
+            "TFT13_Scrap": 11.11111111111111,
+            "TFT13_Crime": 33.33333333333333,
+            "TFT13_Squad": 22.22222222222222,
+            "TFT13_Rebel": 11.11111111111111,
+            "TFT13_Warband": 11.11111111111111,
+            "TFT13_Cabal": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "3fZoROVu_JnYysf4KvUXfFwX4zTa3saDhVzl57xSVHcmVV9PM_kSTnL3-E40fFDjlvbP5gFSYy18FA",
+        "synergy_percentages": {
+            "TFT13_Family": 100.0
+        }
+    },
+    {
+        "puuid": "DRR4eup0DL2mgJ-9xtdVNPvCtCz5WbahKr2qD1hnY4Jy7Qnyllg-kCfDsxcaoVhPhVvSauEVYKkSvw",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Experiment": 10.0
+        }
+    },
+    {
+        "puuid": "XrOWnYGK4nsAQPp4YBYCYxxrFWNSJ_D0Cz4fkzf0X2ShPMAkl4sHcdJAOiBKvhJG_HYeA1c3EfFhYQ",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Martialist": 10.0
+        }
+    },
+    {
+        "puuid": "w85zosC_V_FOCcQf4rDYZNFD6Qqvd4IGlhEZ9nxiFK5V6_PxbhENAkT9EljNKvmbPoTG7VZFJcjnKQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 20.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Sorcerer": 30.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Family": 10.0
+        }
+    },
+    {
+        "puuid": "xN0NKHm83KNeNj7MSSROUWEz1stOWoTFAUNHdyRtbDpJFzA0AavecjJW0C01UIx4Ix2-flEAzILcjQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 20.0,
+            "TFT13_Invoker": 40.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Titan": 20.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "yhAq4ELRge-2qaVg_E8AvCcuhdHYkfHLo731w1v1haZtOYQjlTTaKZMeWv16J_aVncaE1PJU_mdWrw",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 66.66666666666666,
+            "TFT13_Bruiser": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "L61A9oohmI-crMhPU8ZIOCNABBwNMQxYtFgjzgEYGjf7JFBxcJI70WnR_VjEoQb2pEyqZyFUVVmzyw",
+        "synergy_percentages": {
+            "TFT13_Squad": 20.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Experiment": 20.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "ZERt-tfcPTx503msgshjvLIzJp7-qeOqKT8OvX7xIuuyHJdoZSHn_3LwaxztibwzLL4G29oZRRB4HQ",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 40.0,
+            "TFT13_Cabal": 40.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "XS5VFXJTt_HJA08ajnJuGyy3bF1O9e4DAxXAhtEKMRSJ1NKfbhCxwitnCXw5iqAPqg4lFLZ8J3hrLg",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 100.0
+        }
+    },
+    {
+        "puuid": "8CsOW4cmXWJJFxfCerKMprpAkmVNi0e9aX-YLNxLoMmdq2SwvPUB2rEj1_qP7ybCRU0MgHyGdob_ZQ",
+        "synergy_percentages": {
+            "TFT13_Family": 25.0,
+            "TFT13_Rebel": 25.0,
+            "TFT13_Watcher": 25.0,
+            "TFT13_Warband": 25.0
+        }
+    },
+    {
+        "puuid": "x-n-zqY7sBPmyuGie4mQdenkr854YCAU4vfX3m6AIVlFqqrokUfS-aQKKerwjPGC3oAl_luhwanSsg",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "BQ5w3oIgKt-37DPWpMOy8Aiq-qWawgnSGwA9b0wuJ67srhXOxq61eolVp976FSOHZGkN1u5PntkA-A",
+        "synergy_percentages": {
+            "TFT13_Titan": 100.0
+        }
+    },
+    {
+        "puuid": "rjzBN1DqtnH8hizvVUtEGlRbVK6WMm3mrZZeh135BN5fRbu3RkMnqPROdwZRcUahb_GOoZFMbXO3XQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 28.57142857142857,
+            "TFT13_Bruiser": 14.285714285714285,
+            "TFT13_Invoker": 14.285714285714285,
+            "TFT13_Ambassador": 14.285714285714285,
+            "TFT13_Infused": 14.285714285714285,
+            "TFT13_Warband": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "tUk7wbDyhipeWxpmwIyBY4ZtF0C4lr8YQahxjXX0iJJIKKNbxaoy9reuL9UF3Wk81_Coey50T4HPaQ",
+        "synergy_percentages": {
+            "TFT13_Watcher": 30.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Titan": 30.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "5pQH1korVeGOmRDIbifSsG7Lsn_gXirKtkch91CGe0nIgEIBW6xaizMHa5GUmU4YdO_CkDSivTt3iQ",
+        "synergy_percentages": {
+            "TFT13_Rebel": 40.0,
+            "TFT13_Experiment": 20.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Family": 20.0
+        }
+    },
+    {
+        "puuid": "0y50QzTe4dpyj494gTOxoNCWdxb5EPs2bQS2z1hP40aUd2IifmQj_1SQPZKOmoXRRhOdDVrGU_KEnA",
+        "synergy_percentages": {
+            "TFT13_Warband": 30.0,
+            "TFT13_Titan": 30.0,
+            "TFT13_Sorcerer": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "Y8DEfTumIObPki3f5H8nn-HxGh6rrjH2OF-ZBDsFpz48RWZ1TJj9NFrqsYoJjgpN0n4pJhQYLZ-ZfA",
+        "synergy_percentages": {
+            "TFT13_Titan": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Hextech": 10.0
+        }
+    },
+    {
+        "puuid": "pY64Lpr6enQmvUINohh_LfXzKRWaOI9aIf11zE1N5953_BGMQ7Z50Gj9j2hHaR1WdkEmzyZgrXL5bQ",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Hoverboard": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "LrSrlhEypO18sYTnNOOCHQf5HVa6E4AUpIzSc8EIn2PDPgAfK8unS5_YL2z5qS1N42A0lgaY4LM5KA",
+        "synergy_percentages": {
+            "TFT13_Rebel": 100.0
+        }
+    },
+    {
+        "puuid": "H9hWcUKHkdGDy-XipgIPTX7WWcizaTVR-pAiWWe3PVVgyTKytdudSG9_alNpDDZp8rPicEDaeXJ3IQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 10.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "HZk8OzziOYoi_e2MvhpZkIjCO1GRgKMFilSSEMeo08ePwVbPWN-JsTQ9E7L3HA0_qozHTGTHuVQUjw",
+        "synergy_percentages": {
+            "TFT13_Titan": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Cabal": 30.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Scrap": 20.0
+        }
+    },
+    {
+        "puuid": "NOfqB24fsWNNFQ0H5b_Fqksg1RPBUHDiwJ3tdUZHGTRoGh6dvBYd8OtXecWT_V8NikXt5eBBStyWzQ",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 14.285714285714285,
+            "TFT13_Ambusher": 28.57142857142857,
+            "TFT13_Watcher": 14.285714285714285,
+            "TFT13_Cabal": 14.285714285714285,
+            "TFT13_Squad": 14.285714285714285,
+            "TFT13_Challenger": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "bKDd3EXWG2edzHWrRoWT_sfP4nArDj20mDCDeux8s7BKnq5RTdgCyIvQFZ7aQHzKQfYXAYiFwIET5g",
+        "synergy_percentages": {
+            "TFT13_Scrap": 42.857142857142854,
+            "TFT13_Hextech": 28.57142857142857,
+            "TFT13_Challenger": 14.285714285714285,
+            "TFT13_Bruiser": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "1i2HwHJbv24Zv8kKCA3RR2qbSfBoibrx8JYojg2wm14TMgTTcW6Chmkptghl-V4WLpTiRA1I-TAmIg",
+        "synergy_percentages": {
+            "TFT13_Titan": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Crime": 10.0
+        }
+    },
+    {
+        "puuid": "RYnHxWkTzzfFrm2curi8P5xLFXq02o9v3Lwn_XUWzccxDdt30s_0MIAtFtAKAg4kgR5hrBOw8L8RWA",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 60.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Experiment": 10.0
+        }
+    },
+    {
+        "puuid": "JBjuUfGDzxoirs-pjWYgQzuW7lHT0gT8HYnYSdbGANfotbyAQRjgIZ-VNQRpV-1zdxYasAveFCKyrQ",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 33.33333333333333,
+            "TFT13_Watcher": 33.33333333333333,
+            "TFT13_Cabal": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "F2AA5xHWMOo9bkPr0fjiNKZJpcYDwgLuAmW5CbfZ-MYg8qG5SMGO5nG_qfJX_BFhYVKt5wZu_mi42A",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 40.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Warband": 10.0
+        }
+    },
+    {
+        "puuid": "l1gIrOLADnuHZJD3RtPv8Y3fFJ-1pxfZf28cRn6KQ8fsKaLwQq62ZCri14xIc2okL4Xlg-pTJbmWyA",
+        "synergy_percentages": {
+            "TFT13_Watcher": 30.0,
+            "TFT13_Ambassador": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "ax0aZMWwp4_DcFSFkam5qV6-8UvNfp5uFMB448uWgeeJnGQrmSlslUudXa7ZdsoT6haerSuHQKiegA",
+        "synergy_percentages": {
+            "TFT13_Invoker": 100.0
+        }
+    },
+    {
+        "puuid": "qjqvFXBB4c43IXlou7QpBAVhqwbq6sRu4M5rRTUARlX1OZsrBhwfZqU712SpvKap548ipOlOjFye-w",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 16.666666666666664,
+            "TFT13_Rebel": 33.33333333333333,
+            "TFT13_Crime": 16.666666666666664,
+            "TFT13_Squad": 16.666666666666664,
+            "TFT13_Hextech": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "sXZ4zaeF2sSydNX3c_0iqoeqnRGkDE2HPjXUqNx-Tl_dx_DaaP-bg8Vi7p7FFfSMGpyioFVmTkUv7w",
+        "synergy_percentages": {
+            "TFT13_Cabal": 22.22222222222222,
+            "TFT13_Watcher": 22.22222222222222,
+            "TFT13_Pugilist": 11.11111111111111,
+            "TFT13_Challenger": 11.11111111111111,
+            "TFT13_Scrap": 22.22222222222222,
+            "TFT13_Warband": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "0cZzaTvdaR4fVVDy9Jys5Jhnki2dXUps_RlfCJ585HS9nR69Mn8ulvZ4n9i5DFJt7-46OTTYUgo93g",
+        "synergy_percentages": {
+            "TFT13_Invoker": 50.0,
+            "TFT13_Hextech": 50.0
+        }
+    },
+    {
+        "puuid": "cIpdwkCqwt3F19n2gwqF9wnlERjmTnHIN03zl2aRUI4--C7kZ1Paiqtpd1HKeyl2Gupw-OZ6jpIDMQ",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Challenger": 20.0,
+            "TFT13_Squad": 20.0
+        }
+    },
+    {
+        "puuid": "24JaSIAs6FzF74Ha7k48Epie0_mVHGTWkhe8IzEMYa2A_uKf5RSfbKPVXcPseYtgh3b-DOfce7OSpQ",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Bruiser": 30.0,
+            "TFT13_Experiment": 20.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "lkVhbnmZV7oSpUrKfCa5djloBo2Sp0RSYxrq_cIWGfev6KOr1-w3vMxdtosYJLepEtx0RJn9k28fhQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 30.0,
+            "TFT13_Scrap": 60.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "GCwZkYZXkov_z-wsGw5RsfGVOnU3m-Rra9fKaTWokGOX4kZWT0XaHXjwS7xbx45y6PUtnHVkPAAtCQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 16.666666666666664,
+            "TFT13_Pugilist": 16.666666666666664,
+            "TFT13_Watcher": 16.666666666666664,
+            "TFT13_Hextech": 16.666666666666664,
+            "TFT13_Warband": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "CG7UP5RKGIv_T5woGN-Jvfwgbn4XassNywCpko_cxOhH55F-lche5roxwvGJHGzMjliuI8641bzqKw",
+        "synergy_percentages": {
+            "TFT13_Rebel": 50.0,
+            "TFT13_Bruiser": 50.0
+        }
+    },
+    {
+        "puuid": "z4gY48jiuYU7WMsQ5XeRAjhkN3IW-4rhZZWiN7oybP3vcZaqil4RsYrcKufcem3XdCnBw47oJs2TFQ",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 25.0,
+            "TFT13_Ambusher": 12.5,
+            "TFT13_Warband": 37.5,
+            "TFT13_Squad": 12.5,
+            "TFT13_Infused": 12.5
+        }
+    },
+    {
+        "puuid": "yOag0yv8bQ_sz2jzLvebc7W3grxwUcMUZeEX7Bhd9lxRlmPEoMPnF8sIJ97EdnZa9AHDuTeb_2BBoQ",
+        "synergy_percentages": {
+            "TFT13_Warband": 50.0,
+            "TFT13_Ambusher": 16.666666666666664,
+            "TFT13_Sorcerer": 16.666666666666664,
+            "TFT13_Ambassador": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "N5duXjvLwKqnV4DEZ7DmL6EKiyBbf73Bqg3ZyEmc-aXPgJqrzNtJs2YPrvX24IAYJr_RgdKO0HYT6Q",
+        "synergy_percentages": {
+            "TFT13_Cabal": 33.33333333333333,
+            "TFT13_Rebel": 66.66666666666666
+        }
+    },
+    {
+        "puuid": "tbbdiJ9KtRt2xhcBU_lYUzFjkDWMc-GGt4onUSxcITLMX7i9CmMApcr_EAdaBM2zQ_OwIA5O38_jCA",
+        "synergy_percentages": {
+            "TFT13_Rebel": 10.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "naOzIF-P06KE_MdaBqja-4RdVAtmUu8xJLO98hauAdAeHjpVNrYRM8iLYM6XL2J1RqL_yHonKGvyGA",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 14.285714285714285,
+            "TFT13_Warband": 57.14285714285714,
+            "TFT13_Watcher": 14.285714285714285,
+            "TFT13_Family": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "zh8ZhJCM_yswkKlRR54KVOKYEs_LNtP-RUxvHIZmZ1TqnIec92Q9A4xLQToNSJVXWI1Keb7IqL-Tcw",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 100.0
+        }
+    },
+    {
+        "puuid": "H_-17gm7YQRJqLZDQd9QyeVxmNyv1dwowN2Kk8SKwNcFAWJUZ7dGHorkL_UEf7Gqu4r3cGvEHLIHVg",
+        "synergy_percentages": {
+            "TFT13_Cabal": 20.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Titan": 20.0,
+            "TFT13_Sorcerer": 20.0
+        }
+    },
+    {
+        "puuid": "fMAgwIcxgl1tH4KeLKMKs64SCRgXAQGi_1g2C6fTmOoCEZ0ycAPYjQC8vduTZlFPOI8IoHfvDjbXyw",
+        "synergy_percentages": {
+            "TFT13_Martialist": 100.0
+        }
+    },
+    {
+        "puuid": "YgkA4a_3r6wvQC-5dB_ApFuw2qeYTULtapMLlLoJy13wk8G7MCncxVovyV5DtvK2imjReqClbHbiRA",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 40.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "pZKq9UUR2rKP05Ms8SLIJA8Kyt8qtvmWSNTqD9qe_Vv6dsHBdE7vin1TWf-5mjLbE-_sAlJ2y8137A",
+        "synergy_percentages": {
+            "TFT13_Cabal": 30.0,
+            "TFT13_Pugilist": 30.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Bruiser": 10.0
+        }
+    },
+    {
+        "puuid": "EruU1NtCW5z0bdXLN_EnMKjdD26Xca9_lhzxZtty35zs5oJorka9xAEYWuGbVlrbfYusBmAa1HUJNw",
+        "synergy_percentages": {
+            "TFT13_Hextech": 50.0,
+            "TFT13_Invoker": 50.0
+        }
+    },
+    {
+        "puuid": "43IEC31An6A5tQfln6Tpx0FxuC8khh-rNBu5XkU4LR9xRs8PsZg9YSeJomDvq-UiIiJDjNDDeJ5IJA",
+        "synergy_percentages": {
+            "TFT13_Watcher": 20.0,
+            "TFT13_Titan": 20.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "uHG3FDkDjR6-aXe2dGkijsmxOAlsdWFqrwCvnDXVERBB7HwuRXKZySmflUokTSdvCzf0najAuUEMbQ",
+        "synergy_percentages": {
+            "TFT13_Watcher": 50.0,
+            "TFT13_Crime": 50.0
+        }
+    },
+    {
+        "puuid": "e-Lomz9xw14l9NFyQ1kl1ii9L9Ki2MWSdFPwrp-RjSd0iwn5iXB677l2-lCpr5q20bfrHOiBkyp56A",
+        "synergy_percentages": {
+            "TFT13_Crime": 25.0,
+            "TFT13_Watcher": 25.0,
+            "TFT13_Cabal": 25.0,
+            "TFT13_Rebel": 25.0
+        }
+    },
+    {
+        "puuid": "E88uLo8i8YJiKOTvRmjgmadKZAFV5OYvQ7N_hc__NAgT9UnkG8L_nKPFk3tNheMSHsFOR-oKtKNX9g",
+        "synergy_percentages": {
+            "TFT13_Titan": 30.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "w_qIqSDBwTZllhqDhJSLjYHCrF8N7IzalERihgbr3FUNzimXXGXtQVe5FvRlstdx8eJthIfN6-9tkA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 50.0,
+            "TFT13_Squad": 50.0
+        }
+    },
+    {
+        "puuid": "rsUOFtegCJ5XB0xo3cOyOF-m2OuATP_f8YdtqDi6JfjPw_sTCgjbeCh1MglKritVp7tC2avXXC1mFw",
+        "synergy_percentages": {
+            "TFT13_Crime": 10.0,
+            "TFT13_Scrap": 30.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Cabal": 40.0,
+            "TFT13_Bruiser": 10.0
+        }
+    },
+    {
+        "puuid": "vByw5yfPfmDGPoWZLVp6rHQgmg5V2K-OaGncx1zcgZtacKPUbHJL-vUgbQMdUtMWgWwiGIwSXzcMBg",
+        "synergy_percentages": {
+            "TFT13_FormSwapper": 50.0,
+            "TFT13_Pugilist": 50.0
+        }
+    },
+    {
+        "puuid": "yhS6XjzS0-HXJH2Z-UuI7fPLSWoWP7geKkE4AbEq-ygk3o2ouPGBE4LnBzh3SqOCudEjX5QfV6umeg",
+        "synergy_percentages": {
+            "TFT13_Cabal": 50.0,
+            "TFT13_Sorcerer": 50.0
+        }
+    },
+    {
+        "puuid": "5Nn58ajcUwfiX8E9CFBh99GYQtbf4cBEuPo6B-Jf2lsFQBO3ximXjH5qo1ta9_x6cF1ryzAuLQFOrw",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "RrLiwSheT1chGUiUkCiUkLksI-I_KqnDSB2QKvICT_CzlxQdWRg-uPMzn50OutsNGP_brys-hK3ihg",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Watcher": 70.0
+        }
+    },
+    {
+        "puuid": "rsIY3IYHA58UcGAZVU3rNMTYDudPIsi6grWWTLfIvwc6TxAS48g6sH9DUVoQxcNzXtq6d9iPCuS36A",
+        "synergy_percentages": {
+            "TFT13_Cabal": 50.0,
+            "TFT13_Ambassador": 50.0
+        }
+    },
+    {
+        "puuid": "l6dr1nCZ8YsB-n15te0Cbu6DuXC9K0UXoAuYplXzIDxx-_gl-yjZunhiiABC5xk1RY3L1VxkiJ_SXA",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 14.285714285714285,
+            "TFT13_Hoverboard": 14.285714285714285,
+            "TFT13_Ambassador": 14.285714285714285,
+            "TFT13_Bruiser": 57.14285714285714
+        }
+    },
+    {
+        "puuid": "qugWSi5htrDdJBhfQxO7Mu6ZO_1lwJeYkCP_XIiSYB_IvSpu7vYFgoPF7HCsT5poVHbOibFus5TY1w",
+        "synergy_percentages": {
+            "TFT13_Challenger": 100.0
+        }
+    },
+    {
+        "puuid": "ebglAnyjNzCQQCNalSlv_yFiYZOZlCcRgyfKtN8dsMa2sCv4ZouicP0ozANjmFDixUQZiY6hF36Jqw",
+        "synergy_percentages": {
+            "TFT13_Cabal": 25.0,
+            "TFT13_Experiment": 25.0,
+            "TFT13_Watcher": 50.0
+        }
+    },
+    {
+        "puuid": "YOIbG5-RyT-sYhLGEU4z1AEXFTZRlNIG4zG_yGVnhDuQYE1ikyxvyhkuO4va3s4Uj_JVREC7joCrig",
+        "synergy_percentages": {
+            "TFT13_Rebel": 33.33333333333333,
+            "TFT13_Experiment": 33.33333333333333,
+            "TFT13_Watcher": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "IUxqgZgYHNlw3Yteqenw5mb0Du3Q384G83Q90ODTlFV3Qh51KhKatGELxwr2_8q3aMeJd5JeVUiLDw",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "1WKeItv4k4Zo3lyEv7Y-zvgvuWDVG5LIaWiwW-xpPzU4yqzJS_r5WM5ZbEvKEeYCUKkg0HGCGPFddw",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "CwqxlDg6qdQs8MzFLacSyRZYbzuapeykKtl_3gU6vuPeWL_bsERxjywpB-i7B7hMgiiznQUlC30l9A",
+        "synergy_percentages": {
+            "TFT13_Cabal": 50.0,
+            "TFT13_Sniper": 50.0
+        }
+    },
+    {
+        "puuid": "LKZ4OCbbfR5Q5dpNLPSyD9cx_s8PqcenRlY1ovgPclh9sVN3qsDnFBGLSwABbNjpPeKX5pbXfFeJKw",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 100.0
+        }
+    },
+    {
+        "puuid": "PoYv3-LWnaYrKwTGdHKji0yDJzxlw9FCw-AoNVGeVFbmZzfefvjYbZA4yHqXJZSWS7h1oaKX_aW0qA",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 12.5,
+            "TFT13_Squad": 12.5,
+            "TFT13_Rebel": 12.5,
+            "TFT13_Family": 12.5,
+            "TFT13_Scrap": 37.5,
+            "TFT13_Crime": 12.5
+        }
+    },
+    {
+        "puuid": "15DW49N5cie06t2JNUEbZIMNI6xHF4AjdnnrezYinjrRp0IXgi6hqwMS_UaR1vw54V8a-WnAHBG8zA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 66.66666666666666,
+            "TFT13_Rebel": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "uCi8FHQiruf_PuviNgzbDTA2mxpbRxfitasD-mCWjjac6Kl9kAizgqhIO_xQRQYi-hRscVYgrX-Dng",
+        "synergy_percentages": {
+            "TFT13_Cabal": 20.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Pugilist": 30.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Family": 10.0
+        }
+    },
+    {
+        "puuid": "fosG0MAhxDTXhZQCgDsHlhS3aMqD2kVgt6AM3WKI8-uAZDlEL2PEE6Ma_N6Tp2oNsae9XfPKtYY3uQ",
+        "synergy_percentages": {
+            "TFT13_Hextech": 50.0,
+            "TFT13_Warband": 50.0
+        }
+    },
+    {
+        "puuid": "Q8lAzhsS-XsWoltDcSCqZP83ig5L6dAAUhHcNavEmPvaDKfH6cruw9HXRDiMkkKxmOlPkM0Rtiv6Sg",
+        "synergy_percentages": {
+            "TFT13_Watcher": 80.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "foImSCDVWcLPNe64RGNmVIdwWKhn1kgJ6qnfvFDns8feyrQljD2T8J_vdb0S1ubQfS38aQLvn17ssQ",
+        "synergy_percentages": {
+            "TFT13_Hoverboard": 11.11111111111111,
+            "TFT13_Sorcerer": 11.11111111111111,
+            "TFT13_Crime": 11.11111111111111,
+            "TFT13_Infused": 11.11111111111111,
+            "TFT13_Family": 11.11111111111111,
+            "TFT13_Squad": 11.11111111111111,
+            "TFT13_Ambassador": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "TdVeOGOiNVALvgg3GAMfNAO90z9dJF_23s7RjS5BTEqH5DWOPd1Jgo1vtBc3kY03_-poIJypy2UF8A",
+        "synergy_percentages": {
+            "TFT13_Warband": 50.0,
+            "TFT13_Scrap": 50.0
+        }
+    },
+    {
+        "puuid": "PRRoHumtiKjEF2kV_RFX7YappyGmULdcfyEGixzsTXC435lNUhA3aWML4LTL-34CSDEF-OBNcPgQag",
+        "synergy_percentages": {
+            "TFT13_Watcher": 33.33333333333333,
+            "TFT13_Scrap": 33.33333333333333,
+            "TFT13_Cabal": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "Ivkfs8gWw8DD1EbjZUShX-UixY0TDQTjYV00ESh9fGXbz4CZ1-UvF-4VthCJUEL-tl0GzbQVme7jjg",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 100.0
+        }
+    },
+    {
+        "puuid": "I642kb_JFoqQiLAk6eATl50vOYIId5XMpGCKBgDO_-LI7y1h3kkEYi3xx8rKLuYYkyC4iQ9jx_V_9A",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 33.33333333333333,
+            "TFT13_Infused": 33.33333333333333,
+            "TFT13_Squad": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "K8h9iz5btGM5WaRdVOJsJtJGE9oZy2IJTNdnUmORg_cJw3chwP601j4VOrCHiwNuNDUADUH4JGN4ow",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 50.0,
+            "TFT13_Rebel": 25.0,
+            "TFT13_Titan": 25.0
+        }
+    },
+    {
+        "puuid": "7DETmfXG0F-n8QxZjNUUMdOm50BcYFmITkMLl6pn778QPyoAX8-37gIPaixCF6PV4U-1O3jGdmbg4g",
+        "synergy_percentages": {
+            "TFT13_Watcher": 50.0,
+            "TFT13_Experiment": 50.0
+        }
+    },
+    {
+        "puuid": "D9P7GORn9KNo8QIpDI0GbgwWtyIXlWegNsnWXDFbUK-LkHUgjdbPZx4Gep49t-7FabsHk3V8qR-mNA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 50.0,
+            "TFT13_Pugilist": 50.0
+        }
+    },
+    {
+        "puuid": "F6JbZDKXNshO51rDaELhCDljM_ZsSJTee7xfV_boRfDIy4VHjrrikx9qBWYxk0GyF1voG4HsI6AK9A",
+        "synergy_percentages": {
+            "TFT13_Rebel": 10.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Hextech": 10.0
+        }
+    },
+    {
+        "puuid": "-wnND8Nup2tlR73zZBeanWvDqarYzh_T4dKC0Q1SsQkINV6C7RLJ7qo3dz_SPLshDTC0TQSMpyk0kA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 66.66666666666666,
+            "TFT13_Scrap": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "KOeTsek1lnefqYJfrr4Uf1K9QELGFE5xfNTekFIj0FsErvLPHbzIgUp9oFex96fgR_IMe1IPrbKpyQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 25.0,
+            "TFT13_Watcher": 25.0,
+            "TFT13_Rebel": 25.0,
+            "TFT13_Warband": 25.0
+        }
+    },
+    {
+        "puuid": "0kOzLycdyHJFw52mi1HkxgwZp8jOOXYEwuv9mrBx-rgJkHWTrFTHzc5GPkTYh5oJHWfAZ_e-Yz7BAA",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Warband": 50.0
+        }
+    },
+    {
+        "puuid": "vyjHOcvfQVLWrY78FVaiyDJ-avFAZT3o4-nl6ji9CApvJASogC3tDl4BCeqovuOrIH6lTNHq1FdMFQ",
+        "synergy_percentages": {
+            "TFT13_Crime": 20.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Squad": 20.0
+        }
+    },
+    {
+        "puuid": "bMIOJ9d09cRjTeW4p9kvVhd-JjDuLIbV_v9ZyPCegMwxbG0Ij-CM5-4ePZJEntaJmptZCIRJxojLYA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 25.0,
+            "TFT13_Ambassador": 25.0,
+            "TFT13_Warband": 25.0,
+            "TFT13_Watcher": 25.0
+        }
+    },
+    {
+        "puuid": "5XOPiYkAOsHd_kOmaQ7NT85FY5nGQGDwyOJEOXFpgD4UZh7WaMOc78AHzl9oh7i8UxCh2Bb4kelT5A",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 40.0,
+            "TFT13_Ambusher": 40.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "FEjZqhJcIoDAbHCCnkrAEDIMCp8HK5wglaawu75uaq9mRIDI_PsdAeDWJwcV72LSRNUg6c9qorMXCA",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "bXm9E4aaXl8xP9c7ugX88ma3nv18wpn6ALhJ8Z2-i7o-ZmbgS_YaKkyd09Fp-Y4sSZJNHc-OFIYd9A",
+        "synergy_percentages": {
+            "TFT13_Rebel": 11.11111111111111,
+            "TFT13_Pugilist": 11.11111111111111,
+            "TFT13_Watcher": 11.11111111111111,
+            "TFT13_Crime": 11.11111111111111,
+            "TFT13_Cabal": 11.11111111111111,
+            "TFT13_Hextech": 33.33333333333333,
+            "TFT13_Ambassador": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "Fc3Q3TLa-Yzx-XJdDUDsz1WFOcV1GROBwcVKfVF3_r3lB4iAyqBvwQ411Fwhbf2F9NyEKR_68j-_Tg",
+        "synergy_percentages": {
+            "TFT13_Titan": 100.0
+        }
+    },
+    {
+        "puuid": "CauFdvIEFj18_kiJhWq8ku2yB9rOaQnEtHNSTXg23u7EUb4Wz1Bju5-fNGQeMXgMGJxo-Hywqabf6Q",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "1v1c5c5C8B4gna-HxxfP5vYuCGILEZ8AN_2palV5yqyYWOWgfPRSRiLAhgYGfOaKnYBS2zsi_38Hmw",
+        "synergy_percentages": {
+            "TFT13_Cabal": 100.0
+        }
+    },
+    {
+        "puuid": "g6Kwi3jR-K6dREnmkT4pD0VzDgDAGE3k62sZiolef3kzhN2-LRKokIAif79LIYZFCwAgAk7RQSWDzg",
+        "synergy_percentages": {
+            "TFT13_Invoker": 100.0
+        }
+    },
+    {
+        "puuid": "A-usI2KnCzQ2Pizj2NfNjB4Hbt8auOTE1OQywbflSqWMp5ZEicBuCCEzxyf4j00V81LXUABQHuz70A",
+        "synergy_percentages": {
+            "TFT13_Sniper": 10.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Squad": 30.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "y4jBCZ3-r1G5Uc8mUZQfjbZeee634eLPMw81aAdgUlMFjAQUJZMknhAvUyDSKUFIE-s7mQw_QaDZFg",
+        "synergy_percentages": {
+            "TFT13_Crime": 16.666666666666664,
+            "TFT13_Challenger": 16.666666666666664,
+            "TFT13_Watcher": 16.666666666666664,
+            "TFT13_Rebel": 16.666666666666664,
+            "TFT13_Bruiser": 16.666666666666664,
+            "TFT13_Titan": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "rADuaS2XduBLYrjTM6SBLRz31s0BQ_AUDDqIV3GEJuRai4FUiXMpUaypIS4PAy6q4W--8lxpVBdkfw",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Crime": 30.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Warband": 10.0
+        }
+    },
+    {
+        "puuid": "wa8cZja3Q-BSh0nMqZ5Qg8oxZWVH3mLNSL11_ikfkWWwF1urgpb2mSDyEtH4NgCOHpGkjnlJMjU2dg",
+        "synergy_percentages": {
+            "TFT13_Cabal": 33.33333333333333,
+            "TFT13_Scrap": 33.33333333333333,
+            "TFT13_Academy": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "o9wO8D3XPrnxD91rIiDSIjRMc1TboFsNDn6aEWJpKiQv_8dwks3pTmKitAXQJxqn71TWRyTEdjpCIg",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 100.0
+        }
+    },
+    {
+        "puuid": "EX1Vdu-DDiCkO3SuqjugiBWlmM6IiTsGSifU8JsI_1lnSIDfawTsFQNvi0hkGdaL2Wwf6bIluFYzCQ",
+        "synergy_percentages": {
+            "TFT13_Crime": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Warband": 30.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Titan": 10.0
+        }
+    },
+    {
+        "puuid": "r3waOEM80f3IC_M0Jvj4fZmSKuDxcCAb7xXX0fG1Sq7dirl-5Mfpm0Qqgwqne7eSjzxnAe7uJGrhQg",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 10.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Watcher": 30.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Challenger": 10.0
+        }
+    },
+    {
+        "puuid": "2pjUbwDCOQXdpRlYWm_F6heYMPEdDqJ3GSyDSwFleXJaUnzmgjLgDi45nvNgT-xHi5wDgcrH1-uE7g",
+        "synergy_percentages": {
+            "TFT13_Rebel": 20.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Watcher": 50.0
+        }
+    },
+    {
+        "puuid": "zEyURWbuZEOuCgeENHTRSGTj7SyqhE3_P7qU4pF39ivQ-jy_gIC577gD4v-99kPuMh7idvPK9yFeFg",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 50.0,
+            "TFT13_Scrap": 50.0
+        }
+    },
+    {
+        "puuid": "-cbzSVRT6z3m_lwK08oZcp9G6hHJwEhqMEsOG7l3YInGm1nS07GTropFqgDtEZNKTPN-dGORetnVnw",
+        "synergy_percentages": {
+            "TFT13_Watcher": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Ambassador": 20.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Titan": 10.0
+        }
+    },
+    {
+        "puuid": "h9QtFiJco3w8VatfjnK_qxb3BOrp2Os9nqScj49vyFjbnm2iTKH4e8ahMR9Zw_5vxrzq72F0Fab3jQ",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "u2SNuPanTyJ0xdfUqtMRtOGgVjADbuT2ngyV3kbeByPkJX7qt_eIT4uNlt8xn7aeeg3s_aosbVS9yQ",
+        "synergy_percentages": {
+            "TFT13_Squad": 33.33333333333333,
+            "TFT13_Watcher": 33.33333333333333,
+            "TFT13_Rebel": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "NiW9vl_ScD3M0HiurBJVDHWwL23xSk3WTSBkS1_EGRRaE1EJgZZ0SajPeuStmG-r76PcIVuIfTen2A",
+        "synergy_percentages": {
+            "TFT13_Warband": 50.0,
+            "TFT13_Sniper": 30.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Ambusher": 10.0
+        }
+    },
+    {
+        "puuid": "A9Gfn-KrktbodyYIdsCEW_JXVKJ8aiTJslKA5JCbMoTyUMJyJCjO4y8XG1aY2iAGBcbRWGwBkW0ZLQ",
+        "synergy_percentages": {
+            "TFT13_Titan": 10.0,
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Family": 10.0
+        }
+    },
+    {
+        "puuid": "_VlkEMBQihzqEGf4_PxTC5afyTTfSAUTzlLOb8YRb6ZnGKbyfGbTeAXhUY1AXjbCZMtP22pnc9NzMg",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "nCnC4hl9nQ7qZm-AW9wansgbQYLWplRIEwqWJOkZ6wcdkXKvCmwKwMfy-lTQuVIpilQWin2JkE-i6Q",
+        "synergy_percentages": {
+            "TFT13_Scrap": 10.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Titan": 20.0
+        }
+    },
+    {
+        "puuid": "dCKFqAD-kpA1_RRKCJIZjG-GydbQLZTAJOihg6D2KS5Z8wvzaCG5X5wlkYnkqmJ9Uo97hokPYmXEkg",
+        "synergy_percentages": {
+            "TFT13_Hextech": 25.0,
+            "TFT13_Rebel": 25.0,
+            "TFT13_Pugilist": 25.0,
+            "TFT13_Challenger": 25.0
+        }
+    },
+    {
+        "puuid": "yd6fB4C2Tevykp2OrgE8XiV2pmQNs-hq3scy3lgo6BoXiejyBLShk8YvMpwirJec8esOd0Fti9dRxA",
+        "synergy_percentages": {
+            "TFT13_Infused": 10.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_Challenger": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "wGyeg3A_RoKjp8wyzIkKRylZRox4O2crzbiCl4zRf_g5C0rL0YqeW4XzViojxWJSCjg10oHA1fCTVQ",
+        "synergy_percentages": {
+            "TFT13_Rebel": 25.0,
+            "TFT13_Pugilist": 25.0,
+            "TFT13_Sorcerer": 25.0,
+            "TFT13_Challenger": 25.0
+        }
+    },
+    {
+        "puuid": "1iaCnBWKYy__sM6YF3ZatNUITQeZwc-WGwyhyiiVUybn-Bi4K1_DGu7vvOyKGQXF2Fh1f8Tksvu9nA",
+        "synergy_percentages": {
+            "TFT13_Rebel": 20.0,
+            "TFT13_Family": 30.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Pugilist": 10.0
+        }
+    },
+    {
+        "puuid": "wQMpDXNVV8vqySv1U9OWrGceR6rH2hT8hKRZj36nItJp_OYKoYbOYkxQ1mU4x4qdWlSuSFOlI1IZXw",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 100.0
+        }
+    },
+    {
+        "puuid": "eFd0B8xu4T61icCwYF07QR4QB3TxlC5tBxM4GyInjbw9pKzA275EXkTaYBJs_94Wx-rOugk2yC5fFg",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 50.0,
+            "TFT13_Cabal": 50.0
+        }
+    },
+    {
+        "puuid": "4gATIPXsqvXW9MoAiVqg8zhllMxdkLuH7Kyp6ntIe4Zks0HRJ8XCi7sR9PJRFqAyIHx3pWtYsw5Abw",
+        "synergy_percentages": {
+            "TFT13_Watcher": 50.0,
+            "TFT13_Cabal": 40.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "gO7XIvbzm3dvk6UQLmvAkXaas0SGA94j5PNVcxrHIm5GTA49WFGXQWdefi1yNc7yFRhzh27dEaD2qA",
+        "synergy_percentages": {
+            "TFT13_Watcher": 50.0,
+            "TFT13_Bruiser": 50.0
+        }
+    },
+    {
+        "puuid": "wZgVjoi2mebgrd1T8Nb8RFqlCa33V0NVSHA1hQdgWcLtbLR58WA7sbzbyVGlH1lSkh_bhxFtwBoqmQ",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Scrap": 60.0,
+            "TFT13_Rebel": 20.0
+        }
+    },
+    {
+        "puuid": "THu-tq2BEUFzJETq_uOU_8JbrA9j0mpPlI4eO2JvIzq-mJpCeDxjFBGvwRb8hsvEAtdcUswrk1iqoA",
+        "synergy_percentages": {
+            "TFT13_Academy": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Crime": 40.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "twq6WNxX2XNb9hM2YQBcgI7l6rcCPgdaT52-5FFWkv1n57w2mdmeImPCf1btlcQBX2VJAZ1hs_OtZQ",
+        "synergy_percentages": {
+            "TFT13_Crime": 50.0,
+            "TFT13_Pugilist": 50.0
+        }
+    },
+    {
+        "puuid": "n9zSSX1qgc7-m_Ijg1cvn3qr5lgOvsDXQN6S17-MxT072GpLXDzMfn7aqWTF52b_0hlnYVp4-SlEHg",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "AfGmMlAqfwJVElzYxFZvUHDT38M03qNy0-lGycCcO5Rlg1fsaTfw3YaU-Bt_pXFG1VdBvzowKOxuBQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 30.0,
+            "TFT13_Titan": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Hoverboard": 10.0
+        }
+    },
+    {
+        "puuid": "TcArqHCbY97C_hA67fNeZPSkv6lI5Ty5D_pjgzYR99SrTrULkK23PP12fUKj1PCkZQKyDcDc6788dg",
+        "synergy_percentages": {
+            "TFT13_Rebel": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Warband": 30.0,
+            "TFT13_Ambassador": 20.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Pugilist": 10.0
+        }
+    },
+    {
+        "puuid": "nLL0Q4QtUYYfpiXNBcTm-vpIWJUAbN6pZvACJyo5veI9marmat-JCm_VZwI2GN5y9YFqFxLZOUHJsw",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 100.0
+        }
+    },
+    {
+        "puuid": "_KTfI6xIrkbA_l0ABBL4Xptg0iFsvqCNQ-E_VKBJkrzbGhufF9s6_namXGvZqGY60d6p0DbpsixO9A",
+        "synergy_percentages": {
+            "TFT13_Rebel": 100.0
+        }
+    },
+    {
+        "puuid": "d0i5T9nwuU1vfmwVLLGoN4jiX_aq4QKNz6AU0Y3Qy2dvriCqO0W5YhtZwZ7rvsRndPYqzeQ2zvn8iw",
+        "synergy_percentages": {
+            "TFT13_Rebel": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Martialist": 10.0
+        }
+    },
+    {
+        "puuid": "hcDw6yc-kDHpsuGS5hUnHLaMDP628f48cSNZ3EyvLXm2tMN74EBp-zp_9Urwx6JHMypbKkK4UOCPWg",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "zdkokhdolDOQbRmczLDVxURvkwRftt6o9ijvAybV8fxpq2qKsDxfegddqokOKEaiMMk4dAZJ4rcXzA",
+        "synergy_percentages": {
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Invoker": 10.0
+        }
+    },
+    {
+        "puuid": "2gsYtXcfnh-5Y0aDF3UIbA8NLCJOjGGTwQdE4aNkZfiX2hsWJPQ0kvUq6zqa_FHzNoECpeLF45x3nQ",
+        "synergy_percentages": {
+            "TFT13_Cabal": 20.0,
+            "TFT13_Titan": 40.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Rebel": 20.0
+        }
+    },
+    {
+        "puuid": "AMebIG_8xLRNVfwRunlaPIEuJAwtu6O27PKVoagq2A6FH1G-gItKTAq5T3Hi34yUauLyc1dEJqw9VA",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 100.0
+        }
+    },
+    {
+        "puuid": "FenUGb8Atj-mesVOlxFb_JAnjRBlDa1zwKS0e6eDts8lU_YPADvCeVn9y4NDdkvUL_664vXQx5c3Iw",
+        "synergy_percentages": {
+            "TFT13_Cabal": 66.66666666666666,
+            "TFT13_Titan": 16.666666666666664,
+            "TFT13_Academy": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "7SFHALDOl7Lm9L6fM6MMgz7vByNySuMVRDcGRXHlCuRkVSMvQjViurgfvSOaw59LiDv5R70sQ0mCdQ",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 14.285714285714285,
+            "TFT13_Scrap": 14.285714285714285,
+            "TFT13_Invoker": 42.857142857142854,
+            "TFT13_Watcher": 14.285714285714285,
+            "TFT13_Cabal": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "g0P-yYgPoqMHCBYE-xxjMUghWStE8CbcXQByF__T9iYos0IqN8IdiE1DDYqSF0nt5yTX-xnKuWqHcw",
+        "synergy_percentages": {
+            "TFT13_Family": 10.0,
+            "TFT13_Hoverboard": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Infused": 10.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Scrap": 10.0
+        }
+    },
+    {
+        "puuid": "EF73lP6mTCL2-TzeXIMq0cXwqEdpQGOK3t6O7RSCo9CFL4zp0UHAOjAc1mToGiC9QiE7q9Y9TpUYRg",
+        "synergy_percentages": {
+            "TFT13_Watcher": 30.0,
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Invoker": 10.0
+        }
+    },
+    {
+        "puuid": "C3VEcGJbe622T0gEWUxRbPRL6GL6RbI_66BPyWtxZakcpj6Ba3s_63eRfM89z653PuV4_6HY4IznGQ",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 100.0
+        }
+    },
+    {
+        "puuid": "vNboXc5mlGP64w2766mbKKKR1Z3ZN7HysT9svwDAn2DhUYom2J6SCDiCOV8oWe3TQCraDGXSfLucJg",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "EYyFEG_EJF1BMjiEE31iwZMuQ-9J92IHlN0OCWOfBt9ODc_r0Q2zEVcmabLE4NAEA5r4saism_5xOA",
+        "synergy_percentages": {
+            "TFT13_Sniper": 10.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Invoker": 20.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Titan": 20.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Rebel": 10.0
+        }
+    },
+    {
+        "puuid": "jjTXGeZ3a9uptmULmFIJdvZpm7yqlq1zCAtRZP6u1hL-r6hZE3yPrqJLIOptPyyjeuZtpknc6qp1Gw",
+        "synergy_percentages": {
+            "TFT13_Crime": 50.0,
+            "TFT13_Titan": 12.5,
+            "TFT13_Rebel": 12.5,
+            "TFT13_Cabal": 12.5,
+            "TFT13_Sniper": 12.5
+        }
+    },
+    {
+        "puuid": "tKFXUryjOHI5QX9_2MaScN-9PPAe3h-Ms3Jt2sBHIAMb2vAbmNvqhpVXUA8orj37gKvkTDRS2HU29A",
+        "synergy_percentages": {
+            "TFT13_Family": 42.857142857142854,
+            "TFT13_Pugilist": 14.285714285714285,
+            "TFT13_Scrap": 28.57142857142857,
+            "TFT13_Watcher": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "TlWfJAtSWiE88y5LDFC-JI4ertUSXhIiABbnCSnfMuR37oNUYhraEqq3dyVpBxuYP4AWOYfdOhdHyQ",
+        "synergy_percentages": {
+            "TFT13_Experiment": 14.285714285714285,
+            "TFT13_Academy": 14.285714285714285,
+            "TFT13_Titan": 14.285714285714285,
+            "TFT13_Pugilist": 14.285714285714285,
+            "TFT13_Sorcerer": 14.285714285714285,
+            "TFT13_Squad": 14.285714285714285,
+            "TFT13_Scrap": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "PodYv6F57FdpnSJJYjsJj8ci8XHHSj-PrSKT0SGDzaSzi8jdFre0SsUSnXXnm2lHtGK_IMbrJ7h5sQ",
+        "synergy_percentages": {
+            "TFT13_Watcher": 10.0,
+            "TFT13_Ambusher": 40.0,
+            "TFT13_Warband": 20.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Sorcerer": 10.0
+        }
+    },
+    {
+        "puuid": "mUmsigP6urSkNEJcq_pymPCSR4HKIt__UqEPYYT96ApAXcz7Hl7RoxtnP0ZcSPBju6-vida5MrpXQQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 16.666666666666664,
+            "TFT13_Cabal": 83.33333333333334
+        }
+    },
+    {
+        "puuid": "sDHwi7R0GDfM90uRajrGQR4zbdc-szVdQlLuzTpS0scBb4vChZpH2oyhfB-9OID1DyPfZrWY6gAAmA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 70.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Watcher": 10.0
+        }
+    },
+    {
+        "puuid": "LBgrm0L7r6yxcMyfw07ib4cCQdp1ujba2EqLuJws_fMb2Kyvmzq6miVNWpAnjMQmvY_1Zzvrkptttg",
+        "synergy_percentages": {
+            "TFT13_Hextech": 33.33333333333333,
+            "TFT13_Rebel": 11.11111111111111,
+            "TFT13_Scrap": 11.11111111111111,
+            "TFT13_Titan": 11.11111111111111,
+            "TFT13_Warband": 22.22222222222222,
+            "TFT13_Family": 11.11111111111111
+        }
+    },
+    {
+        "puuid": "shZTXzX6Zm7dEC70txjjgHjlCBb82iF8DaJsVFzulXICkG3zW1i9NX9X8mbYkv301Gcr1NHkDTCi6w",
+        "synergy_percentages": {
+            "TFT13_Crime": 10.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Squad": 30.0,
+            "TFT13_Pugilist": 30.0,
+            "TFT13_Warband": 20.0
+        }
+    },
+    {
+        "puuid": "s-tX5srbvL1EkDOpmOfIch-YpUDeZse3wmcrxLeh2jdaCgyAsUCoE9lVB9zsaF9RGFAIkzBGuJwAcA",
+        "synergy_percentages": {
+            "TFT13_Scrap": 100.0
+        }
+    },
+    {
+        "puuid": "8_YV9eIO_abgHN_g16AIHLjIW9uhs79CroqPo_ELKkFF8brHQE2iPq5R4yVEuu6gqZTtktj04u2dUg",
+        "synergy_percentages": {
+            "TFT13_Warband": 66.66666666666666,
+            "TFT13_Rebel": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "g-bSTB9_ZrSvv3VDBORYPvxbwy5NgfVRbSyZ2yTgSgaDPYPMxdsbm9MuZzifAHSfACFu3y3QAC4oFw",
+        "synergy_percentages": {
+            "TFT13_Cabal": 100.0
+        }
+    },
+    {
+        "puuid": "xIg7kUlYT2MhZwF0DRRvxJ_TuZmaSyASOFVjfbveuepjHxWlx7_q5Wbz7xUMlyaiJGFbEpJ9dmjssw",
+        "synergy_percentages": {
+            "TFT13_Sniper": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Bruiser": 30.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Rebel": 10.0
+        }
+    },
+    {
+        "puuid": "UjJsY-2Psgn4GCzbS_nxVuyR-x4ezsi-CzjGq3uZ9lav18i8gqvRHwudDwYiFsPQ2eTa7kcZlXdMlA",
+        "synergy_percentages": {
+            "TFT13_Hextech": 20.0,
+            "TFT13_Hoverboard": 20.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Sniper": 20.0
+        }
+    },
+    {
+        "puuid": "WNLr6U47-_js-bcS7tE-QeUDRRPCMkni_Y1dACdCJp0EFHmdo5ImDz0Uph2sEGAes92KbK0wKFogTQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 40.0,
+            "TFT13_Crime": 20.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Bruiser": 20.0
+        }
+    },
+    {
+        "puuid": "ALJ-ia0LUDCPVLQXxrb6sdzXeZE_VSiQOWTvS0yUelOLanZOGwwj_e1HyqULE9wYQfPIi-9ao5KO5Q",
+        "synergy_percentages": {
+            "TFT13_Crime": 100.0
+        }
+    },
+    {
+        "puuid": "fg3cFvFBm14_dgCd9Qbf4qeYF-46dcGnFIXpMpwwGBKI1w5ZJNqQB3DRRv4qi8RnYy6FWx-8P1AZ_A",
+        "synergy_percentages": {
+            "TFT13_Invoker": 75.0,
+            "TFT13_Titan": 25.0
+        }
+    },
+    {
+        "puuid": "Qb341CvePqke1rWyG_xEsQe9MzueqUC6SgP-r3InyoPnWk00ApFYt5KXqWhhouvG4-D8TgMOm9A_XA",
+        "synergy_percentages": {
+            "TFT13_Invoker": 10.0,
+            "TFT13_Experiment": 30.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Martialist": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_FormSwapper": 10.0
+        }
+    },
+    {
+        "puuid": "FsyAMIb0vk4z8iOZrYtl5sUJQO9Zjw9VtHn89lWLk9x_lwrzln7RyG6zHDAs-P-c3ZEvsexu6SucQQ",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 100.0
+        }
+    },
+    {
+        "puuid": "z5bxlTtKqa1KB9UPnL9xe9AhEl-y9-6RKSo2Xw3wchDJu-_x3eIJzz7yQ-ju1Dwq8sJm9ibqs6qVRw",
+        "synergy_percentages": {
+            "TFT13_Warband": 100.0
+        }
+    },
+    {
+        "puuid": "cYI9cSKOQNp94SCC5wpBifO1UDaacAW9VCoOUG_KbImPnOLWxQGrlNJoWBs846vdU7Qb3jIlZZQyXA",
+        "synergy_percentages": {
+            "TFT13_Infused": 14.285714285714285,
+            "TFT13_Cabal": 14.285714285714285,
+            "TFT13_Sorcerer": 14.285714285714285,
+            "TFT13_Warband": 14.285714285714285,
+            "TFT13_Sniper": 14.285714285714285,
+            "TFT13_FormSwapper": 14.285714285714285,
+            "TFT13_Titan": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "c81PyMS5bFx2nHHz2hPglWr98Qk2c8xKeWVXmaJ-YgkqaLfA7dG2N_uWVZJ3MquohEK7Yaf5LEyEEQ",
+        "synergy_percentages": {
+            "TFT13_Scrap": 28.57142857142857,
+            "TFT13_Family": 14.285714285714285,
+            "TFT13_Hextech": 14.285714285714285,
+            "TFT13_Ambusher": 14.285714285714285,
+            "TFT13_Warband": 14.285714285714285,
+            "TFT13_Rebel": 14.285714285714285
+        }
+    },
+    {
+        "puuid": "V5euT0bTLjJwPCdsojaddj3DHJrpECUHiqUbl8ZEi4n0GCUSvqy0qm59B5S-7n4jZM_iWVrJkzBalA",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Experiment": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Rebel": 20.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Bruiser": 10.0
+        }
+    },
+    {
+        "puuid": "zmkqo0JlyJVIqjSGtseZHQmMjAFcXDjynnUO7g19PxeqEodKik7_Azw1kFPMC_DwXE6YWAysgPqM3Q",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Pugilist": 40.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Challenger": 10.0
+        }
+    },
+    {
+        "puuid": "1OX13URtfn0fPD3MH6im4l7KV_oJMgEtfENwnsAD-vRqBVm_5lOXbG5tWahuGAvS9axwcHU55g4rVg",
+        "synergy_percentages": {
+            "TFT13_Martialist": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Rebel": 30.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Squad": 20.0,
+            "TFT13_Warband": 10.0
+        }
+    },
+    {
+        "puuid": "M8ELyCHFzYyZdm-wx8sA_F_PzgGdERqLFt7BDLwJJD5T5RDaJpzmIvVv6Y63jyyGDs9bSxEM-ppavg",
+        "synergy_percentages": {
+            "TFT13_Ambusher": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Hextech": 10.0,
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Watcher": 20.0,
+            "TFT13_Ambassador": 10.0,
+            "TFT13_Family": 10.0
+        }
+    },
+    {
+        "puuid": "6uHvNclht6GY_0bN1ZgZ7JgNQ51yDnx6k0IMBB_2-apreL2KIwntvgfl5TK_9zCuMZ4O0fNkMBXjpQ",
+        "synergy_percentages": {
+            "TFT13_Crime": 20.0,
+            "TFT13_Family": 10.0,
+            "TFT13_Pugilist": 10.0,
+            "TFT13_Cabal": 20.0,
+            "TFT13_Watcher": 10.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Academy": 10.0,
+            "TFT13_Hextech": 10.0
+        }
+    },
+    {
+        "puuid": "4pPppKLtshVzCXP99z1ZcHgcWsheOLMu8BD-pMQAdV0aYjjq1JLFzS_nyiqs4XXB3FNYd6ITr9-0hg",
+        "synergy_percentages": {
+            "TFT13_Cabal": 100.0
+        }
+    },
+    {
+        "puuid": "zio-R3FzviKmfLcp6qo-_xi6nZ1rl7ybh-_PWL95NueVfG9WR1e7c4wd50hr8z4wy1QJy7G_3hILvQ",
+        "synergy_percentages": {
+            "TFT13_Bruiser": 10.0,
+            "TFT13_Pugilist": 40.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Sniper": 10.0,
+            "TFT13_Squad": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Rebel": 10.0
+        }
+    },
+    {
+        "puuid": "7DEW-EOk6rFgxwQE4uHRzoH1lqKEVma7sxGDIfsFBwwma1c0sNWbLFAJ-w5-XBjS4aEvTyBmjiAKAA",
+        "synergy_percentages": {
+            "TFT13_Experiment": 16.666666666666664,
+            "TFT13_Watcher": 16.666666666666664,
+            "TFT13_Squad": 16.666666666666664,
+            "TFT13_Pugilist": 16.666666666666664,
+            "TFT13_Titan": 33.33333333333333
+        }
+    },
+    {
+        "puuid": "TgJ9BAIRZkruZ1Kty4QyYBVFyHA47n5-gHqLWvKf3YigflcL0FzTQaMheDaZY0NFyQ9wOIaG8lp7lQ",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 100.0
+        }
+    },
+    {
+        "puuid": "xyGtJeGyecvb_dsbK8mrHY-iunrgNhwPnIzlaJcAD-CpjKfwj9oTAlWQ2deqLKhR2FN5ZduBnTTnsA",
+        "synergy_percentages": {
+            "TFT13_Scrap": 50.0,
+            "TFT13_Squad": 50.0
+        }
+    },
+    {
+        "puuid": "m4o_hvlbkikjJHYAXcjPpYrIFLE5EmClZ180SP4i35-2IjvUTQm3DNwJubSXBoWOZk-cbD4AOXty-A",
+        "synergy_percentages": {
+            "TFT13_Pugilist": 20.0,
+            "TFT13_Warband": 10.0,
+            "TFT13_Bruiser": 20.0,
+            "TFT13_FormSwapper": 10.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Scrap": 10.0,
+            "TFT13_Cabal": 10.0
+        }
+    },
+    {
+        "puuid": "yZkmaNS8s9QmCwxrp-AOH8nMD5DczU13KqsMwQtzFrdCbo-2m9WujimMGNAKRHpvlcHPT46BEzvC1A",
+        "synergy_percentages": {
+            "TFT13_Watcher": 10.0,
+            "TFT13_Ambusher": 40.0,
+            "TFT13_Scrap": 20.0,
+            "TFT13_Invoker": 10.0,
+            "TFT13_Cabal": 10.0,
+            "TFT13_Pugilist": 10.0
+        }
+    },
+    {
+        "puuid": "d10sa0ux-EsFvL-7Y87KN7bYJk8Zkykyla7cFdGOABl6UuQ5kCwYz7B5A281mjA8tXyf2CjXAZESUw",
+        "synergy_percentages": {
+            "TFT13_Cabal": 80.0,
+            "TFT13_Invoker": 20.0
+        }
+    },
+    {
+        "puuid": "1eJgEJIbgVj4cbSpBkwKGB4U7YN77m_SvRm2s-lJOAauKdCajwcfHPbz7w7GanZcMR-LCSyEouhWgA",
+        "synergy_percentages": {
+            "TFT13_Rebel": 100.0
+        }
+    },
+    {
+        "puuid": "LppC1BIx02Xf4AcssUstaiMRmxqIsu9oCb090q15El7K--HGg0kWjMXXR0Cwefebun2nWocRgprdcA",
+        "synergy_percentages": {
+            "TFT13_Cabal": 40.0,
+            "TFT13_Crime": 10.0,
+            "TFT13_Ambusher": 20.0,
+            "TFT13_Rebel": 10.0,
+            "TFT13_Sorcerer": 10.0,
+            "TFT13_Ambassador": 10.0
+        }
+    },
+    {
+        "puuid": "Ail6gR1Pb9UEOqAaUmcofAfW8u9p2k_bU8p33X1uY12z5ZYNK16zHP1agUGcM0AzdOi2KulV7eOmKw",
+        "synergy_percentages": {
+            "TFT13_Experiment": 83.33333333333334,
+            "TFT13_Rebel": 16.666666666666664
+        }
+    },
+    {
+        "puuid": "jLNqFd5waeuQ1N6XYkSTnGyNyIaRKT_uMxp23zDC0LICZ6JdBl9OhQfN11ErmCeebd5Ibm6R_xXauw",
+        "synergy_percentages": {
+            "TFT13_Sorcerer": 14.285714285714285,
+            "TFT13_Titan": 42.857142857142854,
+            "TFT13_Challenger": 42.857142857142854
+        }
+    },
+    {
+        "puuid": "jP_kLwkA5gWo0wGYh1fZv7sBSp_VDjtFzuP9buM8tWCbxOXQIk-kNUvtLpZW61uNbzLY2BmCsOmdjA",
+        "synergy_percentages": {
+            "TFT13_Crime": 100.0
+        }
+    }
+]

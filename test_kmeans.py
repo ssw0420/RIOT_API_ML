@@ -8,11 +8,11 @@ import seaborn as sns
 from sklearn.decomposition import PCA
 
 
-# 챔피언 특성 데이터 로드
+# 1. 챔피언 특성 데이터 로드
 with open('updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
     champion_features = json.load(f)
 
-# 소환사별 상위 챔피언 ID 로드
+# 2. 소환사별 상위 챔피언 숙련도 데이터 로드
 with open('champion_mastery_top.json', 'r', encoding='utf-8') as f:
     top_champion_mastery_per_summoner = json.load(f)
 
@@ -25,9 +25,21 @@ champion_features_df.index = champion_features_df.index.astype(str)
 print("\n챔피언 특성 데이터프레임:")
 print(champion_features_df.head())
 
-
 # 소환사별 특성 데이터를 저장할 딕셔너리
 summoner_features = {}
+
+# 전체 숙련도 점수를 수집하여 StandardScaler에 사용
+all_mastery_scores_log = []
+
+for puuid, champion_mastery_list in top_champion_mastery_per_summoner.items():
+    for champ_info in champion_mastery_list:
+        mastery_score = float(champ_info['championPoints'])
+        mastery_score_log = np.log1p(mastery_score)
+        all_mastery_scores_log.append(mastery_score_log)
+
+# 전체 숙련도 점수 표준화
+scaler = StandardScaler()
+scaler.fit(np.array(all_mastery_scores_log).reshape(-1, 1))
 
 for puuid, champion_mastery_list in top_champion_mastery_per_summoner.items():
     champion_ids = []
@@ -40,12 +52,18 @@ for puuid, champion_mastery_list in top_champion_mastery_per_summoner.items():
     # 숙련도 점수 로그 변환
     mastery_scores_log = np.log1p(mastery_scores)
     
-    # 숙련도 점수 정규화
-    scaler = MinMaxScaler()
-    mastery_scores_normalized = scaler.fit_transform(np.array(mastery_scores_log).reshape(-1, 1)).flatten()
+    # 숙련도 점수 표준화 (전체 분포 기반)
+    mastery_scores_scaled = scaler.transform(np.array(mastery_scores_log).reshape(-1, 1)).flatten()
+    
+    # 음수를 0으로 변환 (ReLU 함수 적용)
+    mastery_scores_positive = np.maximum(mastery_scores_scaled, 0)
     
     # 가중치 계산 (합이 1이 되도록)
-    weights = mastery_scores_normalized / mastery_scores_normalized.sum()
+    if mastery_scores_positive.sum() == 0:
+        # 모든 값이 0인 경우 동일한 가중치 부여
+        weights = np.ones_like(mastery_scores_positive) / len(mastery_scores_positive)
+    else:
+        weights = mastery_scores_positive / mastery_scores_positive.sum()
     
     # 챔피언 특성 가져오기
     try:
@@ -91,7 +109,7 @@ plt.title('엘보우 방법을 사용한 최적의 k 찾기')
 plt.show()
 
 #########################################
-k_optimal = 5
+k_optimal = 1
 
 # K-Means 모델 학습
 kmeans = KMeans(n_clusters=k_optimal, random_state=42)
@@ -106,10 +124,10 @@ print(summoner_features_df[['cluster']].head())
 
 
 # 결과를 CSV 파일로 저장
-summoner_features_df.to_csv('weighted_summoner_clustering_results.csv')
+summoner_features_df.to_csv('new_kmeans_weighted_summoner_clustering_results.csv')
 
 # 또는 JSON 파일로 저장
-summoner_features_df.to_json('weighted_summoner_clustering_results.json', orient='index', indent=4)
+summoner_features_df.to_json('new_kmeans_weighted_summoner_clustering_results.json', orient='index', indent=4)
 
 print("\n클러스터링 결과를 저장")
 

@@ -73,70 +73,26 @@ scaler = StandardScaler()
 summoner_features_scaled = scaler.fit_transform(summoner_features_df[numeric_columns])
 summoner_features_scaled_df = pd.DataFrame(summoner_features_scaled, index=summoner_features_df.index, columns=numeric_columns)
 
-# K-평균 클러스터링 및 엘보우 방법 적용
-sse = []
-k_list = range(1, 20)
+# 1. 로그 변환된 숙련도 점수 확인
+print("\n원본 숙련도 점수:")
+print(mastery_scores)
+print("\n로그 변환된 숙련도 점수:")
+print(mastery_scores_log)
 
-for k in k_list:
-    kmeans = KMeans(n_clusters=k, n_init=10, random_state=42)
-    kmeans.fit(summoner_features_scaled_df)
-    sse.append(kmeans.inertia_)
+# 2. 정규화된 점수 확인
+print("\n정규화된 숙련도 점수:")
+print(mastery_scores_normalized)
 
-# 결과 시각화
-plt.figure(figsize=(8, 5))
-plt.plot(k_list, sse, marker='o')
-plt.xlabel('클러스터 수 (k)')
-plt.ylabel('SSE')
-plt.title('엘보우 방법을 사용한 최적의 k 찾기')
-plt.show()
+# 3. 가중치 합계 확인
+print("\n가중치 (합계는 1이어야 함):")
+print(weights)
+print("가중치 합계:", weights.sum())
 
-#########################################
-k_optimal = 5
+# 4. 가중치 적용 후 챔피언 특성 합산 확인
+print("\n가중치가 적용된 챔피언 특성 (weighted_features):")
+print(weighted_features)
 
-# K-Means 모델 학습
-kmeans = KMeans(n_clusters=k_optimal, random_state=42)
-kmeans.fit(summoner_features_scaled_df)
+# 5. 최종 소환사 특성 데이터프레임 확인
+print("\n소환사별 특성 데이터프레임:")
+print(summoner_features_df.head())
 
-# 클러스터 레이블 저장
-summoner_features_df['cluster'] = kmeans.labels_
-
-# 결과 확인
-print("\n클러스터 할당 결과:")
-print(summoner_features_df[['cluster']].head())
-
-
-# 결과를 CSV 파일로 저장
-summoner_features_df.to_csv('weighted_summoner_clustering_results.csv')
-
-# 또는 JSON 파일로 저장
-summoner_features_df.to_json('weighted_summoner_clustering_results.json', orient='index', indent=4)
-
-print("\n클러스터링 결과를 저장")
-
-
-# 클러스터별 평균 특성 계산
-cluster_centers = summoner_features_df.groupby('cluster').mean()
-
-print("\n클러스터별 평균 특성:")
-print(cluster_centers)
-
-
-# PCA로 3차원으로 축소
-pca = PCA(n_components=3)
-principal_components = pca.fit_transform(summoner_features_scaled_df)
-
-# 결과를 데이터프레임으로 생성
-pca_df = pd.DataFrame(data=principal_components, columns=['PC1', 'PC2', 'PC3'], index=summoner_features_df.index)
-pca_df['cluster'] = summoner_features_df['cluster']
-
-fig = plt.figure(figsize=(10, 7))
-ax = fig.add_subplot(111, projection='3d')
-
-scatter = ax.scatter(pca_df['PC1'], pca_df['PC2'], pca_df['PC3'], c=pca_df['cluster'], cmap='Set2')
-ax.set_title('PCA 3D')
-ax.set_xlabel('PC1')
-ax.set_ylabel('PC2')
-ax.set_zlabel('PC3')
-
-plt.legend(*scatter.legend_elements(), title="cluster")
-plt.show()

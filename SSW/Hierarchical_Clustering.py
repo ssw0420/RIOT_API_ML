@@ -9,11 +9,11 @@ from scipy.cluster.hierarchy import fcluster
 from sklearn.manifold import TSNE
 
 # 챔피언 특성 데이터 로드
-with open('updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
+with open('SSW/updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
     champion_features = json.load(f)
 
 # 플레이어별 가중치 데이터 로드
-with open('scale_summoner_weights.json', 'r', encoding='utf-8') as f:
+with open('SSW/scale_summoner_weights.json', 'r', encoding='utf-8') as f:
     summoner_weights = json.load(f)
 
 # 챔피언 특성 데이터프레임 생성
@@ -23,6 +23,9 @@ champion_features_df.index = champion_features_df.index.astype(str)
 
 # 소환사별 특성 벡터 생성
 summoner_features = {}
+
+summoner_champion_features = {}  # 소환사별 챔피언 특성 저장 딕셔너리
+
 
 for puuid, weights_info in summoner_weights.items():
     champion_ids = weights_info['championIds']
@@ -41,6 +44,13 @@ for puuid, weights_info in summoner_weights.items():
     
     # 소환사별 특성 저장
     summoner_features[puuid] = summoner_feature_vector
+
+    summoner_champion_features[puuid] = {}
+    for idx, cid in enumerate(champion_ids):
+        w = weights[idx]
+        features = champ_features.loc[cid]
+        weighted_feature = features * w
+        summoner_champion_features[puuid][cid] = weighted_feature.to_dict()
 
 # 소환사 특성 데이터프레임 생성
 summoner_features_df = pd.DataFrame.from_dict(summoner_features, orient='index')
@@ -64,7 +74,7 @@ plt.xlabel('Player')
 plt.ylabel('Linkage')
 plt.show()
 
-# 덴드로그램 그릴 시 트렁케이션 기법 사용하여 표시 가능
+# 덴드로그램 그릴 시 truncation 기법 사용하여 표시 가능
 # plt.figure(figsize=(10, 7))
 # dendrogram(linked, truncate_mode='level', p=5)
 # plt.title('Dendrogram (Truncated)')
@@ -83,7 +93,7 @@ summoner_features_df['cluster'] = cluster_labels
 summoner_cluster_results = summoner_features_df['cluster'].to_dict()
 
 # JSON 파일로 저장
-with open('hierarchical_summoner_cluster_results.json', 'w', encoding='utf-8') as f:
+with open('SSW/Hierarchical/hierarchical_summoner_cluster_results.json', 'w', encoding='utf-8') as f:
     json.dump(summoner_cluster_results, f, ensure_ascii=False, indent=4)
 
 # 클러스터별 평균 특성을 JSON 파일로 저장
@@ -94,8 +104,11 @@ cluster_centers = summoner_features_df.groupby('cluster').mean()
 cluster_centers_dict = cluster_centers.to_dict(orient='index')
 
 # JSON 파일로 저장
-with open('hierarchical_cluster_centers.json', 'w', encoding='utf-8') as f:
+with open('SSW/Hierarchical/hierarchical_cluster_centers.json', 'w', encoding='utf-8') as f:
     json.dump(cluster_centers_dict, f, ensure_ascii=False, indent=4)
+
+with open('SSW/Hierarchical/hierarchical_summoner_champion_weighted_features.json', 'w', encoding='utf-8') as f:
+    json.dump(summoner_champion_features, f, ensure_ascii=False, indent=4)
 
 
 # 클러스터별 플레이어 수 확인
@@ -104,12 +117,12 @@ print("\n클러스터별 플레이어 수:")
 print(cluster_counts)
 
 # 결과 저장
-summoner_features_df.to_csv('hierarchical_summoner_cluster_results.csv')
-cluster_centers.to_csv('hierarchical_cluster_centers.csv')
+summoner_features_df.to_csv('SSW/Hierarchical/hierarchical_summoner_cluster_results.csv')
+cluster_centers.to_csv('SSW/Hierarchical/hierarchical_cluster_centers.csv')
 
 
 # t-SNE를 사용하여 데이터 시각화
-tsne = TSNE(n_components=2, random_state=42)
+tsne = TSNE(n_components=2, perplexity=30, n_iter=1000, random_state=42)
 summoner_features_2d = tsne.fit_transform(summoner_features_scaled)
 
 # 시각화
@@ -120,8 +133,6 @@ plt.xlabel('Dimension 1')
 plt.ylabel('Dimension 2')
 plt.colorbar(label='cluster')
 plt.show()
-
-
 
 
 ###### 군집화 시에 클러스터 수를 지정할 수 있음 (서비스 측면에서 고려)

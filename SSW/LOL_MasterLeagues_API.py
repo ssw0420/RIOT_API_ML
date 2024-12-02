@@ -24,7 +24,9 @@ lol_masterleagues_url = f"https://kr.api.riotgames.com/lol/league/v4/masterleagu
 
 lol_masterleagues_json = requests.get(lol_masterleagues_url, headers=REQUEST_HEADERS).json()
 
-print(lol_masterleagues_json)
+print("API 호출 완료")
 
 with open('masterleagues.json', 'w') as f:
     json.dump(lol_masterleagues_json, f, indent=4)
+
+print("json 파일 작성 완료")

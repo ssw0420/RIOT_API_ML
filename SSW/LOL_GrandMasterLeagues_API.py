@@ -24,7 +24,9 @@ lol_grandmasterleagues_url = f"https://kr.api.riotgames.com/lol/league/v4/grandm
 
 lol_grandmasterleagues_json = requests.get(lol_grandmasterleagues_url, headers=REQUEST_HEADERS).json()
 
-print(lol_grandmasterleagues_json)
+print("API 호출 완료")
 
 with open('grandmasterleagues.json', 'w') as f:
     json.dump(lol_grandmasterleagues_json, f, indent=4)
+
+print("json 파일 작성 완료")

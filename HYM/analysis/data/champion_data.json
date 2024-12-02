@@ -1,0 +1,674 @@
+[
+    {
+        "championId": 266,
+        "championName": "아트록스"
+    },
+    {
+        "championId": 103,
+        "championName": "아리"
+    },
+    {
+        "championId": 84,
+        "championName": "아칼리"
+    },
+    {
+        "championId": 166,
+        "championName": "아크샨"
+    },
+    {
+        "championId": 12,
+        "championName": "알리스타"
+    },
+    {
+        "championId": 32,
+        "championName": "아무무"
+    },
+    {
+        "championId": 34,
+        "championName": "애니비아"
+    },
+    {
+        "championId": 1,
+        "championName": "애니"
+    },
+    {
+        "championId": 523,
+        "championName": "아펠리오스"
+    },
+    {
+        "championId": 22,
+        "championName": "애쉬"
+    },
+    {
+        "championId": 136,
+        "championName": "아우렐리온 솔"
+    },
+    {
+        "championId": 893,
+        "championName": "오로라"
+    },
+    {
+        "championId": 268,
+        "championName": "아지르"
+    },
+    {
+        "championId": 432,
+        "championName": "바드"
+    },
+    {
+        "championId": 200,
+        "championName": "벨베스"
+    },
+    {
+        "championId": 53,
+        "championName": "블리츠크랭크"
+    },
+    {
+        "championId": 63,
+        "championName": "브랜드"
+    },
+    {
+        "championId": 201,
+        "championName": "브라움"
+    },
+    {
+        "championId": 233,
+        "championName": "브라이어"
+    },
+    {
+        "championId": 51,
+        "championName": "케이틀린"
+    },
+    {
+        "championId": 164,
+        "championName": "카밀"
+    },
+    {
+        "championId": 69,
+        "championName": "카시오페아"
+    },
+    {
+        "championId": 31,
+        "championName": "초가스"
+    },
+    {
+        "championId": 42,
+        "championName": "코르키"
+    },
+    {
+        "championId": 122,
+        "championName": "다리우스"
+    },
+    {
+        "championId": 131,
+        "championName": "다이애나"
+    },
+    {
+        "championId": 119,
+        "championName": "드레이븐"
+    },
+    {
+        "championId": 36,
+        "championName": "문도 박사"
+    },
+    {
+        "championId": 245,
+        "championName": "에코"
+    },
+    {
+        "championId": 60,
+        "championName": "엘리스"
+    },
+    {
+        "championId": 28,
+        "championName": "이블린"
+    },
+    {
+        "championId": 81,
+        "championName": "이즈리얼"
+    },
+    {
+        "championId": 9,
+        "championName": "피들스틱"
+    },
+    {
+        "championId": 114,
+        "championName": "피오라"
+    },
+    {
+        "championId": 105,
+        "championName": "피즈"
+    },
+    {
+        "championId": 3,
+        "championName": "갈리오"
+    },
+    {
+        "championId": 41,
+        "championName": "갱플랭크"
+    },
+    {
+        "championId": 86,
+        "championName": "가렌"
+    },
+    {
+        "championId": 150,
+        "championName": "나르"
+    },
+    {
+        "championId": 79,
+        "championName": "그라가스"
+    },
+    {
+        "championId": 104,
+        "championName": "그레이브즈"
+    },
+    {
+        "championId": 887,
+        "championName": "그웬"
+    },
+    {
+        "championId": 120,
+        "championName": "헤카림"
+    },
+    {
+        "championId": 74,
+        "championName": "하이머딩거"
+    },
+    {
+        "championId": 910,
+        "championName": "흐웨이"
+    },
+    {
+        "championId": 420,
+        "championName": "일라오이"
+    },
+    {
+        "championId": 39,
+        "championName": "이렐리아"
+    },
+    {
+        "championId": 427,
+        "championName": "아이번"
+    },
+    {
+        "championId": 40,
+        "championName": "잔나"
+    },
+    {
+        "championId": 59,
+        "championName": "자르반 4세"
+    },
+    {
+        "championId": 24,
+        "championName": "잭스"
+    },
+    {
+        "championId": 126,
+        "championName": "제이스"
+    },
+    {
+        "championId": 202,
+        "championName": "진"
+    },
+    {
+        "championId": 222,
+        "championName": "징크스"
+    },
+    {
+        "championId": 145,
+        "championName": "카이사"
+    },
+    {
+        "championId": 429,
+        "championName": "칼리스타"
+    },
+    {
+        "championId": 43,
+        "championName": "카르마"
+    },
+    {
+        "championId": 30,
+        "championName": "카서스"
+    },
+    {
+        "championId": 38,
+        "championName": "카사딘"
+    },
+    {
+        "championId": 55,
+        "championName": "카타리나"
+    },
+    {
+        "championId": 10,
+        "championName": "케일"
+    },
+    {
+        "championId": 141,
+        "championName": "케인"
+    },
+    {
+        "championId": 85,
+        "championName": "케넨"
+    },
+    {
+        "championId": 121,
+        "championName": "카직스"
+    },
+    {
+        "championId": 203,
+        "championName": "킨드레드"
+    },
+    {
+        "championId": 240,
+        "championName": "클레드"
+    },
+    {
+        "championId": 96,
+        "championName": "코그모"
+    },
+    {
+        "championId": 897,
+        "championName": "크산테"
+    },
+    {
+        "championId": 7,
+        "championName": "르블랑"
+    },
+    {
+        "championId": 64,
+        "championName": "리 신"
+    },
+    {
+        "championId": 89,
+        "championName": "레오나"
+    },
+    {
+        "championId": 876,
+        "championName": "릴리아"
+    },
+    {
+        "championId": 127,
+        "championName": "리산드라"
+    },
+    {
+        "championId": 236,
+        "championName": "루시안"
+    },
+    {
+        "championId": 117,
+        "championName": "룰루"
+    },
+    {
+        "championId": 99,
+        "championName": "럭스"
+    },
+    {
+        "championId": 54,
+        "championName": "말파이트"
+    },
+    {
+        "championId": 90,
+        "championName": "말자하"
+    },
+    {
+        "championId": 57,
+        "championName": "마오카이"
+    },
+    {
+        "championId": 11,
+        "championName": "마스터 이"
+    },
+    {
+        "championId": 902,
+        "championName": "밀리오"
+    },
+    {
+        "championId": 21,
+        "championName": "미스 포츈"
+    },
+    {
+        "championId": 62,
+        "championName": "오공"
+    },
+    {
+        "championId": 82,
+        "championName": "모데카이저"
+    },
+    {
+        "championId": 25,
+        "championName": "모르가나"
+    },
+    {
+        "championId": 950,
+        "championName": "나피리"
+    },
+    {
+        "championId": 267,
+        "championName": "나미"
+    },
+    {
+        "championId": 75,
+        "championName": "나서스"
+    },
+    {
+        "championId": 111,
+        "championName": "노틸러스"
+    },
+    {
+        "championId": 518,
+        "championName": "니코"
+    },
+    {
+        "championId": 76,
+        "championName": "니달리"
+    },
+    {
+        "championId": 895,
+        "championName": "닐라"
+    },
+    {
+        "championId": 56,
+        "championName": "녹턴"
+    },
+    {
+        "championId": 20,
+        "championName": "누누와 윌럼프"
+    },
+    {
+        "championId": 2,
+        "championName": "올라프"
+    },
+    {
+        "championId": 61,
+        "championName": "오리아나"
+    },
+    {
+        "championId": 516,
+        "championName": "오른"
+    },
+    {
+        "championId": 80,
+        "championName": "판테온"
+    },
+    {
+        "championId": 78,
+        "championName": "뽀삐"
+    },
+    {
+        "championId": 555,
+        "championName": "파이크"
+    },
+    {
+        "championId": 246,
+        "championName": "키아나"
+    },
+    {
+        "championId": 133,
+        "championName": "퀸"
+    },
+    {
+        "championId": 497,
+        "championName": "라칸"
+    },
+    {
+        "championId": 33,
+        "championName": "람머스"
+    },
+    {
+        "championId": 421,
+        "championName": "렉사이"
+    },
+    {
+        "championId": 526,
+        "championName": "렐"
+    },
+    {
+        "championId": 888,
+        "championName": "레나타 글라스크"
+    },
+    {
+        "championId": 58,
+        "championName": "레넥톤"
+    },
+    {
+        "championId": 107,
+        "championName": "렝가"
+    },
+    {
+        "championId": 92,
+        "championName": "리븐"
+    },
+    {
+        "championId": 68,
+        "championName": "럼블"
+    },
+    {
+        "championId": 13,
+        "championName": "라이즈"
+    },
+    {
+        "championId": 360,
+        "championName": "사미라"
+    },
+    {
+        "championId": 113,
+        "championName": "세주아니"
+    },
+    {
+        "championId": 235,
+        "championName": "세나"
+    },
+    {
+        "championId": 147,
+        "championName": "세라핀"
+    },
+    {
+        "championId": 875,
+        "championName": "세트"
+    },
+    {
+        "championId": 35,
+        "championName": "샤코"
+    },
+    {
+        "championId": 98,
+        "championName": "쉔"
+    },
+    {
+        "championId": 102,
+        "championName": "쉬바나"
+    },
+    {
+        "championId": 27,
+        "championName": "신지드"
+    },
+    {
+        "championId": 14,
+        "championName": "사이온"
+    },
+    {
+        "championId": 15,
+        "championName": "시비르"
+    },
+    {
+        "championId": 72,
+        "championName": "스카너"
+    },
+    {
+        "championId": 901,
+        "championName": "스몰더"
+    },
+    {
+        "championId": 37,
+        "championName": "소나"
+    },
+    {
+        "championId": 16,
+        "championName": "소라카"
+    },
+    {
+        "championId": 50,
+        "championName": "스웨인"
+    },
+    {
+        "championId": 517,
+        "championName": "사일러스"
+    },
+    {
+        "championId": 134,
+        "championName": "신드라"
+    },
+    {
+        "championId": 223,
+        "championName": "탐 켄치"
+    },
+    {
+        "championId": 163,
+        "championName": "탈리야"
+    },
+    {
+        "championId": 91,
+        "championName": "탈론"
+    },
+    {
+        "championId": 44,
+        "championName": "타릭"
+    },
+    {
+        "championId": 17,
+        "championName": "티모"
+    },
+    {
+        "championId": 412,
+        "championName": "쓰레쉬"
+    },
+    {
+        "championId": 18,
+        "championName": "트리스타나"
+    },
+    {
+        "championId": 48,
+        "championName": "트런들"
+    },
+    {
+        "championId": 23,
+        "championName": "트린다미어"
+    },
+    {
+        "championId": 4,
+        "championName": "트위스티드 페이트"
+    },
+    {
+        "championId": 29,
+        "championName": "트위치"
+    },
+    {
+        "championId": 77,
+        "championName": "우디르"
+    },
+    {
+        "championId": 6,
+        "championName": "우르곳"
+    },
+    {
+        "championId": 110,
+        "championName": "바루스"
+    },
+    {
+        "championId": 67,
+        "championName": "베인"
+    },
+    {
+        "championId": 45,
+        "championName": "베이가"
+    },
+    {
+        "championId": 161,
+        "championName": "벨코즈"
+    },
+    {
+        "championId": 711,
+        "championName": "벡스"
+    },
+    {
+        "championId": 254,
+        "championName": "바이"
+    },
+    {
+        "championId": 234,
+        "championName": "비에고"
+    },
+    {
+        "championId": 112,
+        "championName": "빅토르"
+    },
+    {
+        "championId": 8,
+        "championName": "블라디미르"
+    },
+    {
+        "championId": 106,
+        "championName": "볼리베어"
+    },
+    {
+        "championId": 19,
+        "championName": "워윅"
+    },
+    {
+        "championId": 498,
+        "championName": "자야"
+    },
+    {
+        "championId": 101,
+        "championName": "제라스"
+    },
+    {
+        "championId": 5,
+        "championName": "신 짜오"
+    },
+    {
+        "championId": 157,
+        "championName": "야스오"
+    },
+    {
+        "championId": 777,
+        "championName": "요네"
+    },
+    {
+        "championId": 83,
+        "championName": "요릭"
+    },
+    {
+        "championId": 350,
+        "championName": "유미"
+    },
+    {
+        "championId": 154,
+        "championName": "자크"
+    },
+    {
+        "championId": 238,
+        "championName": "제드"
+    },
+    {
+        "championId": 221,
+        "championName": "제리"
+    },
+    {
+        "championId": 115,
+        "championName": "직스"
+    },
+    {
+        "championId": 26,
+        "championName": "질리언"
+    },
+    {
+        "championId": 142,
+        "championName": "조이"
+    },
+    {
+        "championId": 143,
+        "championName": "자이라"
+    }
+]

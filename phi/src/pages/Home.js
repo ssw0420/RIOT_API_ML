@@ -36,7 +36,8 @@ const Home = () => {
                   className="input-field"
                 /> */}
                 <input type="text" id="nicknameTag" name="nicknameTag" required />
-                <button className="button">결과 보기</button>
+                {/* <button type="submit">저장</button> */}
+                <button type="submit">저장</button>
               </div>
             )}
             <div

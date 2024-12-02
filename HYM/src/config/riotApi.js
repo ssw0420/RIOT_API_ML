@@ -8,7 +8,7 @@ const RIOT_API_HEADERS = {
   "Accept-Language": "ko-KR,ko;q=0.9,en-GB;q=0.8,en-US;q=0.7,en;q=0.6",
   "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
   Origin: "https://developer.riotgames.com",
-  "X-Riot-Token": API_KEY,
+  "X-Riot-Token": "RGAPI-52826077-3bd5-45ba-8804-200d86fe8235",
 };
 
 // Riot API를 사용하여 PUUID 추출 함수

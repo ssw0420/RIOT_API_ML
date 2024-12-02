@@ -30,7 +30,7 @@ router.post("/saveUser", async (req, res) => {
       // 기존 데이터 업데이트
       existingUser.name = name;
       existingUser.puuid = puuid;
-      existingUser.topChampions = topChampions; // championId만 저장
+      existingUser.topChampions = topChampions; // championId와 championPoints 저장
       await existingUser.save();
 
       return res.status(200).json({
@@ -45,7 +45,7 @@ router.post("/saveUser", async (req, res) => {
       nickname,
       tag,
       puuid,
-      topChampions, // championId만 저장
+      topChampions, // championId와 championPoints 저장
     });
     const savedUser = await newUser.save();
 

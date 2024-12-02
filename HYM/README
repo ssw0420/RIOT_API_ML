@@ -1,0 +1,18 @@
+puuid_list.json = LOL 그랜드마스터 이상 플레이어의 puuid
+tft_played_results.json = LOL 그랜드마스터 이상 플레이어 중 TFT를 한 번이라도 플레이 한 사람
+top_synergies_results.json = TFT 시즌 상관 없이 게임 플레이 한 판 당 주로 사용 한 시너지, 매치 id, 시즌, 주로 사용하는 시너지 활성화 유닛 수
+filtered_synergies_results.json = TFT 13세트 시즌 플레이 한 판 당 주로 사용 한 시너지
+ko_kr.json = 시너지, 챔피언, 아이템 한글 적용을 위해 필요한 파일
+most_common_synergies.json = 플레이어의 13세트 시즌 중 가장 많이 사용 한 시너지
+puuid_synergy_counts.json = TFT 13세트 시즌 중 최근 플레이 10판 중 주로 사용한 시너지(절대값)
+puuid_synergy_percentages.json = TFT 13세트 시즌 중 최근 플레이 10판 중 주로 사용한 시너지(백분률)
+champion_data.json = 챔피언 Id의 챔피언 명
+
+
+public/	= 정적 파일(HTML, CSS, JS) 제공
+config/db.js = MongoDB 연결 설정
+config/riotApi.js = Riot API 호출 및 데이터 추출
+models/UserInfo.js = MongoDB의 사용자 정보 데이터 모델
+routes/userRoutes.js = 사용자 라우트를 정의하고 데이터 처리
+app.js = Express 앱 설정 (미들웨어, 정적 파일, 라우트 등록 등)
+server.js = 데이터베이스 연결 및 서버 실행

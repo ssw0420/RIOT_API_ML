@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Info</title>
+  </head>
+  <body>
+    <h1>사용자 정보 입력</h1>
+    <form id="userForm">
+      <label for="name">이름:</label>
+      <input type="text" id="name" name="name" required />
+      <br />
+
+      <label for="nicknameTag">닉네임#태그:</label>
+      <input type="text" id="nicknameTag" name="nicknameTag" required />
+      <br />
+
+      <button type="submit">저장</button>
+    </form>
+
+    <button onclick="location.href='/puuid'">PUUID 검색 페이지로 이동</button>
+
+    <script>
+      document.getElementById("userForm").addEventListener("submit", async (event) => {
+        event.preventDefault();
+
+        const name = document.getElementById("name").value;
+        const nicknameTag = document.getElementById("nicknameTag").value;
+
+        const response = await fetch("/api/saveUser", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ name, nicknameTag }),
+        });
+
+        const result = await response.json();
+        alert(result.message || "저장 완료!");
+      });
+    </script>
+  </body>
+</html>

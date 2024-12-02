@@ -14,7 +14,7 @@ app.use("/api", userRoutes);
 
 // 기본 경로 설정 (메인 화면)
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "../public/user_info_test.html"));
+  res.sendFile(path.join(__dirname, "..phi/src/pages/Home.js"));
 });
 
 app.get("/puuid", (req, res) => {

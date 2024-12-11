@@ -1,6 +1,7 @@
 const express = require("express");
 const UserInfo = require("../models/UserInfo");
 const { fetchPUUID, fetchTopChampions } = require("../config/riotApi");
+const axios = require("axios");
 
 const router = express.Router();
 
@@ -32,30 +33,41 @@ router.post("/saveUser", async (req, res) => {
       existingUser.puuid = puuid;
       existingUser.topChampions = topChampions; // championId와 championPoints 저장
       await existingUser.save();
-
-      return res.status(200).json({
-        message: "기존 사용자 정보가 업데이트되었습니다.",
-        user: existingUser,
+      console.log("MongoDB에서 사용자 데이터 업데이트 완료");
+    } else {
+      // 새 데이터 저장
+      const newUser = new UserInfo({
+        name,
+        nickname,
+        tag,
+        puuid,
+        topChampions, // championId와 championPoints 저장
       });
+      await newUser.save();
+      console.log("MongoDB에 사용자 데이터 저장 완료");
     }
 
-    // 새 데이터 저장
-    const newUser = new UserInfo({
+    // Python 서버로 데이터 전송
+    console.log("Python 서버로 데이터 전송 중...");
+    const pythonResponse = await axios.post("http://localhost:5000/process-data", {
       name,
       nickname,
       tag,
       puuid,
-      topChampions, // championId와 championPoints 저장
+      topChampions,
     });
-    const savedUser = await newUser.save();
 
-    res.status(201).json({
-      message: "사용자 정보와 최고 숙련도 챔피언 데이터가 저장되었습니다.",
-      user: savedUser,
+    console.log("Python 서버 응답:", pythonResponse.data);
+
+    // 클라이언트로 결과 반환
+    res.json({
+      status: "success",
+      message: "사용자 정보 저장 및 Python 처리 완료",
+      pythonResult: pythonResponse.data,
     });
   } catch (err) {
-    console.error("사용자 저장 중 오류 발생:", err.message);
-    res.status(500).json({ message: "서버 오류 발생." });
+    console.error("오류 발생:", err.message);
+    res.status(500).json({ message: "서버 오류 발생.", error: err.message });
   }
 });
 

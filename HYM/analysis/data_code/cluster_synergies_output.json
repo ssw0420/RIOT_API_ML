@@ -1,0 +1,494 @@
+{
+    "5": {
+        "synergy_statistics": {
+            "TFT13_Cabal": {
+                "count": 6,
+                "percentage": 11.320754716981133
+            },
+            "TFT13_Pugilist": {
+                "count": 6,
+                "percentage": 11.320754716981133
+            },
+            "TFT13_Scrap": {
+                "count": 5,
+                "percentage": 9.433962264150944
+            },
+            "TFT13_Ambusher": {
+                "count": 4,
+                "percentage": 7.547169811320755
+            },
+            "TFT13_Squad": {
+                "count": 4,
+                "percentage": 7.547169811320755
+            },
+            "TFT13_Rebel": {
+                "count": 3,
+                "percentage": 5.660377358490567
+            },
+            "TFT13_Titan": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Crime": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Warband": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_FormSwapper": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Infused": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Watcher": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Hextech": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Sorcerer": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Bruiser": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Sniper": {
+                "count": 2,
+                "percentage": 3.7735849056603774
+            },
+            "TFT13_Invoker": {
+                "count": 1,
+                "percentage": 1.8867924528301887
+            },
+            "TFT13_Ambassador": {
+                "count": 1,
+                "percentage": 1.8867924528301887
+            },
+            "TFT13_Academy": {
+                "count": 1,
+                "percentage": 1.8867924528301887
+            },
+            "TFT13_Hoverboard": {
+                "count": 1,
+                "percentage": 1.8867924528301887
+            },
+            "TFT13_Experiment": {
+                "count": 1,
+                "percentage": 1.8867924528301887
+            }
+        },
+        "most_common_synergy": "TFT13_Cabal",
+        "most_common_count": 6
+    },
+    "6": {
+        "synergy_statistics": {
+            "TFT13_Watcher": {
+                "count": 11,
+                "percentage": 14.285714285714285
+            },
+            "TFT13_Warband": {
+                "count": 10,
+                "percentage": 12.987012987012985
+            },
+            "TFT13_Scrap": {
+                "count": 9,
+                "percentage": 11.688311688311687
+            },
+            "TFT13_Cabal": {
+                "count": 8,
+                "percentage": 10.38961038961039
+            },
+            "TFT13_Titan": {
+                "count": 6,
+                "percentage": 7.792207792207792
+            },
+            "TFT13_Squad": {
+                "count": 5,
+                "percentage": 6.493506493506493
+            },
+            "TFT13_Crime": {
+                "count": 5,
+                "percentage": 6.493506493506493
+            },
+            "TFT13_Rebel": {
+                "count": 4,
+                "percentage": 5.194805194805195
+            },
+            "TFT13_Pugilist": {
+                "count": 4,
+                "percentage": 5.194805194805195
+            },
+            "TFT13_Bruiser": {
+                "count": 3,
+                "percentage": 3.896103896103896
+            },
+            "TFT13_Ambassador": {
+                "count": 2,
+                "percentage": 2.5974025974025974
+            },
+            "TFT13_Invoker": {
+                "count": 2,
+                "percentage": 2.5974025974025974
+            },
+            "TFT13_Hextech": {
+                "count": 2,
+                "percentage": 2.5974025974025974
+            },
+            "TFT13_Ambusher": {
+                "count": 2,
+                "percentage": 2.5974025974025974
+            },
+            "TFT13_Family": {
+                "count": 1,
+                "percentage": 1.2987012987012987
+            },
+            "TFT13_Experiment": {
+                "count": 1,
+                "percentage": 1.2987012987012987
+            },
+            "TFT13_Sorcerer": {
+                "count": 1,
+                "percentage": 1.2987012987012987
+            },
+            "TFT13_Challenger": {
+                "count": 1,
+                "percentage": 1.2987012987012987
+            }
+        },
+        "most_common_synergy": "TFT13_Watcher",
+        "most_common_count": 11
+    },
+    "2": {
+        "synergy_statistics": {
+            "TFT13_Cabal": {
+                "count": 12,
+                "percentage": 21.052631578947366
+            },
+            "TFT13_Warband": {
+                "count": 6,
+                "percentage": 10.526315789473683
+            },
+            "TFT13_Watcher": {
+                "count": 5,
+                "percentage": 8.771929824561402
+            },
+            "TFT13_Titan": {
+                "count": 5,
+                "percentage": 8.771929824561402
+            },
+            "TFT13_Bruiser": {
+                "count": 4,
+                "percentage": 7.017543859649122
+            },
+            "TFT13_Rebel": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Squad": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Pugilist": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Experiment": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Ambusher": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Invoker": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Crime": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Hoverboard": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_FormSwapper": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Scrap": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Sorcerer": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Ambassador": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Sniper": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Family": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Challenger": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            }
+        },
+        "most_common_synergy": "TFT13_Cabal",
+        "most_common_count": 12
+    },
+    "1": {
+        "synergy_statistics": {
+            "TFT13_Scrap": {
+                "count": 9,
+                "percentage": 11.538461538461538
+            },
+            "TFT13_Pugilist": {
+                "count": 9,
+                "percentage": 11.538461538461538
+            },
+            "TFT13_Watcher": {
+                "count": 8,
+                "percentage": 10.256410256410255
+            },
+            "TFT13_Warband": {
+                "count": 7,
+                "percentage": 8.974358974358974
+            },
+            "TFT13_Cabal": {
+                "count": 7,
+                "percentage": 8.974358974358974
+            },
+            "TFT13_Crime": {
+                "count": 6,
+                "percentage": 7.6923076923076925
+            },
+            "TFT13_Rebel": {
+                "count": 6,
+                "percentage": 7.6923076923076925
+            },
+            "TFT13_Titan": {
+                "count": 5,
+                "percentage": 6.41025641025641
+            },
+            "TFT13_Ambusher": {
+                "count": 4,
+                "percentage": 5.128205128205128
+            },
+            "TFT13_Squad": {
+                "count": 4,
+                "percentage": 5.128205128205128
+            },
+            "TFT13_Bruiser": {
+                "count": 3,
+                "percentage": 3.8461538461538463
+            },
+            "TFT13_Family": {
+                "count": 2,
+                "percentage": 2.564102564102564
+            },
+            "TFT13_Sorcerer": {
+                "count": 2,
+                "percentage": 2.564102564102564
+            },
+            "TFT13_Hextech": {
+                "count": 2,
+                "percentage": 2.564102564102564
+            },
+            "TFT13_Challenger": {
+                "count": 1,
+                "percentage": 1.282051282051282
+            },
+            "TFT13_Ambassador": {
+                "count": 1,
+                "percentage": 1.282051282051282
+            },
+            "TFT13_Experiment": {
+                "count": 1,
+                "percentage": 1.282051282051282
+            },
+            "TFT13_Academy": {
+                "count": 1,
+                "percentage": 1.282051282051282
+            }
+        },
+        "most_common_synergy": "TFT13_Scrap",
+        "most_common_count": 9
+    },
+    "3": {
+        "synergy_statistics": {
+            "TFT13_Rebel": {
+                "count": 7,
+                "percentage": 12.280701754385964
+            },
+            "TFT13_Watcher": {
+                "count": 6,
+                "percentage": 10.526315789473683
+            },
+            "TFT13_Sorcerer": {
+                "count": 6,
+                "percentage": 10.526315789473683
+            },
+            "TFT13_Cabal": {
+                "count": 5,
+                "percentage": 8.771929824561402
+            },
+            "TFT13_Ambassador": {
+                "count": 4,
+                "percentage": 7.017543859649122
+            },
+            "TFT13_Pugilist": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Invoker": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Crime": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Squad": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Warband": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Scrap": {
+                "count": 3,
+                "percentage": 5.263157894736842
+            },
+            "TFT13_Family": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Bruiser": {
+                "count": 2,
+                "percentage": 3.508771929824561
+            },
+            "TFT13_Titan": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Challenger": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Experiment": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Hoverboard": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Academy": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Infused": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            },
+            "TFT13_Ambusher": {
+                "count": 1,
+                "percentage": 1.7543859649122806
+            }
+        },
+        "most_common_synergy": "TFT13_Rebel",
+        "most_common_count": 7
+    },
+    "4": {
+        "synergy_statistics": {
+            "TFT13_Watcher": {
+                "count": 6,
+                "percentage": 13.043478260869565
+            },
+            "TFT13_Rebel": {
+                "count": 5,
+                "percentage": 10.869565217391305
+            },
+            "TFT13_Cabal": {
+                "count": 4,
+                "percentage": 8.695652173913043
+            },
+            "TFT13_Ambusher": {
+                "count": 4,
+                "percentage": 8.695652173913043
+            },
+            "TFT13_Scrap": {
+                "count": 3,
+                "percentage": 6.521739130434782
+            },
+            "TFT13_Squad": {
+                "count": 3,
+                "percentage": 6.521739130434782
+            },
+            "TFT13_Warband": {
+                "count": 3,
+                "percentage": 6.521739130434782
+            },
+            "TFT13_Challenger": {
+                "count": 3,
+                "percentage": 6.521739130434782
+            },
+            "TFT13_Crime": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Experiment": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Titan": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Bruiser": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Sorcerer": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Invoker": {
+                "count": 2,
+                "percentage": 4.3478260869565215
+            },
+            "TFT13_Martialist": {
+                "count": 1,
+                "percentage": 2.1739130434782608
+            },
+            "TFT13_Hextech": {
+                "count": 1,
+                "percentage": 2.1739130434782608
+            },
+            "TFT13_Pugilist": {
+                "count": 1,
+                "percentage": 2.1739130434782608
+            }
+        },
+        "most_common_synergy": "TFT13_Watcher",
+        "most_common_count": 6
+    }
+}

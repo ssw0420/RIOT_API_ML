@@ -70,7 +70,7 @@ plt.savefig(os.path.join(output_dir, 'dendrogram_ward.png'))
 plt.show()
 
 ### [STEP 7] 거리 임계값 설정을 통한 클러스터 결정
-t = 5  # 조정 수치
+t = 40  # 조정 수치
 cluster_labels = fcluster(linked, t=t, criterion='distance')
 summoner_features_df['cluster'] = cluster_labels
 

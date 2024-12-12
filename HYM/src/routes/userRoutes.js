@@ -49,7 +49,7 @@ router.post("/saveUser", async (req, res) => {
 
     // Python 서버로 데이터 전송
     console.log("Python 서버로 데이터 전송 중...");
-    const pythonResponse = await axios.post("http://localhost:5000/process-data", {
+    const pythonResponse = await axios.post("http://localhost:5000/send-data", {
       name,
       nickname,
       tag,

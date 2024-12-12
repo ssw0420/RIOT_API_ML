@@ -1,0 +1,98 @@
+{
+    "5": {
+        "top_synergies": {
+            "TFT13_Cabal": {
+                "count": 9,
+                "percentage": 14.516129032258066
+            },
+            "TFT13_Ambusher": {
+                "count": 8,
+                "percentage": 12.903225806451612
+            },
+            "TFT13_Crime": {
+                "count": 7,
+                "percentage": 11.29032258064516
+            }
+        }
+    },
+    "6": {
+        "top_synergies": {
+            "TFT13_Cabal": {
+                "count": 25,
+                "percentage": 14.204545454545455
+            },
+            "TFT13_Crime": {
+                "count": 18,
+                "percentage": 10.227272727272728
+            },
+            "TFT13_Warband": {
+                "count": 16,
+                "percentage": 9.090909090909092
+            }
+        }
+    },
+    "1": {
+        "top_synergies": {
+            "TFT13_Cabal": {
+                "count": 33,
+                "percentage": 18.23204419889503
+            },
+            "TFT13_Pugilist": {
+                "count": 18,
+                "percentage": 9.94475138121547
+            },
+            "TFT13_Ambusher": {
+                "count": 17,
+                "percentage": 9.392265193370166
+            }
+        }
+    },
+    "2": {
+        "top_synergies": {
+            "TFT13_Cabal": {
+                "count": 13,
+                "percentage": 22.807017543859647
+            },
+            "TFT13_Pugilist": {
+                "count": 4,
+                "percentage": 7.017543859649122
+            },
+            "TFT13_Ambusher": {
+                "count": 4,
+                "percentage": 7.017543859649122
+            }
+        }
+    },
+    "3": {
+        "top_synergies": {
+            "TFT13_Rebel": {
+                "count": 14,
+                "percentage": 16.867469879518072
+            },
+            "TFT13_Cabal": {
+                "count": 9,
+                "percentage": 10.843373493975903
+            },
+            "TFT13_Warband": {
+                "count": 8,
+                "percentage": 9.63855421686747
+            }
+        }
+    },
+    "4": {
+        "top_synergies": {
+            "TFT13_Watcher": {
+                "count": 3,
+                "percentage": 30.0
+            },
+            "TFT13_Cabal": {
+                "count": 2,
+                "percentage": 20.0
+            },
+            "TFT13_Titan": {
+                "count": 1,
+                "percentage": 10.0
+            }
+        }
+    }
+}

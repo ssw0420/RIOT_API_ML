@@ -82,7 +82,7 @@ Z = linkage(dist_matrix, method='average')
 # 덴드로그램
 plt.figure(figsize=(10,7))
 dendrogram(Z, truncate_mode='lastp', p=30)
-plt.title(f'Dendrogram (Average+Cosine) with PCA({pca_components} comps)')
+plt.title(f'Dendrogram (Average+Cosine) with PCA')
 plt.xlabel('Player')
 plt.ylabel('Distance')
 plt.savefig(os.path.join(output_dir, 'dendrogram_cosine_average_pca.png'))
@@ -135,7 +135,11 @@ print(cluster_counts)
 summoner_features_df.to_csv(os.path.join(output_dir, 'hierarchical_cosine_average_pca_results.csv'))
 pd.DataFrame(cluster_centers_pca, index=cluster_labels_list, columns=[f'PCA_{i+1}' for i in range(pca_components)]).to_csv(os.path.join(output_dir, 'hierarchical_cosine_average_pca_centers_pca_space.csv'))
 
-# 시각화는 생략 가능하지만 유지
-# ... (t-SNE 등 시각화) ...
-
-# 이로써 초기 군집화 과정 완료, scaler.pkl, pca.pkl, columns_order.json, hierarchical_cosine_average_pca_centers_pca_space.json 등 생성됨.
+plt.figure(figsize=(10,7))
+plt.scatter(X_pca[:,0], X_pca[:,1], c=cluster_labels, cmap='tab10')
+plt.title('PCA 2D (After Dimensionality Reduction)')
+plt.xlabel('PC1')
+plt.ylabel('PC2')
+plt.colorbar(label='cluster')
+plt.savefig(os.path.join(output_dir, 'pca_2d_after_pca.png'))
+plt.show()

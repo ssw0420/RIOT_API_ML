@@ -107,20 +107,16 @@ with open(os.path.join(output_dir, 'hierarchical_euclidean_average_pca_results.j
     json.dump(summoner_cluster_results, f, ensure_ascii=False, indent=4)
 
 # 클러스터 센터 계산 (PCA 공간에서 평균)
-# 클러스터 센터 계산 (PCA 공간 및 원본 공간)
-# 클러스터 센터 계산 (PCA 공간 및 원본 공간)
 cluster_centers_pca = []
 cluster_centers_original = []  # 원본 공간에서 평균 저장
 
 for clust in cluster_labels_list:
-    # PCA 공간 클러스터 멤버
     cluster_members_pca = X_pca[cluster_labels == clust]
     cluster_center_pca = cluster_members_pca.mean(axis=0)
     cluster_centers_pca.append(cluster_center_pca)
 
-    # 원본 공간 클러스터 멤버
-    cluster_members_original = summoner_features_df[summoner_features_df['cluster'] == clust]
-    cluster_center_original = cluster_members_original[columns_order].mean(axis=0).values  # 열 순서 맞추기
+    cluster_members_original = summoner_features_scaled[cluster_labels == clust]
+    cluster_center_original = cluster_members_original.mean(axis=0)
     cluster_centers_original.append(cluster_center_original)
 
 cluster_centers_pca = np.array(cluster_centers_pca)  # (n_clusters, n_pca_components)
@@ -144,7 +140,14 @@ with open(os.path.join(output_dir, 'hierarchical_euclidean_average_centers_origi
         indent=4
     )
 
-# CSV 저장
+with open(os.path.join(output_dir, 'hierarchical_euclidean_average_pca_weighted_features.json'), 'w', encoding='utf-8') as f:
+    json.dump(summoner_champion_features, f, ensure_ascii=False, indent=4)
+
+cluster_counts = summoner_features_df['cluster'].value_counts()
+print("\n클러스터별 플레이어 수:")
+print(cluster_counts)
+
+summoner_features_df.to_csv(os.path.join(output_dir, 'hierarchical_euclidean_average_pca_results.csv'))
 pd.DataFrame(cluster_centers_pca, index=cluster_labels_list, columns=[f'PCA_{i+1}' for i in range(pca_components)]).to_csv(os.path.join(output_dir, 'hierarchical_euclidean_average_pca_centers_pca_space.csv'))
 pd.DataFrame(cluster_centers_original, index=cluster_labels_list, columns=columns_order).to_csv(os.path.join(output_dir, 'hierarchical_euclidean_average_centers_original_space.csv'))
 

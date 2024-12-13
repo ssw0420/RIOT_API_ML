@@ -67,6 +67,11 @@ body {
   .overlay-content p {
     margin: 0;
     padding-bottom: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
   }
 
   .fade-in {

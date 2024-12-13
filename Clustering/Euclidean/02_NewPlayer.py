@@ -2,7 +2,7 @@ import json
 import numpy as np
 import pickle
 import pandas as pd
-from scipy.spatial.distance import cdist, cosine
+from scipy.spatial.distance import cdist
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -10,16 +10,16 @@ import seaborn as sns
 with open('SSW/updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
     champion_features = json.load(f)
 
-with open('Clustering/Results_Euclidean/columns_order.json', 'r', encoding='utf-8') as f:
+with open('Clustering/Results_New/columns_order.json', 'r', encoding='utf-8') as f:
     columns_order = json.load(f)
 
-with open('Clustering/Results_Euclidean/scaler.pkl', 'rb') as f:
+with open('Clustering/Results_New/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
-with open('Clustering/Results_Euclidean/pca.pkl', 'rb') as f:
+with open('Clustering/Results_New/pca.pkl', 'rb') as f:
     pca = pickle.load(f)
 
-with open('Clustering\Results_Euclidean\hierarchical_euclidean_average_pca_centers_pca_space.json', 'r', encoding='utf-8') as f:
+with open('Clustering/Results_New/hierarchical_cosine_average_pca_centers_pca_space.json', 'r', encoding='utf-8') as f:
     cluster_centers_pca_dict = json.load(f)
 
 # 클러스터 레이블 리스트 정렬 및 int 변환
@@ -104,14 +104,14 @@ def assign_cluster_to_player(player_data):
     summoner_pca = pca.transform(summoner_scaled)
     print("\nSummoner PCA Vector:", summoner_pca)
 
-    # 거리 계산 (코사인 거리)
-    dists = cdist(summoner_pca, cluster_centers_pca, metric='cosine')
-    print("\nDistances to Cluster Centers:", dists)
+    # 거리 계산 (유클리드 거리)
+    dists = cdist(summoner_pca, cluster_centers_pca, metric='euclidean')
+    print("\nDistances to Cluster Centers (Euclidean):", dists)
 
-    # 각 클러스터와의 코사인 거리 출력
-    print("\n=== Cosine Distances to Each Cluster ===")
+    # 각 클러스터와의 거리 출력
+    print("\n=== Euclidean Distances to Each Cluster ===")
     for i, clust in enumerate(cluster_labels_list):
-        print(f"클러스터 {clust}와의 코사인 거리: {dists[0][i]:.4f}")
+        print(f"클러스터 {clust}와의 유클리드 거리: {dists[0][i]:.4f}")
 
     # 가장 가까운 클러스터 찾기
     min_idx = np.argmin(dists)
@@ -158,9 +158,9 @@ player_data = {
  "tag": "KR1",
  "puuid": "kQxfpLmp3R4QfIVqE5Yh88ZV48h_zHGBfUR_ElJF7JR_MY_5jWJeYXn1yJkhN4_3-NUbSAo3MKNKA",
  "topChampions": [
-    {"championId": 112, "championPoints": 1357776},
-    {"championId": 13, "championPoints": 117099},
-    {"championId": 157, "championPoints": 76429}
+    {"championId": 154, "championPoints": 357776},
+    {"championId": 81, "championPoints": 117099},
+    {"championId": 80, "championPoints": 76429}
  ]
 }
 

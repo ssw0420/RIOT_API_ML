@@ -16,5 +16,5 @@ const UserInfoSchema = new mongoose.Schema({
   assignedCluster: { type: String, default: null },
 });
 
-//module.exports = mongoose.model("user_infos", UserInfoSchema);
-module.exports = mongoose.model("proGamer_infos", UserInfoSchema, "proGamer_infos");
+module.exports = mongoose.model("user_infos", UserInfoSchema);
+//module.exports = mongoose.model("proGamer_infos", UserInfoSchema, "proGamer_infos");

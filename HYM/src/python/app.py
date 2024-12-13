@@ -13,16 +13,16 @@ import os
 with open('../../../SSW/updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
     champion_features = json.load(f)
 
-with open('../../../Clustering/Results/columns_order.json', 'r', encoding='utf-8') as f:
+with open('../../../Clustering/Results_New/columns_order.json', 'r', encoding='utf-8') as f:
     columns_order = json.load(f)
 
-with open('../../../Clustering/Results/scaler.pkl', 'rb') as f:
+with open('../../../Clustering/Results_New/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
-with open('../../../Clustering/Results/pca.pkl', 'rb') as f:
+with open('../../../Clustering/Results_New/pca.pkl', 'rb') as f:
     pca = pickle.load(f)
 
-with open('../../../Clustering/Results/hierarchical_cosine_average_pca_centers_pca_space.json', 'r', encoding='utf-8') as f:
+with open('../../../Clustering/Results_New/hierarchical_cosine_average_pca_centers_pca_space.json', 'r', encoding='utf-8') as f:
     cluster_centers_pca_dict = json.load(f)
 
 # 클러스터 레이블 리스트 정렬 및 int 변환

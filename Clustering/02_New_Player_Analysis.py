@@ -2,6 +2,7 @@ import json
 import numpy as np
 import pickle
 import pandas as pd
+from scipy.spatial.distance import cdist
 
 # 런타임에 필요 파일 로드
 with open('SSW/updated_processed_champion_features.json', 'r', encoding='utf-8') as f:
@@ -78,7 +79,7 @@ def assign_cluster_to_player(player_data):
     summoner_pca = pca.transform(summoner_scaled)
 
     # 거리 계산 (유클리드)
-    dists = np.linalg.norm(cluster_centers - summoner_pca, axis=1)
+    dists = cdist(summoner_pca, cluster_centers, metric='euclidean')
     min_idx = np.argmin(dists)
     assigned_cluster = cluster_labels_list[min_idx]
     return assigned_cluster
@@ -90,9 +91,9 @@ player_data = {
  "tag": "KR1",
  "puuid": "kQxfpLmp3R4QfIVqE5Yh88ZV48h_zHGBfUR_ElJF7JR_MY_5jWJeYXn1yJkhN4_3-NUbSAo3MKNKA",
  "topChampions": [
-    {"championId": 154, "championPoints": 357776},
-    {"championId": 81, "championPoints": 117099},
-    {"championId": 80, "championPoints": 76429}
+    {"championId": 104, "championPoints": 357776},
+    {"championId": 8, "championPoints": 117099},
+    {"championId": 54, "championPoints": 76429}
  ]
 }
 

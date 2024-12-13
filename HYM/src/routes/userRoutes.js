@@ -1,4 +1,3 @@
-// userRoutes.js
 const express = require("express");
 const UserInfo = require("../models/UserInfo");
 const { fetchPUUID, fetchTopChampions } = require("../config/riotApi");

@@ -158,9 +158,9 @@ player_data = {
  "tag": "KR1",
  "puuid": "kQxfpLmp3R4QfIVqE5Yh88ZV48h_zHGBfUR_ElJF7JR_MY_5jWJeYXn1yJkhN4_3-NUbSAo3MKNKA",
  "topChampions": [
-    {"championId": 7, "championPoints": 597658},
-    {"championId": 268, "championPoints": 316166},
-    {"championId": 134, "championPoints": 269087}
+    {"championId": 154, "championPoints": 357776},
+    {"championId": 81, "championPoints": 117099},
+    {"championId": 80, "championPoints": 76429}
  ]
 }
 

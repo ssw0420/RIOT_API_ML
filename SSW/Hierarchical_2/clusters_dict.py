@@ -14,5 +14,5 @@ for puuid, cluster_id in puuid_to_cluster.items():
 # clusters_dict는 이제 { cluster_id: [puuid들...] } 형태
 print(clusters_dict)
 
-with open('Clustering\Results_New\clusters_by_id.json', 'w', encoding='utf-8') as f:
+with open('Clustering\Results_Euclidean\clusters_by_id.json', 'w', encoding='utf-8') as f:
     json.dump(clusters_dict, f, ensure_ascii=False, indent=4)

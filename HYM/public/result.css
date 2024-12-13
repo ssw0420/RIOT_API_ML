@@ -59,7 +59,7 @@
   .card {
     position: relative;
     border-radius: 15px;
-    padding: 20px 20px 20px 80px;
+    margin: 20px 20px 20px 128px;
     text-align: center;
     width: 400px;
     justify-content: center;
@@ -75,12 +75,12 @@
   .bg-title-image {
     width: 400px;
     position: absolute;
-    left: 80px;
+    left: 0px;
   }
   
   .card-title {
     position: absolute;
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "Noto Sans";
     font-style: normal;
     font-weight: 800;
     font-size: 25px;
@@ -94,7 +94,7 @@
   
   .card-footer {
     position: absolute;
-    bottom: 23px;
+    bottom: 5px;
     width: 360px;
     height: 270px;
     background: rgba(0, 0, 0, 0.3);
@@ -112,7 +112,7 @@
   }
   
   #card-player {
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "Noto Sans";
     font-style: normal;
     font-weight: 800;
     font-size: 27px;
@@ -175,3 +175,88 @@
     margin-top: 4px;
   }
   
+  .share-section {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .share-section p {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #c4b998;
+    margin-bottom: 20px;
+  }
+  
+  .share-button {
+    background-color: #c4b998;
+    color: #000;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .share-button:hover {
+    background-color: #a08c76;
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .modal-content {
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    width: 460px;
+    text-align: center;
+    color: white;
+    position: relative;
+  }
+
+  .modal-content h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .download-button {
+    background-color: #c4b998;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+  }
+
+  .download-button:hover {
+    background-color: #a08c76;
+  }
+

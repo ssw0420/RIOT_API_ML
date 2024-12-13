@@ -67,7 +67,7 @@ with open(os.path.join(output_dir, 'scaler.pkl'), 'wb') as f:
     pickle.dump(scaler, f)
 
 # 5. PCA로 차원 축소
-pca_components = 2
+pca_components = 5
 pca = PCA(n_components=pca_components)
 X_pca = pca.fit_transform(summoner_features_scaled)
 
@@ -89,7 +89,7 @@ plt.savefig(os.path.join(output_dir, 'dendrogram_cosine_average_pca.png'))
 plt.show()
 
 # 8. 거리 임계값 설정
-t = 0.24
+t = 0.73
 cluster_labels = fcluster(Z, t=t, criterion='distance')
 summoner_features_df['cluster'] = cluster_labels
 
@@ -139,3 +139,28 @@ pd.DataFrame(cluster_centers_pca, index=cluster_labels_list, columns=[f'PCA_{i+1
 # ... (t-SNE 등 시각화) ...
 
 # 이로써 초기 군집화 과정 완료, scaler.pkl, pca.pkl, columns_order.json, hierarchical_cosine_average_pca_centers_pca_space.json 등 생성됨.
+
+
+### [STEP 11] t-SNE 2D 시각화 (PCA 후 데이터 기준)
+tsne = TSNE(n_components=2, perplexity=30, n_iter=1000, random_state=42)
+summoner_features_2d = tsne.fit_transform(X_pca)
+
+plt.figure(figsize=(10, 7))
+plt.scatter(summoner_features_2d[:, 0], summoner_features_2d[:, 1], c=cluster_labels, cmap='tab10')
+plt.title('t-SNE 2D (Hierarchical - Avg+Cosine+PCA+Distance Threshold)')
+plt.xlabel('Dimension 1')
+plt.ylabel('Dimension 2')
+plt.colorbar(label='cluster')
+plt.savefig(os.path.join(output_dir, 'tsne_2d_cosine_average_pca.png'))
+plt.show()
+
+### [STEP 12] PCA 2D 시각화 (이미 PCA 적용)
+# 이미 X_pca가 PCA 결과이므로 여기서 추가로 2D 시각화는 X_pca의 첫 두 주성분만 plotting 가능
+plt.figure(figsize=(10,7))
+plt.scatter(X_pca[:,0], X_pca[:,1], c=cluster_labels, cmap='tab10')
+plt.title('PCA 2D (After Dimensionality Reduction)')
+plt.xlabel('PC1')
+plt.ylabel('PC2')
+plt.colorbar(label='cluster')
+plt.savefig(os.path.join(output_dir, 'pca_2d_after_pca.png'))
+plt.show()

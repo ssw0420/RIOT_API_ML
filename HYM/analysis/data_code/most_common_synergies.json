@@ -1,0 +1,1438 @@
+[
+  {
+    "puuid": "H5-T4yKgsjRf5U6vhOqIx5fO6ThTnE_PeNLlcQIbnEnXuRDVpzCJyn0u_HZOVR3-pY9bxy-63XrgLg",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "HZLnTJT2C42A_IPDKHxLns_afBguizLaE1DaVJZMUlJQ3MvDQjDgzYZtjdiI7jP_rJB8zAAhqNuY9w",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Scrap"]
+  },
+  {
+    "puuid": "yNnxq7XKNEltAgUAC91EddsJFaR6PAPWr69PY6Swv2HxgXTG8k559GotwrybNFqgi2G8YZdO_sTOoQ",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "GlkvLWGvpu8_6YWIsmcASN335tsZaXXSYYQhn4cTO5e3ET9yp4-bAMdtWdiUcHszftR1tkBA-Pn3Ag",
+    "synergy_name": ["TFT13_Infused", "TFT13_Rebel", "TFT13_Crime"]
+  },
+  {
+    "puuid": "_Fe_QbjVBbbQEH5kB0zzK--jMuqIRFjN5kjxzK_P1ERauFnATbKNlGqAzlurmErHdXlmLpfcFtkLgw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "kBYQhV8vFQLI_bjiiQ4fe7IULAnp9Q2NxEb1gCvzgI_x_3qZf8-eJZy_16TyTEB_dm6dyYfkETLw7Q",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "yhoXMJ3C-SKIJl3hdaAhrx_RWR7kGPHFXEFxp22RvqfQE8Z5GuXIAWsNesbbdr9tszdePEFrLTAdfQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "x1P3cAGGzEPZ89fgRoetYB8SFzNsqah6Tq2drA4NXabnFzOJKkyBUFUHdHN_n727MfryRkVXzcAQ3g",
+    "synergy_name": ["TFT13_Squad", "TFT13_Scrap"]
+  },
+  {
+    "puuid": "Yiy4lRf0zF-cQPTt9O9LygHyERsazOCXDCx_8T8Tzg2VPt8BqdPTbdc2C4YCEiki2cMfwcN4ZVYbqQ",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "WEgNIwaeStPrac_xy207NiKmqi487OIzw0rFglPWdBwSyjkZm0VBVHPWBtbGxOXENJnEgK02Wk5zfw",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "tEdgHFqrsTI4rIohBbdnnyhdVKHuL9xO24Fa-EDwprsYrdhjy0SatbzIpAUZPEfAaKn7SniCDeZYUw",
+    "synergy_name": "TFT13_Scrap"
+  },
+  {
+    "puuid": "Jsa9kyYXHx5xfh17ZoWYfI2EBeCv2Uqz73kVkFE5_9k28WzQjrgqi1MiYwX7pgRuT8OO7n0j8cFpoA",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Crime"]
+  },
+  {
+    "puuid": "LpZPk0GwsjwypO-DlR-Hm7naahXnNAwTJ9BOnb1jDG_v68jIzc604JCJW6BpYoNHo-xi4_Jmxi9FOQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "wC1Bn02IMDorCcRu7ziEGK3FMHLQNPylRMNAouGm6EyI51n8rQDqbP4F6UQh7oyxcuijUmx2HzaCQQ",
+    "synergy_name": ["TFT13_Crime", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "KTcccsSNDS0MMuIghWyr-2SAXc7uS8qMjsFO89xuBfGzAgGBXqzODOoJSDxJd-Xi10v2xJkfKc2oew",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "t7bIt7dHGPnEDUKtcJsdlMC6TXtZpjrYuUUuqUizF4s3saLn9nGlZeWH1MwbSk3nmb41bun1i7nPuA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "p-QWclTGG0W-B6E_OIlkUDQQtRRGpfovRyOlLAQS3N_tz_QrCib197LlZ7CouRclmldX07AQWHmZ5w",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "4PSpzzzzOn1nYdFfv3-JhxnubNd4TYka1hU_R-wgZvFJWdoF9CX94VjNphhJ4dOVfX8c6MHzrjuhGw",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Ambusher", "TFT13_Scrap"]
+  },
+  {
+    "puuid": "yQAsVcG6zoN_EUVg_z2PDTYlIb8q8SZ4C3CsV2wE6koR7Vl0GO30FjG4N72JQNiJkZQ59UxvZVZZeQ",
+    "synergy_name": "TFT13_Experiment"
+  },
+  {
+    "puuid": "wfjHsdOF_963uLgsvWqVRJIzBusPbelL0CZZEWTfgk5CkbTPKr2ws140Wy0HV924KJIvVVDF2IyI4Q",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "lEbYWkkhDukijunwrxl7B9e-a2qD9AvvfQXpjorhpZ3cljyq7nqB232Mt6dfKM-bT-CKuz7ejUgzmA",
+    "synergy_name": ["TFT13_Experiment", "TFT13_Rebel", "TFT13_Crime", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "_oqfVyoHyppQUbQyY8UzTMfTKZWmbRxqXpK0SSepOjN8LKOwHbcrCL6XkI32SE8qB1KzPP3BRie47w",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "oxvVRxZh380BC8Z_Q4ve5BQUX0upYYBs9q0d4WxQc-Xd3JUyOfwf4sS6BLktV1af9JhjNkW2j16uZA",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Warband"]
+  },
+  {
+    "puuid": "Wjhq82zDXdruXm8uPRDtINdibvNDijBkM9yE5b3MLVG4MprqPz0VfddpiGOXfZSHx1XIfghI7noVjA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "xdU5fjDiZ_zNj0r22wixJnvMElTkkBbCzGvLN5LVwj6vVOKnIwVyh-nb5TURMZA0mj8n7EvEjnfmhA",
+    "synergy_name": ["TFT13_Academy", "TFT13_Rebel", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "4ZkzJ1PcJ6HSPEM-lzsnSCSOFuKYVLqeK-kM96VCvvber1sMVmjonvFmWCxWRm3o_Vc2J6n5vMzE8A",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "xC9JQTSCaEasaNCoBavEi42SpiG2j6GXmfZV_6hpnEGps1_E7OiTZOv6O3Mq6zigSZCX5Mv4OQQ26g",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "PPFBYLMT-sABSiyrShZ6Khf42DTThZtq6QRIV3etMeQfrGPwoJ9GIEVg-O16iSHQLkiJ8aqSh2rZGA",
+    "synergy_name": ["TFT13_Crime", "TFT13_Warband"]
+  },
+  {
+    "puuid": "Vbq-t6ljucBnMA8cNeuICi3WfUBgBqgCnmkxMGuYshVTdQ3Tb6ZxxKl5AonTx5JpXacnp37ONOvH4g",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "0Nhzo7HfZ1oRaruyHlLuJluwX_yYOcugJosz7lJfr89_kAXVEF76F27IHjaD8HuHCndCpjGX6RPqNw",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "-xR9fFmpQIR5dFTFFjENrCd5kqqyn-EyBiwDJugiCC3q2olDsfg79zDL8zp_Tfd44iITQGBZSJMCRg",
+    "synergy_name": ["TFT13_Warband", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "AFCQ6Ou7iyZ_3lmpWuRdj_jLadOK14PP68RloEZs4zRoPodtlJBPzJskCAWVOxllI5GVPePD7M3fPg",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "5tthWzzqKdn6SYJvW86pgovlvz9upHuxy_pIwiXfrDT8V1GkZYYpmJpbTS1aJZGmijeEDknfDax5WQ",
+    "synergy_name": ["TFT13_Warband", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "DpuoVfRWwPSjh62To-4dHLT_zYkh-iOzkiXBMaLlsvHxvGMJzjnU6TJgjMaLVzFc4qf6oeIFA-AJug",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "_ahbCxRe29F-n6eXsGR9rpe9ky0DhrO7ucVwTb2zRm-Ina1Ysqkc2Zfhg0j_z2LrdYr8u80TooEBhQ",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Titan"]
+  },
+  {
+    "puuid": "yf3V_sEcMxy2XwaVMBmD_5yF2lNL2YxwarFLolTsv3f1Jb_byOBovD_uJZQ9HM-STcxXNWAAc1sMcw",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "0AZJ2hl7YL4H5zCOQdAMuLhdx5evBNNnE9g7iXyN73mYiR_4wmYDYwBih86fclkII1HvDGoKWtVgRw",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "OJDZBhEUjxxnLgf3VDAQEeC23Gw4gUU9GKbM90F8_ABKP9vHEGt9jUCrrZ_yxW3xr0Atmt_1MG4C5A",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Ambusher", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "UxJQOpo-KjI1ngNGJSkiAmEJw_WoGwggMh8oNY77QUHGyvcHmB1lRsTv-LxmfykgR1CJlMTNjxziIw",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "G6wg47dBYZTDw2ravCrKh2gvBx2gQD-s187Rm1hAhusRtQ6nUuBPAl9TO8-oq5LEFFyxNlsCfTpAWA",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "JC43SnadnMPzyddR2LPJtGQvoVEsvFAVkAiExqrfIw2ekoFVUPnKfVNtu23yoAmzEK-Tgf5h4cb31g",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "cKiFblcCp4ee56_-bzIErZyW6SfFoJTRwDM1PkGDWdjtLeoPtUHPuS1EfEEcgrcb3MRA_hB03fRKmA",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "3Ot6e6f1b_qm3LtYRiQVuPwyKExxVkFVmycIKqW9Zo_X5fGq7L-VsTRJDYZ14w16Yiu7TZnoewDVqw",
+    "synergy_name": ["TFT13_Crime", "TFT13_Family"]
+  },
+  {
+    "puuid": "u6OeQun_H8V0YSbhLSTeBt5KA2e7ZZiWAgCZXb13mGexyu7sEv8QSYfqC9yJ8TvVsnyYFP2rEOiZVg",
+    "synergy_name": ["TFT13_Experiment", "TFT13_Crime"]
+  },
+  {
+    "puuid": "qDCTjLmpIv8sWTFS0v-TKIXs345xgQOx7a1OPp0MOCLgcWv4-Y2nqyYdJDyQqR_zpdSKSfbYsF4zAw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "cEk1mQfjDrX5WroS1ZpabaQ86NX6OxVC1sm6WYTLL5VlkpHElGQ9dQg8bRI2egC8Yf1w5-WiZvppZg",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "6ry9DS-viUgQ-yAH7-temoPkPrLVfkqLzjEqEzzSHZ_J6_zXTt8uP9AdLHIyBXmeHki4zT8SsKqqWA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "1cO9Rw9c0--3F29iMebH8nhQ8YAIBuRz2xnOojc6X5rHWnHlrAKEz3bAlNI2VZcvV8_4pC7zcv-3LA",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "f2-s5OMMyOcMresNSI029yMkfMes6Igd9rOmyMWnHwWovBvualss0fZ0DH8uv2c4jWD1wU5WONI9OA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "y8mdd3ApJLaztZBuIlUAq1hP0LmnyxBkSK5mQRqwzkI1T-0ETKAesOrPOZ6xwyn__iFRtVgOnc_4lQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "OI-draHNe2U5C4bUjXKbE5Yv0jJps6XPLe0iIGZ0CegRohybnXZbCPbswSd4L_F_xM6U7YKfEHUVnw",
+    "synergy_name": ["TFT13_Squad", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "nfbh1vS4F4PM1MVaPmNySJhAaNu05ZlFckaihZ4Q1nj1WGrOQnHP8PjH9K6QUvKtI92z5oZYU7_2oQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "IwbOqg7keW8rJSlVg3M6-Y8OEZQlePOO7AXgorv1B_PTekpGa5DWB4t5sZAsbr9dEli5DB8mh5ad_g",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "QDnJ3Vl9-miVF0ANu453OJkX9UFKKFawurscOXUOtgdbIy0LJEUUdpg91S6z2xcjDUZnu_xiTwGLEQ",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "LXWq91aGe_uswoHpIgdcKUvoskBYplSQdji6wbovgEazvWxrh8ybKziiKAHUBYIjumw0g-eMMnyruw",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "_C0gCTy3ml0Ba0RK4xld0-MmhlxU6t56khEfmv6XgJrDG1zIRvkHhJf8bJ7uYMvX73F3t44VTn5fRQ",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "PpIO0F1_LOQFup_FpyKnXR6-z_gSm3Y21xblHSgdV09CIxKqBL9VKxe6a44UtTuIoQGGW2SwLjzzjQ",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "s96ffWQSxllpoCVESoqyKDkCmcjJBM0z-8J8jcexLS0K9clMeICEMJJscajIKrhu7df2HTEjX85kxA",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "zKC8_icG2R0Ok7S1J84C9vIxpm0cw8nPSsXSOZTx1Pp471DwX9Im14MKHiL5a41K3mRejRen_lz4Qg",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "Q-Nl0EGZwoEqurQ94LkOGwSqv5pirBKfBZzA3hMH9IG1ZFoxRyjjEmUL8JwN38QSYd0skaNhSWF17A",
+    "synergy_name": ["TFT13_Titan", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "SrMoBD2a7bF2ugiPLCKrYBcLoBKpVJ7qPzcVcuq7f_SFExhsZhySUm9Mh9e7eD-9E_8r_NPRvb44wg",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "lpTT6R3-SVsD_ThCVNc7TAFw2mOevX9DmU-0GPDy4E9QwCUIt01kRzK8KsJomJzWvUdugG7P4VQV9A",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "8jZge6X5hAJZvlTPVfnpzhIYASIa9Fhbp2HewLrbSE5S4KciDTk7umOGgeH7EomHWs_oYa6ylOYKJQ",
+    "synergy_name": ["TFT13_Squad", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "c3rHbRyccAF9mP_tMlVeZPZsY2Y43sA8u3DqBuhDBqnWiH0rj69DrsxoVja4RKsT9uvGdPAHj2U28g",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "_HXGUMW_BANHegNjGLesWrXazlvKTsgGTlGIKuOiQq1wm30QHwBWaAy_GJeELcd6R5OjNHqc6hl9lw",
+    "synergy_name": "TFT13_Sorcerer"
+  },
+  {
+    "puuid": "mIuIIr2ijhzyvyB8HA2IvkWzE-hexXpjGMQezFiIP43Dd8Wemk1nLknmbMcwJbTpEmwRBG3LRRkHhA",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "J_uBsr4knyDAcQ3EFAGUGGrMP8ssHcp6JeO5tONZV5rGi2lqxoEwEU8Yh9__bJI1hPqiKnMqEmr5Pg",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "LwLMKi_KtI3yc3wZVfrIzvNdmjp4kDORu81rZukjkT1YQJMPcP-XX4x6YB4s_bstjHZSnYPpJ25lhw",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Crime"]
+  },
+  {
+    "puuid": "2gYxdMG4Xt-3_bMF9F7jQSxV81wRFUpJ_KCL1DTeCEtljq3rpJAji8DwAZzaCXe9R7R1pldSIWNoQg",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Sorcerer"]
+  },
+  {
+    "puuid": "7j9cQDlss9yZcEoo0RzvZFGsppmdUpYtohrSluDJNse6ng6gnGa5kErsWetc8z9J6UJ_d5COMT8D1Q",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "QGyFw5-I37gxUGHcbRTzdsqesK2S9Ta1OjR6MW-rAvZfuZtd4ZE3AY5TwbrVZzHflH2UWaQlmxU7DA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "2siThpU6g_0BjWOHox_rrnw3RvR5T08NuHcAxtmh_EFo4Z5mpJJeLm23xxRNjq8uID9DQvNtvf7h5A",
+    "synergy_name": ["TFT13_Crime", "TFT13_Warband", "TFT13_Cabal", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "MBifbzV8IjNOxgLCjjgeoCWTBaJGZvHCyjcrwh3EWArvOfnXUNg2g53XespSgAbY-YvzCf3T16Unyg",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "Q5LbyPVxhI28Lfieg7QQPk51bdlWiqi98BSmmSzPbcgIV1se3ZqGJnvDz6Y_jI27gS6At8YeM2NzgQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "1Efn3m6_5bieU8buSbUpYYwrZBVSRKURvQqx2oa3rq5pQgG0tTayFMqEMtOfxBdE7-CtjI9_atyD_w",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "bLafxYMq5TdLpAxLJDqMdQF_w0SSMoIi2W6Je3eCQQ0jv-ox5L9zLrRHOJq1ZKCs6ZW3ULQ5YaNMmQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "2KL2QgZPE1wkHBRr3kzyM9UWPE322AMUCFiaAU8fUJ3aO9Fvp7h_Y-3LO8cKmEw0LN2eJsrha0c5sA",
+    "synergy_name": ["TFT13_Academy", "TFT13_Rebel", "TFT13_Titan", "TFT13_Bruiser", "TFT13_Hextech"]
+  },
+  {
+    "puuid": "tMNe53qRSTbk0dZRnjWs2VkQhNkIUjHWD7w9sW5jXXzMPCyhrt2hTzuO5XiXZCEMoatUgeV_h93rCQ",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "Xc9xPXy4YS1RnB1oZegZmPEFqWKxR7AC7F96TrtNYK6z2a5_nu3icLPuft4qHx9rLN9CEAIB3jUjdQ",
+    "synergy_name": "TFT13_Family"
+  },
+  {
+    "puuid": "H5NWRaJad5emCAjv7danC-aiLNyf_yjeE8o0yJTL2U74uDaZfo4qe7gJ4d8UWLXmxXUkqu3-p8doNw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "7mS0WSmfqNDnH7ZhWMF424cohrQF-wHuiaEMLmKxcPHapY-7dtnvKJyEPnTZeEioALdJ_8076nZxAA",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "3fZoROVu_JnYysf4KvUXfFwX4zTa3saDhVzl57xSVHcmVV9PM_kSTnL3-E40fFDjlvbP5gFSYy18FA",
+    "synergy_name": "TFT13_Family"
+  },
+  {
+    "puuid": "f_7DLObiC1gYWYi_hnQcN-wVjhW0kL_wud7EruGkhmdGzIcZ7rvegthBfPqV9_inGBYsYvsJ_ItJFw",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Watcher", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "DRR4eup0DL2mgJ-9xtdVNPvCtCz5WbahKr2qD1hnY4Jy7Qnyllg-kCfDsxcaoVhPhVvSauEVYKkSvw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "2KWrqxYSeg9Y7XkQ8Jsc42zHbfZ-kfq0L7UVT85MOKGXExv-zuukKU41-t5X5FoNat3EIPi_pY1PBw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "XrOWnYGK4nsAQPp4YBYCYxxrFWNSJ_D0Cz4fkzf0X2ShPMAkl4sHcdJAOiBKvhJG_HYeA1c3EfFhYQ",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "raO44wyAhFkVA3vT-1mQBzW-YPkOK9BlO2-7WYAk9vRJemIAOvUIO6k0roLdevehwTkcwoVMBQmbuw",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "w85zosC_V_FOCcQf4rDYZNFD6Qqvd4IGlhEZ9nxiFK5V6_PxbhENAkT9EljNKvmbPoTG7VZFJcjnKQ",
+    "synergy_name": ["TFT13_Challenger", "TFT13_Squad"]
+  },
+  {
+    "puuid": "xN0NKHm83KNeNj7MSSROUWEz1stOWoTFAUNHdyRtbDpJFzA0AavecjJW0C01UIx4Ix2-flEAzILcjQ",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "iSWeAlLVsfTalq2TAgBIrbfkkMYlHLgfNezjtwEqvDr3LdsAj4j-F_-oefcOCI7flxp0gqkxMte1Uw",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "yhAq4ELRge-2qaVg_E8AvCcuhdHYkfHLo731w1v1haZtOYQjlTTaKZMeWv16J_aVncaE1PJU_mdWrw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "prHUPafOx92TIz2MiJtipDhlUV303BJpQ9LtloTOrUJ-Gx-CEpAorNfYEiTPdixvsaDawqHdK5RwBA",
+    "synergy_name": ["TFT13_Family", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "L61A9oohmI-crMhPU8ZIOCNABBwNMQxYtFgjzgEYGjf7JFBxcJI70WnR_VjEoQb2pEyqZyFUVVmzyw",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "ZERt-tfcPTx503msgshjvLIzJp7-qeOqKT8OvX7xIuuyHJdoZSHn_3LwaxztibwzLL4G29oZRRB4HQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "iMjW-5nhkMyf90tXC8nLv45trH-ZEe_wS-GtKPhRsrPm-dj2jXhawxIHrfh5CZAnmMWG2sLVTQMCDA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "e5MyuH_UZqUg_jXUBNI3CXlrLPs6pDrVvf4CCQY0rS4C2XC0kKv-5FUWWhvNIJhxzfiuiu3syyHGBQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "XS5VFXJTt_HJA08ajnJuGyy3bF1O9e4DAxXAhtEKMRSJ1NKfbhCxwitnCXw5iqAPqg4lFLZ8J3hrLg",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Pugilist", "TFT13_Sorcerer"]
+  },
+  {
+    "puuid": "8CsOW4cmXWJJFxfCerKMprpAkmVNi0e9aX-YLNxLoMmdq2SwvPUB2rEj1_qP7ybCRU0MgHyGdob_ZQ",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "x-n-zqY7sBPmyuGie4mQdenkr854YCAU4vfX3m6AIVlFqqrokUfS-aQKKerwjPGC3oAl_luhwanSsg",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "Beq2aXVi8uczjzh1TAbiHbG0zNWU-33AzCvVk8cQRns4WzZ6uMgRESLgO0IKl6S8IGzQwqAD52DcVQ",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Cabal", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "BQ5w3oIgKt-37DPWpMOy8Aiq-qWawgnSGwA9b0wuJ67srhXOxq61eolVp976FSOHZGkN1u5PntkA-A",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "rjzBN1DqtnH8hizvVUtEGlRbVK6WMm3mrZZeh135BN5fRbu3RkMnqPROdwZRcUahb_GOoZFMbXO3XQ",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "tUk7wbDyhipeWxpmwIyBY4ZtF0C4lr8YQahxjXX0iJJIKKNbxaoy9reuL9UF3Wk81_Coey50T4HPaQ",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "5pQH1korVeGOmRDIbifSsG7Lsn_gXirKtkch91CGe0nIgEIBW6xaizMHa5GUmU4YdO_CkDSivTt3iQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "0y50QzTe4dpyj494gTOxoNCWdxb5EPs2bQS2z1hP40aUd2IifmQj_1SQPZKOmoXRRhOdDVrGU_KEnA",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "Y8DEfTumIObPki3f5H8nn-HxGh6rrjH2OF-ZBDsFpz48RWZ1TJj9NFrqsYoJjgpN0n4pJhQYLZ-ZfA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "1bBG0WJiADbDtdwA7c2tURoxCIBTS28uQk3J1jWOHumyjY7yMDpJ6_17_3ueYJjk3jLQXeppP228og",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "pY64Lpr6enQmvUINohh_LfXzKRWaOI9aIf11zE1N5953_BGMQ7Z50Gj9j2hHaR1WdkEmzyZgrXL5bQ",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Squad", "TFT13_Family"]
+  },
+  {
+    "puuid": "MSufUZH6mUDkduzwTmNY4gwmysK2iwy5MnUHJLQ8XzE-j_5CUCsJSmFOkxLQfZiaXatE_LBlQAC06Q",
+    "synergy_name": ["TFT13_Warband", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "JIk9f-rrLAZj-32rU0ogcJfi0xM7Fks7pLXcE4Km3FshShjNJY-6cSTIrxbI-ZG0zoJPtpa3FkkANg",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Challenger"]
+  },
+  {
+    "puuid": "A6qibnBBcZkwYZA91SX3mDxhW341RpjcnF5Hup7O1o8uyqgDGw1qjoQoKB0bwl6OGw77y0Nf30Txpw",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "uU7OnkZ5FgKK5v71fsJtW7Ee9EAb_nvTvY4rpKq3NBu1EoOXV4bS9q8TwVl5sGocIZSNvEbON-IoyQ",
+    "synergy_name": ["TFT13_Invoker", "TFT13_Watcher", "TFT13_Squad"]
+  },
+  {
+    "puuid": "Qlj5coMMr6jUdqSDpKGUY4Y17ooIf8Fo0KjpcRiKIYeYc2_hcJR-1FdDreHE30aVhtTnDX-__G8fCw",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Warband"]
+  },
+  {
+    "puuid": "LrSrlhEypO18sYTnNOOCHQf5HVa6E4AUpIzSc8EIn2PDPgAfK8unS5_YL2z5qS1N42A0lgaY4LM5KA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "H9hWcUKHkdGDy-XipgIPTX7WWcizaTVR-pAiWWe3PVVgyTKytdudSG9_alNpDDZp8rPicEDaeXJ3IQ",
+    "synergy_name": ["TFT13_Scrap", "TFT13_Ambusher", "TFT13_Crime"]
+  },
+  {
+    "puuid": "CsYanH03Mk4cvhY-NPg0nY208I7HKU3_istu0LN2WlwhqTda6OjVEj-NlN5qtKXlolYRsdGE98ZrEg",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "fuCh3__6B09yflxy8vqZxmPYrTT55L0gAcGZdeIwrDIq2KYu1I9gEBVCpI0WdADbzxFyH5ba2K38Vg",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "HZk8OzziOYoi_e2MvhpZkIjCO1GRgKMFilSSEMeo08ePwVbPWN-JsTQ9E7L3HA0_qozHTGTHuVQUjw",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "DgHwqZAi3rj1Tke8ZxbVC_p5pIhDnm2tvwnBhUboyWsR7lt47rTaBBF_wvCy0kz4cqkwWBgJSe8yHw",
+    "synergy_name": ["TFT13_Crime", "TFT13_Watcher", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "0BFNP6_1_Ztii3WJRqpzTsqH7nkWSJf_RyG-_HH7ISP4fy8TRkGqhl_Doza4zJBL9mrn7YcFXsWupA",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "NOfqB24fsWNNFQ0H5b_Fqksg1RPBUHDiwJ3tdUZHGTRoGh6dvBYd8OtXecWT_V8NikXt5eBBStyWzQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "CuU3mvgMGg-SeoaWILGylhXtkKCTJl96z_ZgoRq938isPZUP8t0dZ36IGZo3EqeM_BmmXiu778llXA",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "bKDd3EXWG2edzHWrRoWT_sfP4nArDj20mDCDeux8s7BKnq5RTdgCyIvQFZ7aQHzKQfYXAYiFwIET5g",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Squad", "TFT13_Warband", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "1i2HwHJbv24Zv8kKCA3RR2qbSfBoibrx8JYojg2wm14TMgTTcW6Chmkptghl-V4WLpTiRA1I-TAmIg",
+    "synergy_name": "TFT13_Family"
+  },
+  {
+    "puuid": "RYnHxWkTzzfFrm2curi8P5xLFXq02o9v3Lwn_XUWzccxDdt30s_0MIAtFtAKAg4kgR5hrBOw8L8RWA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "JBjuUfGDzxoirs-pjWYgQzuW7lHT0gT8HYnYSdbGANfotbyAQRjgIZ-VNQRpV-1zdxYasAveFCKyrQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "F2AA5xHWMOo9bkPr0fjiNKZJpcYDwgLuAmW5CbfZ-MYg8qG5SMGO5nG_qfJX_BFhYVKt5wZu_mi42A",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "I69y11F2tO1m8N6wi3Tlvwcn0H_D-9Rjr6bLIXBvwxgQcorGWQhGl0AmKIygJ8LAlZjzHU0BUkl_zA",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Bruiser", "TFT13_Crime"]
+  },
+  {
+    "puuid": "l1gIrOLADnuHZJD3RtPv8Y3fFJ-1pxfZf28cRn6KQ8fsKaLwQq62ZCri14xIc2okL4Xlg-pTJbmWyA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "ax0aZMWwp4_DcFSFkam5qV6-8UvNfp5uFMB448uWgeeJnGQrmSlslUudXa7ZdsoT6haerSuHQKiegA",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "qjqvFXBB4c43IXlou7QpBAVhqwbq6sRu4M5rRTUARlX1OZsrBhwfZqU712SpvKap548ipOlOjFye-w",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Scrap", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "sXZ4zaeF2sSydNX3c_0iqoeqnRGkDE2HPjXUqNx-Tl_dx_DaaP-bg8Vi7p7FFfSMGpyioFVmTkUv7w",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "HHeamntuq8jTB767PVGYr47h4zfQ3ewTrlyS1hHrir3dQZp8GVBEjI90lxfZVP4EWTnQKhBFiV65_Q",
+    "synergy_name": "TFT13_Experiment"
+  },
+  {
+    "puuid": "0cZzaTvdaR4fVVDy9Jys5Jhnki2dXUps_RlfCJ585HS9nR69Mn8ulvZ4n9i5DFJt7-46OTTYUgo93g",
+    "synergy_name": ["TFT13_Crime", "TFT13_Invoker"]
+  },
+  {
+    "puuid": "Tr724S-17fFTZ2JV_rGrOol7beqf30eAqqcAFS8FVEHG4gN8Qvim-XGZ_HMIg_s3YDqJNJQdg6Mjyw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "1IfJ2T_OhHe997cMqDtw_KRW-l_eKIOa5wwJsE6Y3gnt5AtgTd_4sEZsDP-a0QfMUJyywpVlK5535w",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "cIpdwkCqwt3F19n2gwqF9wnlERjmTnHIN03zl2aRUI4--C7kZ1Paiqtpd1HKeyl2Gupw-OZ6jpIDMQ",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Challenger", "TFT13_Squad"]
+  },
+  {
+    "puuid": "24JaSIAs6FzF74Ha7k48Epie0_mVHGTWkhe8IzEMYa2A_uKf5RSfbKPVXcPseYtgh3b-DOfce7OSpQ",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "lkVhbnmZV7oSpUrKfCa5djloBo2Sp0RSYxrq_cIWGfev6KOr1-w3vMxdtosYJLepEtx0RJn9k28fhQ",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "GCwZkYZXkov_z-wsGw5RsfGVOnU3m-Rra9fKaTWokGOX4kZWT0XaHXjwS7xbx45y6PUtnHVkPAAtCQ",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "CG7UP5RKGIv_T5woGN-Jvfwgbn4XassNywCpko_cxOhH55F-lche5roxwvGJHGzMjliuI8641bzqKw",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Scrap", "TFT13_Rebel", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "z4gY48jiuYU7WMsQ5XeRAjhkN3IW-4rhZZWiN7oybP3vcZaqil4RsYrcKufcem3XdCnBw47oJs2TFQ",
+    "synergy_name": ["TFT13_Ambassador", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "yOag0yv8bQ_sz2jzLvebc7W3grxwUcMUZeEX7Bhd9lxRlmPEoMPnF8sIJ97EdnZa9AHDuTeb_2BBoQ",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Warband"]
+  },
+  {
+    "puuid": "N5duXjvLwKqnV4DEZ7DmL6EKiyBbf73Bqg3ZyEmc-aXPgJqrzNtJs2YPrvX24IAYJr_RgdKO0HYT6Q",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "HeWbhIxex29YJ8ia604d26Zmmi7p_e8KHrqHErNLYwMGbOe2VuItlfRCBlUINPQdhSlDb8OzwQBwaQ",
+    "synergy_name": "TFT13_Challenger"
+  },
+  {
+    "puuid": "tbbdiJ9KtRt2xhcBU_lYUzFjkDWMc-GGt4onUSxcITLMX7i9CmMApcr_EAdaBM2zQ_OwIA5O38_jCA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "naOzIF-P06KE_MdaBqja-4RdVAtmUu8xJLO98hauAdAeHjpVNrYRM8iLYM6XL2J1RqL_yHonKGvyGA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "lsykTZG3yiKGXrBRkakBF_nPBnxu6xLpCUcw99TkrtGO2FeS4Oa5TvEO7GoIaVP1V896ZxfNMsUK_Q",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "zh8ZhJCM_yswkKlRR54KVOKYEs_LNtP-RUxvHIZmZ1TqnIec92Q9A4xLQToNSJVXWI1Keb7IqL-Tcw",
+    "synergy_name": "TFT13_Sorcerer"
+  },
+  {
+    "puuid": "H_-17gm7YQRJqLZDQd9QyeVxmNyv1dwowN2Kk8SKwNcFAWJUZ7dGHorkL_UEf7Gqu4r3cGvEHLIHVg",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "fMAgwIcxgl1tH4KeLKMKs64SCRgXAQGi_1g2C6fTmOoCEZ0ycAPYjQC8vduTZlFPOI8IoHfvDjbXyw",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "aF87RCb5LmUYd6x9SDFRtRAvRmJxgeOWinYFsKQoXHxoY9uWWCV-d0IN4e3UNfe9R51hhieQ4vxMSw",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Warband", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "aj7YmvrChMT9vKub1I81-mFc8Rj9NJNPLlxCo_7Sw1BVkp9AJpSL5N20zhiNkT0ZfHB8BQdFVjIFJQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "YgkA4a_3r6wvQC-5dB_ApFuw2qeYTULtapMLlLoJy13wk8G7MCncxVovyV5DtvK2imjReqClbHbiRA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "pZKq9UUR2rKP05Ms8SLIJA8Kyt8qtvmWSNTqD9qe_Vv6dsHBdE7vin1TWf-5mjLbE-_sAlJ2y8137A",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "EPm-kNzzS0W2TmP15Wr-J2kppflaIV8xmjU6lvPXCudktKq86vr4cL14HvZ4rkMHAnZCZ65ttNJj4A",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "EruU1NtCW5z0bdXLN_EnMKjdD26Xca9_lhzxZtty35zs5oJorka9xAEYWuGbVlrbfYusBmAa1HUJNw",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "YkleOuyTeCK6BuUZYND_beJ5VTJN_Qs3RpBuc5G8cWjlM4Z4cPHpNGF-R6i-ms2zSaYBDPVfVqBJqA",
+    "synergy_name": ["TFT13_Crime", "TFT13_Titan"]
+  },
+  {
+    "puuid": "43IEC31An6A5tQfln6Tpx0FxuC8khh-rNBu5XkU4LR9xRs8PsZg9YSeJomDvq-UiIiJDjNDDeJ5IJA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "n4vmrc1onMGfh3eI3-aXw8HyQvcY3NPFjT0usUiUbGqg3nDAYDmZU3-OT7ufnzAee6m9rRRE5gK-KA",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "c9XHRbinekjwXT1W9hbe4z3KzviMo1bT6QF2v5elI96O9pdCA5ucxT279dPHNxMfeEugwkHbylRi6A",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "uHG3FDkDjR6-aXe2dGkijsmxOAlsdWFqrwCvnDXVERBB7HwuRXKZySmflUokTSdvCzf0najAuUEMbQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "e-Lomz9xw14l9NFyQ1kl1ii9L9Ki2MWSdFPwrp-RjSd0iwn5iXB677l2-lCpr5q20bfrHOiBkyp56A",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "E88uLo8i8YJiKOTvRmjgmadKZAFV5OYvQ7N_hc__NAgT9UnkG8L_nKPFk3tNheMSHsFOR-oKtKNX9g",
+    "synergy_name": "TFT13_Hextech"
+  },
+  {
+    "puuid": "w_qIqSDBwTZllhqDhJSLjYHCrF8N7IzalERihgbr3FUNzimXXGXtQVe5FvRlstdx8eJthIfN6-9tkA",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "E2GDjuGEeH8gzvxfHSJ6mMYL-83HiYkgkelseGwVQWUzXUyH_bruT_akYjy6fhATYA9l-RwPpw43rA",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "rsUOFtegCJ5XB0xo3cOyOF-m2OuATP_f8YdtqDi6JfjPw_sTCgjbeCh1MglKritVp7tC2avXXC1mFw",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "Cb3Pem-qKo0ircnkZq9kqQuBMf8xrAgEHQm_FoRNGmV9aPpx1ERQ6w2QXz-eNQIcw4sJ8hoUkgkjgQ",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "SEZPsZ9ZLBLcE0NloEL-vIY6483vGzfTHp2WFEPTJrJwYaLM-yR5ha3bQ0ijXDXE9-cgTUDGnMyTZg",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "y9u7pYYGaEIxhMAvdNbXlzqKKedGqKHKTQL9otmnBcPPR3yWMJ19g_9rQlRSF9ia6_kGVCwb9Laryw",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "RFCQVFnhQJkVekXmk-22604J1TmQRvqOMneaUpnejfl3mizrglwdkYnA7eR-pyaMe7QaKjcLgu8m2g",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Academy", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "vByw5yfPfmDGPoWZLVp6rHQgmg5V2K-OaGncx1zcgZtacKPUbHJL-vUgbQMdUtMWgWwiGIwSXzcMBg",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "yhS6XjzS0-HXJH2Z-UuI7fPLSWoWP7geKkE4AbEq-ygk3o2ouPGBE4LnBzh3SqOCudEjX5QfV6umeg",
+    "synergy_name": ["TFT13_Crime", "TFT13_Cabal", "TFT13_Sorcerer"]
+  },
+  {
+    "puuid": "s9EPoQOMqwceEqSn6Eq0EoGqeXHg1aBTTryPm1BLhoiB0PmJvzsHEbA_aAgLo_c8hb7vg5L--XSBxA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "5Nn58ajcUwfiX8E9CFBh99GYQtbf4cBEuPo6B-Jf2lsFQBO3ximXjH5qo1ta9_x6cF1ryzAuLQFOrw",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "RrLiwSheT1chGUiUkCiUkLksI-I_KqnDSB2QKvICT_CzlxQdWRg-uPMzn50OutsNGP_brys-hK3ihg",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "rsIY3IYHA58UcGAZVU3rNMTYDudPIsi6grWWTLfIvwc6TxAS48g6sH9DUVoQxcNzXtq6d9iPCuS36A",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Ambassador"]
+  },
+  {
+    "puuid": "ZVIONbjKOOKL4k7Stc4ar45QZdfqMEyZh2xSHBUfq1Q02qpzrTFWnaD2Am5pCiPg9y9zEkSQ6vKBWw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "l6dr1nCZ8YsB-n15te0Cbu6DuXC9K0UXoAuYplXzIDxx-_gl-yjZunhiiABC5xk1RY3L1VxkiJ_SXA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "ybowdGnvPiKd6LGCP_mqZjDJjQbriUw01w76XSmffMKKakFpAIRMpa62pIXhgyR3-oQnItZ-UxHy0g",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "qugWSi5htrDdJBhfQxO7Mu6ZO_1lwJeYkCP_XIiSYB_IvSpu7vYFgoPF7HCsT5poVHbOibFus5TY1w",
+    "synergy_name": "TFT13_Challenger"
+  },
+  {
+    "puuid": "7ZcVcVDI5EERovjassQrQJSo2Q22vlwL7v8E6V_g7Bj3BQyhOKci3vpMa4yZ2Acuo25ZsA3HAvqHxw",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Crime"]
+  },
+  {
+    "puuid": "ebglAnyjNzCQQCNalSlv_yFiYZOZlCcRgyfKtN8dsMa2sCv4ZouicP0ozANjmFDixUQZiY6hF36Jqw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "YOIbG5-RyT-sYhLGEU4z1AEXFTZRlNIG4zG_yGVnhDuQYE1ikyxvyhkuO4va3s4Uj_JVREC7joCrig",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "IUxqgZgYHNlw3Yteqenw5mb0Du3Q384G83Q90ODTlFV3Qh51KhKatGELxwr2_8q3aMeJd5JeVUiLDw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "1WKeItv4k4Zo3lyEv7Y-zvgvuWDVG5LIaWiwW-xpPzU4yqzJS_r5WM5ZbEvKEeYCUKkg0HGCGPFddw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "CwqxlDg6qdQs8MzFLacSyRZYbzuapeykKtl_3gU6vuPeWL_bsERxjywpB-i7B7hMgiiznQUlC30l9A",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Sniper"]
+  },
+  {
+    "puuid": "LKZ4OCbbfR5Q5dpNLPSyD9cx_s8PqcenRlY1ovgPclh9sVN3qsDnFBGLSwABbNjpPeKX5pbXfFeJKw",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Sorcerer"]
+  },
+  {
+    "puuid": "PoYv3-LWnaYrKwTGdHKji0yDJzxlw9FCw-AoNVGeVFbmZzfefvjYbZA4yHqXJZSWS7h1oaKX_aW0qA",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "15DW49N5cie06t2JNUEbZIMNI6xHF4AjdnnrezYinjrRp0IXgi6hqwMS_UaR1vw54V8a-WnAHBG8zA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "uCi8FHQiruf_PuviNgzbDTA2mxpbRxfitasD-mCWjjac6Kl9kAizgqhIO_xQRQYi-hRscVYgrX-Dng",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "TLDJ1SWzUZ-yTiRHgnZtwjF9wgvXnVWjzgDpbRKrPF8EUM43gCu4aAPBSdklxxnasMchzJm6HjQCwg",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "fosG0MAhxDTXhZQCgDsHlhS3aMqD2kVgt6AM3WKI8-uAZDlEL2PEE6Ma_N6Tp2oNsae9XfPKtYY3uQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "Q8lAzhsS-XsWoltDcSCqZP83ig5L6dAAUhHcNavEmPvaDKfH6cruw9HXRDiMkkKxmOlPkM0Rtiv6Sg",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "_pe8jVm0CY3vkFwfOWU2gV5vvr0iwqjB-GY9V3VTHZk6bhy-1N8Mn2_4zj3bbWE7hhiKsZUdmiVkqA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "foImSCDVWcLPNe64RGNmVIdwWKhn1kgJ6qnfvFDns8feyrQljD2T8J_vdb0S1ubQfS38aQLvn17ssQ",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "TdVeOGOiNVALvgg3GAMfNAO90z9dJF_23s7RjS5BTEqH5DWOPd1Jgo1vtBc3kY03_-poIJypy2UF8A",
+    "synergy_name": ["TFT13_Invoker", "TFT13_FormSwapper", "TFT13_Watcher", "TFT13_Ambusher", "TFT13_Family", "TFT13_Cabal", "TFT13_Warband", "TFT13_Scrap"]
+  },
+  {
+    "puuid": "PRRoHumtiKjEF2kV_RFX7YappyGmULdcfyEGixzsTXC435lNUhA3aWML4LTL-34CSDEF-OBNcPgQag",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "Ivkfs8gWw8DD1EbjZUShX-UixY0TDQTjYV00ESh9fGXbz4CZ1-UvF-4VthCJUEL-tl0GzbQVme7jjg",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "vY9HTSIMc7UWywWS9nmn3tEi-kKS_sesUw4pzkSRl6LSdkMmN5TPE5-BfWhH_ncow4NlKZ8egC95Dg",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "UqLyChrljDyMHxaC9SWVDwqVpjLTVlIWDarXgLuJD26RnkaDekpaVn2xEq6ST2X8Y1UwOSp4_Kn0eQ",
+    "synergy_name": ["TFT13_Warband", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "I642kb_JFoqQiLAk6eATl50vOYIId5XMpGCKBgDO_-LI7y1h3kkEYi3xx8rKLuYYkyC4iQ9jx_V_9A",
+    "synergy_name": ["TFT13_Ambassador", "TFT13_Infused", "TFT13_Squad"]
+  },
+  {
+    "puuid": "K8h9iz5btGM5WaRdVOJsJtJGE9oZy2IJTNdnUmORg_cJw3chwP601j4VOrCHiwNuNDUADUH4JGN4ow",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "7DETmfXG0F-n8QxZjNUUMdOm50BcYFmITkMLl6pn778QPyoAX8-37gIPaixCF6PV4U-1O3jGdmbg4g",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Experiment"]
+  },
+  {
+    "puuid": "D9P7GORn9KNo8QIpDI0GbgwWtyIXlWegNsnWXDFbUK-LkHUgjdbPZx4Gep49t-7FabsHk3V8qR-mNA",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "e_TznhxBNdxO-FFpqlqNrjovCKnkaJqsaZ0V2xSSx05GOLIab6JiE72UMgiHyJoArmFtXpYxJWbtmQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "njFMWVGzjTLsABxUxYTxnhtGNjyTtJc4i0_mZOlVQ8OYxwfBhX-LPwhcLpjP1_UP4g4hJ_bX-cS2yA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "F6JbZDKXNshO51rDaELhCDljM_ZsSJTee7xfV_boRfDIy4VHjrrikx9qBWYxk0GyF1voG4HsI6AK9A",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "-wnND8Nup2tlR73zZBeanWvDqarYzh_T4dKC0Q1SsQkINV6C7RLJ7qo3dz_SPLshDTC0TQSMpyk0kA",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "KOeTsek1lnefqYJfrr4Uf1K9QELGFE5xfNTekFIj0FsErvLPHbzIgUp9oFex96fgR_IMe1IPrbKpyQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "0kOzLycdyHJFw52mi1HkxgwZp8jOOXYEwuv9mrBx-rgJkHWTrFTHzc5GPkTYh5oJHWfAZ_e-Yz7BAA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "_Pl-U1LJ7hawyf96OgKohEHvUSRHxrMblvHTlU_4i3h34833p3ZOjeYxNl7sZprBrPwtH2j-R0i4ew",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "vyjHOcvfQVLWrY78FVaiyDJ-avFAZT3o4-nl6ji9CApvJASogC3tDl4BCeqovuOrIH6lTNHq1FdMFQ",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "bMIOJ9d09cRjTeW4p9kvVhd-JjDuLIbV_v9ZyPCegMwxbG0Ij-CM5-4ePZJEntaJmptZCIRJxojLYA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "5XOPiYkAOsHd_kOmaQ7NT85FY5nGQGDwyOJEOXFpgD4UZh7WaMOc78AHzl9oh7i8UxCh2Bb4kelT5A",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "FEjZqhJcIoDAbHCCnkrAEDIMCp8HK5wglaawu75uaq9mRIDI_PsdAeDWJwcV72LSRNUg6c9qorMXCA",
+    "synergy_name": "TFT13_Scrap"
+  },
+  {
+    "puuid": "bXm9E4aaXl8xP9c7ugX88ma3nv18wpn6ALhJ8Z2-i7o-ZmbgS_YaKkyd09Fp-Y4sSZJNHc-OFIYd9A",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "U8fq_U42YJyIj7H2x3sm9AbgqbUJ_flIsQhvk-cCywWGT-o06LJ0z5QltXGuBCmSziOsNlA17gBu3g",
+    "synergy_name": ["TFT13_Sorcerer", "TFT13_Cabal", "TFT13_Crime"]
+  },
+  {
+    "puuid": "Fc3Q3TLa-Yzx-XJdDUDsz1WFOcV1GROBwcVKfVF3_r3lB4iAyqBvwQ411Fwhbf2F9NyEKR_68j-_Tg",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Titan"]
+  },
+  {
+    "puuid": "CauFdvIEFj18_kiJhWq8ku2yB9rOaQnEtHNSTXg23u7EUb4Wz1Bju5-fNGQeMXgMGJxo-Hywqabf6Q",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "Sg4aSva1kHBmQQNg1gxZxVla789lL4q_LvJa21Glg-avssD1Xr85tajyyAeVqiJgK1C8vLyJWlVpww",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "BWQaEdXy7eAjQ9eLoSjG2UYitD3rFSDbiAbyqWuqxCjMH9tp4AP-ymINP1Z6XmaEtgq7XZ1KErXTWw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "1v1c5c5C8B4gna-HxxfP5vYuCGILEZ8AN_2palV5yqyYWOWgfPRSRiLAhgYGfOaKnYBS2zsi_38Hmw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "g6Kwi3jR-K6dREnmkT4pD0VzDgDAGE3k62sZiolef3kzhN2-LRKokIAif79LIYZFCwAgAk7RQSWDzg",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "LDDbcNbZcpehkEiRshYFvnEqrXVf7cfxFdPWdbeHSq9x-T-Lzso6sfePBoK-EX-HPmi4CQNBwB-7gw",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Sniper"]
+  },
+  {
+    "puuid": "1WTrv3P0EwmIZHg4D9BIC8Oglz4HsUDr-Yq1qCHZCsMXkRnY4H9671MO-bbv-E8PvwG3Mei8fFBM9Q",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "A-usI2KnCzQ2Pizj2NfNjB4Hbt8auOTE1OQywbflSqWMp5ZEicBuCCEzxyf4j00V81LXUABQHuz70A",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "y4jBCZ3-r1G5Uc8mUZQfjbZeee634eLPMw81aAdgUlMFjAQUJZMknhAvUyDSKUFIE-s7mQw_QaDZFg",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Invoker", "TFT13_Titan"]
+  },
+  {
+    "puuid": "rADuaS2XduBLYrjTM6SBLRz31s0BQ_AUDDqIV3GEJuRai4FUiXMpUaypIS4PAy6q4W--8lxpVBdkfw",
+    "synergy_name": ["TFT13_Invoker", "TFT13_Watcher", "TFT13_Cabal", "TFT13_Challenger"]
+  },
+  {
+    "puuid": "wa8cZja3Q-BSh0nMqZ5Qg8oxZWVH3mLNSL11_ikfkWWwF1urgpb2mSDyEtH4NgCOHpGkjnlJMjU2dg",
+    "synergy_name": "TFT13_Family"
+  },
+  {
+    "puuid": "o9wO8D3XPrnxD91rIiDSIjRMc1TboFsNDn6aEWJpKiQv_8dwks3pTmKitAXQJxqn71TWRyTEdjpCIg",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "EX1Vdu-DDiCkO3SuqjugiBWlmM6IiTsGSifU8JsI_1lnSIDfawTsFQNvi0hkGdaL2Wwf6bIluFYzCQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "aXGQdFYs3p1lG7bbVPwDzLOQLhmGsKWtRuJrITCSLBdz6jBgm186CGuFqbEFauQDutLikUDPCy6bWw",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Ambassador", "TFT13_Rebel", "TFT13_Sorcerer"]
+  },
+  {
+    "puuid": "nYpSGeV3GuNQ_mYP3sggaspSkLb33FvcAOygIyWbh86PY3lSh0UZV_npxGDyD4amumithvmD9WK2RQ",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "e0Vo5ceobrSYzE2iaA9RWRP7Fbizy4IDmqUtR4MRrctVGZgAy-bHoHgdTb5IYg7hkXxP3c1EQxSedQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "sq41RVE52QPf-Gt4SWhOgV26ATaDs03MgzFTq-UoPS4Z72Roy2OPE1P4Oe9a-JEpeOqry5j7rFAEXw",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Invoker", "TFT13_Crime", "TFT13_Warband"]
+  },
+  {
+    "puuid": "r3waOEM80f3IC_M0Jvj4fZmSKuDxcCAb7xXX0fG1Sq7dirl-5Mfpm0Qqgwqne7eSjzxnAe7uJGrhQg",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Watcher", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "2pjUbwDCOQXdpRlYWm_F6heYMPEdDqJ3GSyDSwFleXJaUnzmgjLgDi45nvNgT-xHi5wDgcrH1-uE7g",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "9owDSnW18drwKKB8xSIlu4Wzj838h9EeGgBnaHoLoEaOzqZnEDsVk0Cs4TG8jUDV3oIIya5s4_wONQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "zEyURWbuZEOuCgeENHTRSGTj7SyqhE3_P7qU4pF39ivQ-jy_gIC577gD4v-99kPuMh7idvPK9yFeFg",
+    "synergy_name": ["TFT13_Sorcerer", "TFT13_Scrap"]
+  },
+  {
+    "puuid": "51CX21PpN0C6K4GpVF2fGapnVilHC1a_LfP4tfg2vrMSODTrSLCGrK-7AnDw-qlhn-lyNK8u9U8LgA",
+    "synergy_name": ["TFT13_Ambassador", "TFT13_Invoker", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "-cbzSVRT6z3m_lwK08oZcp9G6hHJwEhqMEsOG7l3YInGm1nS07GTropFqgDtEZNKTPN-dGORetnVnw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "4dh3Ahz6-_EHKE4FIsCBK-tGIbVagNuhsDqAyiL1cZTGDCQo9suIY6tEWC4uLnNbSdMoCByIMGXQeg",
+    "synergy_name": ["TFT13_Squad", "TFT13_Crime", "TFT13_Scrap", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "Ib29ZMP6N2X9R_olejvxwTwXZ8EJcZiJN9S9KQzQ3tEI85mifyH7iZ7eth9PtS_LUQ1oa4vSOI0QYQ",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "h9QtFiJco3w8VatfjnK_qxb3BOrp2Os9nqScj49vyFjbnm2iTKH4e8ahMR9Zw_5vxrzq72F0Fab3jQ",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "8tw0PcXw6F7b_1X0PDIX53_Sl_rFRPXDzZCIPUihqu7GeNInYkBWE3EYg9MeiLJVbkZKYT2IP1appA",
+    "synergy_name": ["TFT13_Academy", "TFT13_Bruiser", "TFT13_Ambassador", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "u2SNuPanTyJ0xdfUqtMRtOGgVjADbuT2ngyV3kbeByPkJX7qt_eIT4uNlt8xn7aeeg3s_aosbVS9yQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "rNe9mnjSvxG42G7Y46Kn_DCISffPZjZp-cnbStIYvd3FtuXd4w0hwN50-O1jMU3nf9AQ1mlNdCCD8g",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "gGQtAyd0Zs_igN57sK2x-oQM9HxcXPEQFDLbuLRMUimBEhv1VBUDTbpAte7QnaYBXsQA2IVrrNswsw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "NiW9vl_ScD3M0HiurBJVDHWwL23xSk3WTSBkS1_EGRRaE1EJgZZ0SajPeuStmG-r76PcIVuIfTen2A",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "jWSsswumu3rgwJ941TEgwXtOj_L5ZwQRkkj7x3psKZB3gEQBmuhxRlXw2RnbtCSe4S43GkMLpyELog",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "YAxanQxoSwU5ufBuWbK6cqtWAAi9ZtWr3LA0jXMIpFt9_cTHvoLUvIjJgVBKOpHRfDIkXcX_VkLs7g",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "JR_4wiCZDufUj9zIYL5tASzipdRTx5RoH9ou5uIFvhzv3cZ_oLQBjioXoyXU9nhPecKpC635hRTDfQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "A9Gfn-KrktbodyYIdsCEW_JXVKJ8aiTJslKA5JCbMoTyUMJyJCjO4y8XG1aY2iAGBcbRWGwBkW0ZLQ",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Titan", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "_VlkEMBQihzqEGf4_PxTC5afyTTfSAUTzlLOb8YRb6ZnGKbyfGbTeAXhUY1AXjbCZMtP22pnc9NzMg",
+    "synergy_name": ["TFT13_Crime", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "nCnC4hl9nQ7qZm-AW9wansgbQYLWplRIEwqWJOkZ6wcdkXKvCmwKwMfy-lTQuVIpilQWin2JkE-i6Q",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "dCKFqAD-kpA1_RRKCJIZjG-GydbQLZTAJOihg6D2KS5Z8wvzaCG5X5wlkYnkqmJ9Uo97hokPYmXEkg",
+    "synergy_name": "TFT13_Squad"
+  },
+  {
+    "puuid": "VPCcXdJ25jgjY0xxlCavMERTP_TK2pjnFJLlV1GUKKAE3TEZPT3ey23UIodwaOBkz_6FV3624h9pcA",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "yd6fB4C2Tevykp2OrgE8XiV2pmQNs-hq3scy3lgo6BoXiejyBLShk8YvMpwirJec8esOd0Fti9dRxA",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "wGyeg3A_RoKjp8wyzIkKRylZRox4O2crzbiCl4zRf_g5C0rL0YqeW4XzViojxWJSCjg10oHA1fCTVQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "4JmPLKL4x_mRs4nvn1DrmJ6n0cOUWHvyhzLZGjknot0K_dfTGh8Dg-1-qaLXzpmt0af_iHB-n1NDAQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "1iaCnBWKYy__sM6YF3ZatNUITQeZwc-WGwyhyiiVUybn-Bi4K1_DGu7vvOyKGQXF2Fh1f8Tksvu9nA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "wQMpDXNVV8vqySv1U9OWrGceR6rH2hT8hKRZj36nItJp_OYKoYbOYkxQ1mU4x4qdWlSuSFOlI1IZXw",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "eFd0B8xu4T61icCwYF07QR4QB3TxlC5tBxM4GyInjbw9pKzA275EXkTaYBJs_94Wx-rOugk2yC5fFg",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "4gATIPXsqvXW9MoAiVqg8zhllMxdkLuH7Kyp6ntIe4Zks0HRJ8XCi7sR9PJRFqAyIHx3pWtYsw5Abw",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "gO7XIvbzm3dvk6UQLmvAkXaas0SGA94j5PNVcxrHIm5GTA49WFGXQWdefi1yNc7yFRhzh27dEaD2qA",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "wZgVjoi2mebgrd1T8Nb8RFqlCa33V0NVSHA1hQdgWcLtbLR58WA7sbzbyVGlH1lSkh_bhxFtwBoqmQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "xeETK2Hd7Yc3V44AoZfSce3FR8E6xRnN7VOOhcxWNNa1wM-ebOZPtIfitSzoq_aeUfM4qHw4iSnixA",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "THu-tq2BEUFzJETq_uOU_8JbrA9j0mpPlI4eO2JvIzq-mJpCeDxjFBGvwRb8hsvEAtdcUswrk1iqoA",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "twq6WNxX2XNb9hM2YQBcgI7l6rcCPgdaT52-5FFWkv1n57w2mdmeImPCf1btlcQBX2VJAZ1hs_OtZQ",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "n9zSSX1qgc7-m_Ijg1cvn3qr5lgOvsDXQN6S17-MxT072GpLXDzMfn7aqWTF52b_0hlnYVp4-SlEHg",
+    "synergy_name": ["TFT13_Hoverboard", "TFT13_Infused", "TFT13_Rebel", "TFT13_Squad", "TFT13_Cabal", "TFT13_Hextech", "TFT13_Pugilist", "TFT13_Watcher", "TFT13_Warband", "TFT13_Crime"]
+  },
+  {
+    "puuid": "AfGmMlAqfwJVElzYxFZvUHDT38M03qNy0-lGycCcO5Rlg1fsaTfw3YaU-Bt_pXFG1VdBvzowKOxuBQ",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "TcArqHCbY97C_hA67fNeZPSkv6lI5Ty5D_pjgzYR99SrTrULkK23PP12fUKj1PCkZQKyDcDc6788dg",
+    "synergy_name": ["TFT13_Experiment", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "VMbHk3mrsXPJoCXG74O0_9miYihT2rjpe5DM0ukDDsjSlBCJmRLRz5Rox6M2fLVzdbyqlAQ7nZmSyQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "nLL0Q4QtUYYfpiXNBcTm-vpIWJUAbN6pZvACJyo5veI9marmat-JCm_VZwI2GN5y9YFqFxLZOUHJsw",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "5tnCIc_kZRtD6nX-gOMQ23hxgPnNLFTf8Irl1tb537U-Tv_c84ZT0mxqZNYuxfal4jHxfiOS_RaaHQ",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Ambusher", "TFT13_Martialist", "TFT13_Infused"]
+  },
+  {
+    "puuid": "_KTfI6xIrkbA_l0ABBL4Xptg0iFsvqCNQ-E_VKBJkrzbGhufF9s6_namXGvZqGY60d6p0DbpsixO9A",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "d0i5T9nwuU1vfmwVLLGoN4jiX_aq4QKNz6AU0Y3Qy2dvriCqO0W5YhtZwZ7rvsRndPYqzeQ2zvn8iw",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "Rdapodmg43xGiXTnrXh5ho22rAqfvSVLiG5cj_N2eXWIJUE5982cOwINCPI2_ms-zKuSi5J4kIMTlQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "OzfejHnhto1IDV__47Oxet4z-yAkEmJy3TER-LXn8oaNVzLEDU64gc-iNvE6LBpt1PCgOwtNS_y1kg",
+    "synergy_name": "TFT13_Experiment"
+  },
+  {
+    "puuid": "WEeBuOsfchfFptWI6TAOM-HskoomG6aN4rT0K1RwSO45G0_gEDfvSe69SwjmfqtX-f8hjwce0LSu1Q",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "X790u6wsNdAY_ABR7k3mK634GKvhMyKPBpQ5Q4641nui3gYQ8kydFj1AXS0HGRjnNCBH5czUSbTeiw",
+    "synergy_name": ["TFT13_Ambassador", "TFT13_Rebel", "TFT13_Family", "TFT13_Watcher"]
+  },
+  {
+    "puuid": "hcDw6yc-kDHpsuGS5hUnHLaMDP628f48cSNZ3EyvLXm2tMN74EBp-zp_9Urwx6JHMypbKkK4UOCPWg",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "zdkokhdolDOQbRmczLDVxURvkwRftt6o9ijvAybV8fxpq2qKsDxfegddqokOKEaiMMk4dAZJ4rcXzA",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Bruiser", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "XY17cpyugFbt9r6DOsh1ydNE5fZBjV0BUjlqIB64lSIowXteIpwNyXALeLmMIM4hUgx4JtHHpaNWfw",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "2gsYtXcfnh-5Y0aDF3UIbA8NLCJOjGGTwQdE4aNkZfiX2hsWJPQ0kvUq6zqa_FHzNoECpeLF45x3nQ",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "AMebIG_8xLRNVfwRunlaPIEuJAwtu6O27PKVoagq2A6FH1G-gItKTAq5T3Hi34yUauLyc1dEJqw9VA",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "FenUGb8Atj-mesVOlxFb_JAnjRBlDa1zwKS0e6eDts8lU_YPADvCeVn9y4NDdkvUL_664vXQx5c3Iw",
+    "synergy_name": ["TFT13_Warband", "TFT13_Ambassador"]
+  },
+  {
+    "puuid": "7KlaDMYF1I138BUOdvxi8zI6ZSI5YPdGsHUcizRDUmibB2CKbWFl1sMxh3EGBVDqj8zPjMfkPi9TAA",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "2aERe9hg_1BSib2_5oqT3vVs8rKkOucUGVmPpD7VJXQ1aKZlm8X1Nue6hxQe1gAe7IMMEXGxsHgJvw",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Squad"]
+  },
+  {
+    "puuid": "7SFHALDOl7Lm9L6fM6MMgz7vByNySuMVRDcGRXHlCuRkVSMvQjViurgfvSOaw59LiDv5R70sQ0mCdQ",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Warband", "TFT13_Crime"]
+  },
+  {
+    "puuid": "g0P-yYgPoqMHCBYE-xxjMUghWStE8CbcXQByF__T9iYos0IqN8IdiE1DDYqSF0nt5yTX-xnKuWqHcw",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "EF73lP6mTCL2-TzeXIMq0cXwqEdpQGOK3t6O7RSCo9CFL4zp0UHAOjAc1mToGiC9QiE7q9Y9TpUYRg",
+    "synergy_name": "TFT13_Crime"
+  },
+  {
+    "puuid": "C3VEcGJbe622T0gEWUxRbPRL6GL6RbI_66BPyWtxZakcpj6Ba3s_63eRfM89z653PuV4_6HY4IznGQ",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "u_yTtG9D8x-dr3WZaV_e2qlqdgroQnoaoKnSfqaeaVkGO5SuaBvCzTSZ8dA-SFfEuFiyIYPFr3vd0g",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "kdJo1HJmpwskTP5QrSrlo7la0en8_jlknlJajOeQvQOZfqP6qq2MH3yKmRNkC0xT4vSa6Xl7wcl1UQ",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "vNboXc5mlGP64w2766mbKKKR1Z3ZN7HysT9svwDAn2DhUYom2J6SCDiCOV8oWe3TQCraDGXSfLucJg",
+    "synergy_name": "TFT13_Scrap"
+  },
+  {
+    "puuid": "EYyFEG_EJF1BMjiEE31iwZMuQ-9J92IHlN0OCWOfBt9ODc_r0Q2zEVcmabLE4NAEA5r4saism_5xOA",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Squad"]
+  },
+  {
+    "puuid": "ZlaTcUcUftw1Z3cPl1xWZrfmDGat72jqbqg2I_EbER7_1gwm8fF0LXqoqq-euap4FkTZbdBkikE_hA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "KXNEtsZRJdIBs41plItkOzfsp5cbR26KW4LL_h30p_KSUtZceA3Gb3P2LSZoHXO3YaX6KOxgSUMHAw",
+    "synergy_name": "TFT13_Experiment"
+  },
+  {
+    "puuid": "jjTXGeZ3a9uptmULmFIJdvZpm7yqlq1zCAtRZP6u1hL-r6hZE3yPrqJLIOptPyyjeuZtpknc6qp1Gw",
+    "synergy_name": ["TFT13_Sorcerer", "TFT13_Cabal"]
+  },
+  {
+    "puuid": "xKtCgEYUJ1RZOIaP0sRLdA04lK6CZ2YQncogJwam4ueQTELv6KJuCY6hPf6QXSnB86rOy8wC1Y_mDw",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Experiment"]
+  },
+  {
+    "puuid": "tKFXUryjOHI5QX9_2MaScN-9PPAe3h-Ms3Jt2sBHIAMb2vAbmNvqhpVXUA8orj37gKvkTDRS2HU29A",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "TlWfJAtSWiE88y5LDFC-JI4ertUSXhIiABbnCSnfMuR37oNUYhraEqq3dyVpBxuYP4AWOYfdOhdHyQ",
+    "synergy_name": ["TFT13_Family", "TFT13_Hoverboard", "TFT13_Sorcerer", "TFT13_Titan", "TFT13_Ambusher", "TFT13_Pugilist", "TFT13_Cabal", "TFT13_Scrap", "TFT13_Watcher", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "PodYv6F57FdpnSJJYjsJj8ci8XHHSj-PrSKT0SGDzaSzi8jdFre0SsUSnXXnm2lHtGK_IMbrJ7h5sQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "tAglbrcH7DtjKUuvuiiaopk3M8uTcbdPt6oQr0thMxASFp9Zp-0CY_8o3PIqd9ZHVhmidx2krXLawA",
+    "synergy_name": "TFT13_Bruiser"
+  },
+  {
+    "puuid": "mUmsigP6urSkNEJcq_pymPCSR4HKIt__UqEPYYT96ApAXcz7Hl7RoxtnP0ZcSPBju6-vida5MrpXQQ",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "sDHwi7R0GDfM90uRajrGQR4zbdc-szVdQlLuzTpS0scBb4vChZpH2oyhfB-9OID1DyPfZrWY6gAAmA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "LBgrm0L7r6yxcMyfw07ib4cCQdp1ujba2EqLuJws_fMb2Kyvmzq6miVNWpAnjMQmvY_1Zzvrkptttg",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "nzN2qnn6s1iUq1gZB_SFoLf27X7nzp0eBwHbaXGyFoY8LvANyxyRFmCZysxkMFV242pyc2Jm6AkCjQ",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Ambusher", "TFT13_Warband"]
+  },
+  {
+    "puuid": "shZTXzX6Zm7dEC70txjjgHjlCBb82iF8DaJsVFzulXICkG3zW1i9NX9X8mbYkv301Gcr1NHkDTCi6w",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "s-tX5srbvL1EkDOpmOfIch-YpUDeZse3wmcrxLeh2jdaCgyAsUCoE9lVB9zsaF9RGFAIkzBGuJwAcA",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "FIkdXv6Xj8fSB57ozvD1XRNv6U91zE-W4u9TyAK9guQNdaQ825A4RKoOqqB9hGL__AgfP5kEsQ4oWw",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "hREcUbTQ6eo9wyKDhjo8NxZJUHJr6Z9zAAQEGQwcJoxwomppSuQ-MOkDL8ZHr6809l1xMGXjIbt3eA",
+    "synergy_name": ["TFT13_Challenger", "TFT13_Academy"]
+  },
+  {
+    "puuid": "8_YV9eIO_abgHN_g16AIHLjIW9uhs79CroqPo_ELKkFF8brHQE2iPq5R4yVEuu6gqZTtktj04u2dUg",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "hF2uOK8WPUOiZxtUDTincOPgUjLOmwT2tv3bCey2nAzBHS9I395NDweJrlknimcNjvkQSikX1guCHA",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Titan", "TFT13_Pugilist", "TFT13_Warband", "TFT13_Academy"]
+  },
+  {
+    "puuid": "g-bSTB9_ZrSvv3VDBORYPvxbwy5NgfVRbSyZ2yTgSgaDPYPMxdsbm9MuZzifAHSfACFu3y3QAC4oFw",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "xIg7kUlYT2MhZwF0DRRvxJ_TuZmaSyASOFVjfbveuepjHxWlx7_q5Wbz7xUMlyaiJGFbEpJ9dmjssw",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "I_8GQNSsptnBmt6nD3DMUx_NacT-mOBR67I3Vri8ZvhirfKUYogjmE7I5doWbteoom4rfaE5oMK02Q",
+    "synergy_name": ["TFT13_Bruiser", "TFT13_Experiment", "TFT13_Warband"]
+  },
+  {
+    "puuid": "F3rAvBIzvBnyIctfBoM20tKKlUOLMa2djj0fukOphS44u4tKrEbFlMS6XpmKbUfANkT4A8UOUjn-Vw",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "UjJsY-2Psgn4GCzbS_nxVuyR-x4ezsi-CzjGq3uZ9lav18i8gqvRHwudDwYiFsPQ2eTa7kcZlXdMlA",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "p8zloivGT3w26yAyVKQYHSkS-zmROCsKuWrbSkhsawRo3dITAs5ix-gbZmmHixomWsuDCdjvwEraEg",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "WNLr6U47-_js-bcS7tE-QeUDRRPCMkni_Y1dACdCJp0EFHmdo5ImDz0Uph2sEGAes92KbK0wKFogTQ",
+    "synergy_name": "TFT13_Scrap"
+  },
+  {
+    "puuid": "ALJ-ia0LUDCPVLQXxrb6sdzXeZE_VSiQOWTvS0yUelOLanZOGwwj_e1HyqULE9wYQfPIi-9ao5KO5Q",
+    "synergy_name": "TFT13_Infused"
+  },
+  {
+    "puuid": "fg3cFvFBm14_dgCd9Qbf4qeYF-46dcGnFIXpMpwwGBKI1w5ZJNqQB3DRRv4qi8RnYy6FWx-8P1AZ_A",
+    "synergy_name": "TFT13_Invoker"
+  },
+  {
+    "puuid": "Qb341CvePqke1rWyG_xEsQe9MzueqUC6SgP-r3InyoPnWk00ApFYt5KXqWhhouvG4-D8TgMOm9A_XA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "FsyAMIb0vk4z8iOZrYtl5sUJQO9Zjw9VtHn89lWLk9x_lwrzln7RyG6zHDAs-P-c3ZEvsexu6SucQQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "z5bxlTtKqa1KB9UPnL9xe9AhEl-y9-6RKSo2Xw3wchDJu-_x3eIJzz7yQ-ju1Dwq8sJm9ibqs6qVRw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "cYI9cSKOQNp94SCC5wpBifO1UDaacAW9VCoOUG_KbImPnOLWxQGrlNJoWBs846vdU7Qb3jIlZZQyXA",
+    "synergy_name": ["TFT13_Cabal", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "c81PyMS5bFx2nHHz2hPglWr98Qk2c8xKeWVXmaJ-YgkqaLfA7dG2N_uWVZJ3MquohEK7Yaf5LEyEEQ",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Cabal", "TFT13_Crime"]
+  },
+  {
+    "puuid": "V5euT0bTLjJwPCdsojaddj3DHJrpECUHiqUbl8ZEi4n0GCUSvqy0qm59B5S-7n4jZM_iWVrJkzBalA",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "zmkqo0JlyJVIqjSGtseZHQmMjAFcXDjynnUO7g19PxeqEodKik7_Azw1kFPMC_DwXE6YWAysgPqM3Q",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Squad"]
+  },
+  {
+    "puuid": "YbPxIYt9fpBnzJws5sfjNTlOOglLF3j-QNiHScQLVKCAh1CZAITM8EiPpwf2BRFIvw72WsTHXwpoOQ",
+    "synergy_name": "TFT13_Watcher"
+  },
+  {
+    "puuid": "1OX13URtfn0fPD3MH6im4l7KV_oJMgEtfENwnsAD-vRqBVm_5lOXbG5tWahuGAvS9axwcHU55g4rVg",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Bruiser", "TFT13_Squad"]
+  },
+  {
+    "puuid": "M8ELyCHFzYyZdm-wx8sA_F_PzgGdERqLFt7BDLwJJD5T5RDaJpzmIvVv6Y63jyyGDs9bSxEM-ppavg",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Family", "TFT13_Pugilist"]
+  },
+  {
+    "puuid": "XZP08wsGBbYpOARuNNOXlIL1y53RQAi6WJyeUQY2Xfh6W-F6_dRD0Z8E_AXpflTQf_jjx7Z1_783EQ",
+    "synergy_name": ["TFT13_Sorcerer", "TFT13_Challenger", "TFT13_Ambassador"]
+  },
+  {
+    "puuid": "67v4jH4EudSUesZhBxUmMWAcygb2ifUIrLon453msdtFxvFjjX_Gy0WbVLYqHBSZvdQ-Iqdtm4a7Tw",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "xKE3dGIyv-w2Ra3QPPDu0WX580o7OnM34M_c_3TRHydFZy_CwV2owk0fK62PML03hVi4v6gYmmZAsg",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "6uHvNclht6GY_0bN1ZgZ7JgNQ51yDnx6k0IMBB_2-apreL2KIwntvgfl5TK_9zCuMZ4O0fNkMBXjpQ",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Ambusher", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "CL0XKChjT-WILh9qmaiTXUbgvoDR4giBsrQ82DgSMc6R_0q5JkSyBpjWG5kZk9LYd9ek_euU0Y0MMA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "4pPppKLtshVzCXP99z1ZcHgcWsheOLMu8BD-pMQAdV0aYjjq1JLFzS_nyiqs4XXB3FNYd6ITr9-0hg",
+    "synergy_name": "TFT13_Titan"
+  },
+  {
+    "puuid": "fSzAJnvrYqUhw-MEoDKDLd6Ocs1K5w1Zsq--fnLyGo3Z40zwFVhphuXsaL10_8sQw43L7tBMVvgP3Q",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "zio-R3FzviKmfLcp6qo-_xi6nZ1rl7ybh-_PWL95NueVfG9WR1e7c4wd50hr8z4wy1QJy7G_3hILvQ",
+    "synergy_name": ["TFT13_Rebel", "TFT13_Ambusher"]
+  },
+  {
+    "puuid": "7DEW-EOk6rFgxwQE4uHRzoH1lqKEVma7sxGDIfsFBwwma1c0sNWbLFAJ-w5-XBjS4aEvTyBmjiAKAA",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "TgJ9BAIRZkruZ1Kty4QyYBVFyHA47n5-gHqLWvKf3YigflcL0FzTQaMheDaZY0NFyQ9wOIaG8lp7lQ",
+    "synergy_name": "TFT13_Rebel"
+  },
+  {
+    "puuid": "xyGtJeGyecvb_dsbK8mrHY-iunrgNhwPnIzlaJcAD-CpjKfwj9oTAlWQ2deqLKhR2FN5ZduBnTTnsA",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "m4o_hvlbkikjJHYAXcjPpYrIFLE5EmClZ180SP4i35-2IjvUTQm3DNwJubSXBoWOZk-cbD4AOXty-A",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Crime", "TFT13_Family"]
+  },
+  {
+    "puuid": "yIhqSnC6G_Pkv8Ro_4OkLvlBLfQ08B6Mld7S0dAwrZDHQL3Bf1IaFdtytJbvhyQ8RQFeAEr7fsLT9w",
+    "synergy_name": "TFT13_Warband"
+  },
+  {
+    "puuid": "fNAiIo2Y1YL9q0JDpkkeXdsjEojIjcBIDcEoycLxIaYENVhDQClQakasJC9-wQh5DQWs24o9FduNQw",
+    "synergy_name": ["TFT13_Pugilist", "TFT13_Warband"]
+  },
+  {
+    "puuid": "vmyZWzy3gaAfI33iipDcnlmIrF5EN1pXW0k1M-gWyqB7fNRQ_Yk4QXh3JnWA7av23dudDMBWZoEPdQ",
+    "synergy_name": "TFT13_Ambusher"
+  },
+  {
+    "puuid": "yZkmaNS8s9QmCwxrp-AOH8nMD5DczU13KqsMwQtzFrdCbo-2m9WujimMGNAKRHpvlcHPT46BEzvC1A",
+    "synergy_name": "TFT13_Pugilist"
+  },
+  {
+    "puuid": "t9y4QP6JIUsqWWaDJjMTmvrOlxSkz-W6Uy8pSeak5aJW_VwXMh9wkl7XkAQzHnlOXRfPuJV7QFMfdw",
+    "synergy_name": ["TFT13_Ambusher", "TFT13_Warband", "TFT13_Invoker", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "d10sa0ux-EsFvL-7Y87KN7bYJk8Zkykyla7cFdGOABl6UuQ5kCwYz7B5A281mjA8tXyf2CjXAZESUw",
+    "synergy_name": "TFT13_Cabal"
+  },
+  {
+    "puuid": "CBgH8Kph2F7-EYbOp4xi4l_bpwrRstJFVQtVx1m9cWt0N4d-NvUTkDM12ve1cDRhO3FUH7qiYlaQXg",
+    "synergy_name": "TFT13_Family"
+  },
+  {
+    "puuid": "1eJgEJIbgVj4cbSpBkwKGB4U7YN77m_SvRm2s-lJOAauKdCajwcfHPbz7w7GanZcMR-LCSyEouhWgA",
+    "synergy_name": ["TFT13_Titan", "TFT13_Warband", "TFT13_FormSwapper", "TFT13_Invoker", "TFT13_Rebel"]
+  },
+  {
+    "puuid": "LppC1BIx02Xf4AcssUstaiMRmxqIsu9oCb090q15El7K--HGg0kWjMXXR0Cwefebun2nWocRgprdcA",
+    "synergy_name": "TFT13_Ambassador"
+  },
+  {
+    "puuid": "Ail6gR1Pb9UEOqAaUmcofAfW8u9p2k_bU8p33X1uY12z5ZYNK16zHP1agUGcM0AzdOi2KulV7eOmKw",
+    "synergy_name": ["TFT13_Watcher", "TFT13_Bruiser"]
+  },
+  {
+    "puuid": "jLNqFd5waeuQ1N6XYkSTnGyNyIaRKT_uMxp23zDC0LICZ6JdBl9OhQfN11ErmCeebd5Ibm6R_xXauw",
+    "synergy_name": ["TFT13_Titan", "TFT13_Challenger"]
+  },
+  {
+    "puuid": "jP_kLwkA5gWo0wGYh1fZv7sBSp_VDjtFzuP9buM8tWCbxOXQIk-kNUvtLpZW61uNbzLY2BmCsOmdjA",
+    "synergy_name": "TFT13_Martialist"
+  }
+]

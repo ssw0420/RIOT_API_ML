@@ -1,1 +1,1 @@
-Silhouette Score (Average+Cosine+PCA): 0.4228
+Silhouette Score (Average+Cosine+PCA): 0.6965

@@ -43,11 +43,10 @@
 
     let isBlurred = false;
 
-    // 첫 번째 비디오가 끝나면 zed2로 변경
     mainChamp.addEventListener('ended', () => {
       if (videoSource.src.includes('zed.webm')) {
-        videoSource.src = 'assets/zed2.webm'; // 두 번째 영상 파일
-        mainChamp.loop = true; // 두 번째 영상 무한 반복
+        videoSource.src = 'assets/zed2.webm';
+        mainChamp.loop = true;
         mainChamp.load();
         mainChamp.play();
       }
@@ -55,8 +54,7 @@
 
     actionButton.addEventListener('click', () => {
       if (!isBlurred) {
-        // 비디오에 블러 효과 추가
-        mainChamp.style.filter = 'blur(5px)';
+        mainChamp.style.filter = 'blur(6px)';
         overlayContent.style.display = 'block';
         overlayContent.classList.add('fade-in');
         mainTextDiv.classList.add('blurred-text');
@@ -64,7 +62,6 @@
         actionButton.classList.add('blurred-button');
         resultButton.style.display = 'block';
       } else {
-        // 비디오 블러 효과 제거
         mainChamp.style.filter = 'none';
         overlayContent.style.display = 'none';
         overlayContent.classList.remove('fade-in');

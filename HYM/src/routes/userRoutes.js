@@ -1,3 +1,4 @@
+// userRoutes.js
 const express = require("express");
 const UserInfo = require("../models/UserInfo");
 const { fetchPUUID, fetchTopChampions } = require("../config/riotApi");
@@ -24,32 +25,12 @@ router.post("/saveUser", async (req, res) => {
     console.log(`PUUID를 통해 최고 숙련도 챔피언 데이터를 가져오는 중: ${puuid}`);
     const topChampions = await fetchTopChampions("kr", puuid); // 한국 서버 예시
 
-    // MongoDB에 데이터 저장 또는 업데이트
-    const existingUser = await UserInfo.findOne({ nickname, tag });
-
-    if (existingUser) {
-      // 기존 데이터 업데이트
-      existingUser.name = name;
-      existingUser.puuid = puuid;
-      existingUser.topChampions = topChampions; // championId와 championPoints 저장
-      await existingUser.save();
-      console.log("MongoDB에서 사용자 데이터 업데이트 완료");
-    } else {
-      // 새 데이터 저장
-      const newUser = new UserInfo({
-        name,
-        nickname,
-        tag,
-        puuid,
-        topChampions, // championId와 championPoints 저장
-      });
-      await newUser.save();
-      console.log("MongoDB에 사용자 데이터 저장 완료");
-    }
+    // MongoDB에서 사용자 조회
+    let user = await UserInfo.findOne({ nickname, tag });
 
     // Python 서버로 데이터 전송
     console.log("Python 서버로 데이터 전송 중...");
-    const pythonResponse = await axios.post("http://localhost:5000/send-data", {
+    const pythonResponse = await axios.post("http://localhost:5000/assign-cluster", {
       name,
       nickname,
       tag,
@@ -58,6 +39,29 @@ router.post("/saveUser", async (req, res) => {
     });
 
     console.log("Python 서버 응답:", pythonResponse.data);
+    const assignedCluster = pythonResponse.data.assignedCluster; // 클러스터 할당 결과
+
+    if (user) {
+      // 기존 사용자 정보 업데이트
+      user.name = name;
+      user.puuid = puuid;
+      user.topChampions = topChampions;
+      user.assignedCluster = assignedCluster; // 클러스터 정보 저장
+      await user.save();
+      console.log("MongoDB에서 사용자 데이터 업데이트 완료");
+    } else {
+      // 신규 사용자 정보 저장
+      user = new UserInfo({
+        name,
+        nickname,
+        tag,
+        puuid,
+        topChampions,
+        assignedCluster, // 신규 사용자 문서에 클러스터 정보 저장
+      });
+      await user.save();
+      console.log("MongoDB에 사용자 데이터 저장 완료");
+    }
 
     // 클라이언트로 결과 반환
     res.json({

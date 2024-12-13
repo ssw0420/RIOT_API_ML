@@ -1,79 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TFT 성향 분석 사이트</title>
-    <link rel="stylesheet" href="home.css" />
-  </head>
-  <body>
-    <div class="container">
-      <img id="background" src="assets/background.png" alt="Background" />
-      <img id="logo" src="assets/logo.png" alt="Riot Games Logo" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TFT 성향 분석 사이트</title>
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+  <div class="container">
+    <img id="background" src="assets/background.png" alt="Background">
+    <img id="logo" src="assets/logo.png" alt="Riot Games Logo">
 
-      <div class="wrap">
-        <div class="image-container">
-          <video id="mainChamp" class="main-champ" autoplay muted>
-            <source id="videoSource" src="assets/zed.webm" type="video/webm" />
-            브라우저가 비디오 태그를 지원하지 않는 경우 표시될 텍스트
-          </video>
-          <div id="overlayContent" class="overlay-content" style="display: none">
-            <p>리그 전적 분석을 통해 나만의 롤토체스 성향을 발견하고, 닮은 프로게이머도 확인해보세요.</p>
-            <input type="text" placeholder="이름" class="input-field" />
-            <input type="text" placeholder="소환사명#태그" class="input-field" />
-            <button id="resultButton" class="button" style="display: none">결과 보기</button>
-          </div>
-          <div id="mainTextDiv" class="main-text-div">
-            <h1>LOL을 통해 보는<br />나의 TFT 성향은?</h1>
-            <button id="actionButton" class="button">성향 알아보기</button>
-          </div>
+    <div class="wrap">
+      <div class="image-container">
+        <video id="mainChamp" class="main-champ" autoplay muted>
+          <source id="videoSource" src="assets/zed.webm" type="video/webm">
+          브라우저가 비디오 태그를 지원하지 않는 경우 표시될 텍스트
+        </video>
+        <div id="overlayContent" class="overlay-content" style="display: none;">
+          <p>리그 전적 분석을 통해 나만의 롤토체스 성향을 발견하고,<br>닮은 프로게이머도 확인해보세요.</p>
+          <form id="userForm">
+            <input type="text" id="name" placeholder="이름" class="input-field" required>
+            <input type="text" id="nicknameTag" placeholder="소환사명#태그" class="input-field" required>
+            <button type="submit" id="resultButton" class="button" style="display: none;">결과 보기</button>
+          </form>
+        </div>
+        <div id="mainTextDiv" class="main-text-div">
+          <h1>
+            LOL을 통해 보는<br>나의 TFT 성향은?
+          </h1>
+          <button id="actionButton" class="button">성향 알아보기</button>
         </div>
       </div>
     </div>
+  </div>
 
-    <script>
-      const mainChamp = document.getElementById("mainChamp");
-      const videoSource = document.getElementById("videoSource");
-      const overlayContent = document.getElementById("overlayContent");
-      const actionButton = document.getElementById("actionButton");
-      const mainTextDiv = document.getElementById("mainTextDiv");
-      const resultButton = document.getElementById("resultButton");
+  <script>
+    const mainChamp = document.getElementById('mainChamp');
+    const videoSource = document.getElementById('videoSource');
+    const overlayContent = document.getElementById('overlayContent');
+    const actionButton = document.getElementById('actionButton');
+    const mainTextDiv = document.getElementById('mainTextDiv');
+    const resultButton = document.getElementById('resultButton');
+    const userForm = document.getElementById('userForm');
 
-      let isBlurred = false;
+    let isBlurred = false;
 
-      mainChamp.addEventListener("ended", () => {
-        if (videoSource.src.includes("zed.webm")) {
-          videoSource.src = "assets/zed2.webm";
-          mainChamp.loop = true;
-          mainChamp.load();
-          mainChamp.play();
-        }
-      });
+    mainChamp.addEventListener('ended', () => {
+      if (videoSource.src.includes('zed.webm')) {
+        videoSource.src = 'assets/zed2.webm';
+        mainChamp.loop = true;
+        mainChamp.load();
+        mainChamp.play();
+      }
+    });
 
-      actionButton.addEventListener("click", () => {
-        if (!isBlurred) {
-          mainChamp.style.filter = "blur(6px)";
-          overlayContent.style.display = "block";
-          overlayContent.classList.add("fade-in");
-          mainTextDiv.classList.add("blurred-text");
-          actionButton.textContent = "홈으로 이동";
-          actionButton.classList.add("blurred-button");
-          resultButton.style.display = "block";
-        } else {
-          mainChamp.style.filter = "none";
-          overlayContent.style.display = "none";
-          overlayContent.classList.remove("fade-in");
-          mainTextDiv.classList.remove("blurred-text");
-          actionButton.textContent = "성향 알아보기";
-          actionButton.classList.remove("blurred-button");
-          resultButton.style.display = "none";
-        }
-        isBlurred = !isBlurred;
-      });
+    actionButton.addEventListener('click', () => {
+      if (!isBlurred) {
+        mainChamp.style.filter = 'blur(6px)';
+        overlayContent.style.display = 'block';
+        overlayContent.classList.add('fade-in');
+        mainTextDiv.classList.add('blurred-text');
+        actionButton.textContent = '홈으로 이동';
+        actionButton.classList.add('blurred-button');
+        resultButton.style.display = 'block';
+      } else {
+        mainChamp.style.filter = 'none';
+        overlayContent.style.display = 'none';
+        overlayContent.classList.remove('fade-in');
+        mainTextDiv.classList.remove('blurred-text');
+        actionButton.textContent = '성향 알아보기';
+        actionButton.classList.remove('blurred-button');
+        resultButton.style.display = 'none';
+      }
+      isBlurred = !isBlurred;
+    });
 
-      resultButton.addEventListener("click", () => {
-        window.location.href = "loading.html";
-      });
-    </script>
-  </body>
+    userForm.addEventListener('submit', async (event) => {
+      event.preventDefault();
+
+      const name = document.getElementById('name').value;
+      const nicknameTag = document.getElementById('nicknameTag').value;
+
+      try {
+        const response = await fetch('/api/saveUser', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, nicknameTag }),
+        });
+
+        const result = await response.json();
+        alert(result.message || '저장 완료!');
+        window.location.href = 'result.html';
+      } catch (error) {
+        alert('오류가 발생했습니다. 다시 시도해주세요.');
+      }
+    });
+  </script>
+</body>
 </html>

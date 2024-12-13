@@ -100,9 +100,9 @@ body {
     background: white;
     color: black;
     border: none;
-    border-radius: 20px;
-    padding: 10px 20px;
-    font-size: 12px;
+    border-radius: 48px;
+    padding: 14px 28px;
+    font-size: 17px;
     cursor: pointer;
     transition: all 0.3s;
     margin-top: 10px;

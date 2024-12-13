@@ -1,7 +1,7 @@
 import json
 
 
-with open('Clustering\Results_New\hierarchical_cosine_average_pca_results.json', 'r', encoding='utf-8') as f:
+with open('Clustering\Results_Euclidean\hierarchical_euclidean_average_pca_results.json', 'r', encoding='utf-8') as f:
     puuid_to_cluster = json.load(f)
 
 clusters_dict = {}

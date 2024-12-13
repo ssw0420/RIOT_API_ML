@@ -65,8 +65,9 @@ router.post("/saveUser", async (req, res) => {
 
     // 클라이언트로 결과 반환
     res.json({
+      user: user,
       status: "success",
-      message: "사용자 정보 저장 및 Python 처리 완료",
+      //message: "사용자 정보 저장 및 Python 처리 완료",
       pythonResult: pythonResponse.data,
     });
   } catch (err) {

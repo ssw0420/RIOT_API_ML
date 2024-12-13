@@ -16,6 +16,10 @@
         <h1>해인님의 전략적 팀 전투 성향은...</h1>
       </div>
       <div class="content-area">
+        <div class="info-icon" id="infoButton">
+          <img src="assets/info.png" alt="Info" style="width: 24px; height: 24px; vertical-align: middle;">
+          <span style="font-size: 16px; color: #fff; cursor: pointer;">덱 유형 정보</span>
+        </div>
         <div class="card" id="cardToDownload">
           <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg" alt="전략 카드" class="card-image">
           <img src="assets/bgTitle.png" alt="배경 타이틀" class="bg-title-image">
@@ -38,7 +42,7 @@
         </div>
 
         <div class="description">
-          <h2>T1 Faker의 전략적 밸런스 플레이를 닮은 플레이 스타일</h2>
+          <h2>밸런스 중심의 플레이 스타일</h2>
           <div class="content">
             <p>이 플레이 스타일은 검은 장미단을 중심으로 다양한 조합과 전략을 통해 안정성과 유연성을 동시에 추구하는 것이 특징입니다.</p>
             <ul>
@@ -60,9 +64,13 @@
     </div>
   </div>
 
+  <div id="modal-container" class="modal"></div>
+
   <script>
     const downloadButton = document.getElementById('downloadCard');
     const cardToDownload = document.getElementById('cardToDownload');
+    const infoButton = document.getElementById('infoButton');
+    const modalContainer = document.getElementById('modal-container');
 
     downloadButton.addEventListener('click', () => {
       html2canvas(cardToDownload, {
@@ -76,6 +84,29 @@
       }).catch((error) => {
         console.error('이미지 다운로드 중 오류:', error);
       });
+    });
+
+    infoButton.addEventListener('click', () => {
+      fetch('modal.html')
+        .then(response => response.text())
+        .then(data => {
+          modalContainer.innerHTML = data;
+          modalContainer.style.display = 'flex';
+
+          const closeModal = document.getElementById('closeModal');
+          closeModal.addEventListener('click', () => {
+            modalContainer.style.display = 'none';
+          });
+        })
+        .catch(error => {
+          console.error('Error loading modal:', error);
+        });
+    });
+
+    window.addEventListener('click', (e) => {
+      if (e.target === modalContainer) {
+        modalContainer.style.display = 'none';
+      }
     });
   </script>
 </body>

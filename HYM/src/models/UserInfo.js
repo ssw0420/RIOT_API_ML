@@ -1,4 +1,3 @@
-// UserInfo.js
 const mongoose = require("mongoose");
 
 const UserInfoSchema = new mongoose.Schema({

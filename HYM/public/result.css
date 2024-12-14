@@ -1,5 +1,5 @@
 #background {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -16,230 +16,230 @@
   z-index: 2;
 }
 
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-    padding: 20px;
-  }
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  padding: 20px;
+}
 
-  .wrap {
-    margin-top: 80px;
-    width: 85%;
-    max-width: 1300px;
-    position: relative;
-    text-align: center;
-    color: white;
-  }
-  
-  .title-area {
-    margin-bottom: 40px;
-    text-align: center;
-  }
-  
-  .title-area h1 {
-    font-family: "Inter";
-    font-style: normal;
-    font-weight: 600;
-    font-size: 44px;
-    line-height: 58px;
-    color: #fff;
-    margin: 0;
-  }
-  
-  .content-area {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 40px;
-    align-items: center;
-  }
-  
-  .card {
-    position: relative;
-    border-radius: 15px;
-    margin: 20px 20px 20px 128px;
-    text-align: center;
-    width: 400px;
-    justify-content: center;
-    display: flex;
-  }
-  
-  .card-image {
-    width: 400px;
-    height: 600px;
-    border-radius: 15px;
-  }
-  
-  .bg-title-image {
-    width: 400px;
-    position: absolute;
-    left: 0px;
-  }
-  
-  .card-title {
-    position: absolute;
-    font-family: "Noto Sans";
-    font-style: normal;
-    font-weight: 800;
-    font-size: 25px;
-    align-items: center;
-    text-align: center;
-    letter-spacing: -0.005em;
-    color: #ffffff;
-    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
-    margin: 7px;
-  }
-  
-  .card-footer {
-    position: absolute;
-    bottom: 5px;
-    width: 360px;
-    height: 270px;
-    background: rgba(0, 0, 0, 0.3);
-    color: #fff;
-    padding: 15px;
-    border-radius: 30px;
-    text-align: left;
-  }
-  
-  .card-footer p {
-    font-family: "Noto Sans";
-    font-size: 15px;
-    line-height: 1.5;
-    margin: 0;
-  }
-  
-  #card-player {
-    font-family: "Noto Sans";
-    font-style: normal;
-    font-weight: 800;
-    font-size: 27px;
-    line-height: 40px;
-    align-items: center;
-    text-align: center;
-    letter-spacing: -0.005em;
-    color: #ffffff;
-  }
-  
-  .description {
-    max-width: 650px;
-    text-align: left;
-  }
-  
-  .description h2 {
-    font-family: "Inter";
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 29px;
-    color: #c4b998;
-    margin-bottom: 50px;
-  }
-  
-  .content {
-    font-family: "Noto Sans";
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 33px;
-    color: #ffffff;
-  }
-  
-  .description p {
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 30px;
-  }
-  
-  .description ul {
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 30px;
-  }
-  
-  .description ul li {
-    margin-bottom: 10px;
-  }
-  
-  .icon-content {
-    display: flex;
-    gap: 20px;
-    padding: 15px;
-  }
-  
-  .footer-icon {
-    width: 25px;
-    height: 25px;
-    margin-top: 4px;
-  }
-  
-  .share-section {
-    margin-top: 50px;
-    text-align: center;
-  }
-  
-  .share-section p {
-    font-family: "Inter";
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 20px;
-    color: #c4b998;
-    margin-bottom: 20px;
-  }
-  
-  .share-button {
-    background-color: #c4b998;
-    color: #000;
-    border: none;
-    padding: 8px 20px;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .share-button:hover {
-    background-color: #a08c76;
-  }
+.wrap {
+  margin-top: 80px;
+  width: 85%;
+  max-width: 1300px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
 
-  .download-button {
-    background-color: #c4b998;
-    color: black;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 20px;
-    cursor: pointer;
-    margin: 10px;
-    transition: background-color 0.3s ease;
-  }
+.title-area {
+  margin-bottom: 40px;
+  text-align: center;
+}
 
-  .download-button:hover {
-    background-color: #a08c76;
-  }
+.title-area h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 58px;
+  color: #fff;
+  margin: 0;
+}
 
-  .info-icon {
-    position: absolute;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    cursor: pointer;
-    color: white;
-    margin-top: 10px;
-    width: 88%;
-    margin-left: auto;
-    top: 77px;
-    left: 144px;
-  }
-  
-  .info-icon img {
-    width: 20px;
-    height: 20px;
-  }
-  
+.content-area {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  border-radius: 15px;
+  margin: 20px 20px 20px 128px;
+  text-align: center;
+  width: 400px;
+  justify-content: center;
+  display: flex;
+}
+
+.card-image {
+  width: 400px;
+  height: 600px;
+  border-radius: 15px;
+}
+
+.bg-title-image {
+  width: 400px;
+  position: absolute;
+  left: 0px;
+}
+
+.card-title {
+  position: absolute;
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.005em;
+  color: #ffffff;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  margin: 7px;
+}
+
+.card-footer {
+  position: absolute;
+  bottom: 5px;
+  width: 360px;
+  height: 270px;
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  padding: 15px;
+  border-radius: 30px;
+  text-align: left;
+}
+
+.card-footer p {
+  font-family: "Noto Sans";
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+#card-player {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 27px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.005em;
+  color: #ffffff;
+}
+
+.description {
+  max-width: 650px;
+  text-align: left;
+}
+
+.description h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #c4b998;
+  margin-bottom: 50px;
+}
+
+.content {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  color: #ffffff;
+}
+
+.description p {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.description ul {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.description ul li {
+  margin-bottom: 10px;
+}
+
+.icon-content {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+}
+
+.footer-icon {
+  width: 25px;
+  height: 25px;
+  margin-top: 4px;
+}
+
+.share-section {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.share-section p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #c4b998;
+  margin-bottom: 20px;
+}
+
+.share-button {
+  background-color: #c4b998;
+  color: #000;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.share-button:hover {
+  background-color: #a08c76;
+}
+
+.download-button {
+  background-color: #c4b998;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #a08c76;
+}
+
+.info-icon {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  color: white;
+  margin-top: 10px;
+  width: 88%;
+  margin-left: auto;
+  top: 77px;
+  left: 144px;
+}
+
+.info-icon img {
+  width: 20px;
+  height: 20px;
+}
+
 .modal {
   display: none;
   position: fixed;
@@ -270,7 +270,7 @@
 }
 
 .modal-content::-webkit-scrollbar {
-  width: 12px; 
+  width: 12px;
 }
 
 .modal-content::-webkit-scrollbar-thumb {
@@ -282,7 +282,6 @@
 .modal-content::-webkit-scrollbar-track {
   background-color: rgba(0, 0, 0, 0);
 }
-
 
 .modal-content h2 {
   margin-bottom: 20px;

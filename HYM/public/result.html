@@ -1,113 +1,218 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TFT 성향 분석 결과</title>
-  <link rel="stylesheet" href="result.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-</head>
-<body>
-  <div class="container">
-    <img id="background" src="assets/background.png" alt="Background">
-    <img id="logo" src="assets/logo.png" alt="Riot Games Logo">
-    <div class="wrap">
-      <div class="title-area">
-        <h1>해인님의 전략적 팀 전투 성향은...</h1>
-      </div>
-      <div class="content-area">
-        <div class="info-icon" id="infoButton">
-          <img src="assets/info.png" alt="Info" style="width: 24px; height: 24px; vertical-align: middle;">
-          <span style="font-size: 16px; color: #fff; cursor: pointer;">덱 유형 정보</span>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TFT 성향 분석 결과</title>
+    <link rel="stylesheet" href="result.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <img id="background" src="assets/background.png" alt="Background" />
+      <img id="logo" src="assets/logo.png" alt="Riot Games Logo" />
+      <div class="wrap">
+        <div class="title-area">
+          <h1 id="user-name">님의 전략적 팀 전투 성향은...</h1>
         </div>
-        <div class="card" id="cardToDownload">
-          <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg" alt="전략 카드" class="card-image">
-          <img src="assets/bgTitle.png" alt="배경 타이틀" class="bg-title-image">
-          <p class="card-title">밸런스 중심</p>
-          <div class="card-footer">
-            <p id="card-player">Oner#KR222</p>
-            <div class="icon-content">
-              <img src="assets/card_Icon1.png" alt="Icon 1" class="footer-icon">
-              <p>다양한 조합과 밸런스를 중시하며, 특정 전략에 지나치게 의존하지 않는 특성</p>
-            </div>
-            <div class="icon-content">
-              <img src="assets/card_Icon2.png" alt="Icon 2" class="footer-icon">
-              <p>다수의 시너지를 적절히 조합하여 안정적인 게임 진행을 선호</p>
-            </div>
-            <div class="icon-content">
-              <img src="assets/card_Icon3.png" alt="Icon 3" class="footer-icon">
-              <p>스플릿덱, 리롤덱, 연속 전투덱</p>
+        <div class="content-area">
+          <!-- 덱 정보 버튼 -->
+          <div class="info-icon" id="infoButton">
+            <img src="assets/info.png" alt="Info" style="width: 24px; height: 24px; vertical-align: middle" />
+            <span style="font-size: 16px; color: #fff; cursor: pointer">덱 유형 정보</span>
+          </div>
+          <div class="card" id="cardToDownload">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg" alt="전략 카드" class="card-image" />
+            <img src="assets/bgTitle.png" alt="배경 타이틀" class="bg-title-image" />
+            <p class="card-title">카드 정보</p>
+            <div class="card-footer">
+              <p id="card-player">플레이어 정보</p>
+              <div class="icon-content">
+                <img src="assets/card_Icon1.png" alt="Icon 1" class="footer-icon" />
+                <p>카드 정보 1</p>
+              </div>
+              <div class="icon-content">
+                <img src="assets/card_Icon2.png" alt="Icon 2" class="footer-icon" />
+                <p>카드 정보 2</p>
+              </div>
+              <div class="icon-content">
+                <img src="assets/card_Icon3.png" alt="Icon 3" class="footer-icon" />
+                <p>카드 정보 3</p>
+              </div>
             </div>
           </div>
-        </div>
 
-        <div class="description">
-          <h2>밸런스 중심의 플레이 스타일</h2>
-          <div class="content">
-            <p>이 플레이 스타일은 검은 장미단을 중심으로 다양한 조합과 전략을 통해 안정성과 유연성을 동시에 추구하는 것이 특징입니다.</p>
-            <ul>
-              <li>검은 장미단을 메인 축으로 하여 안정적인 초반 운영</li>
-              <li>투사, 매복자, 반군 등 다양한 시너지를 활용하여 유연한 전투 설계</li>
-              <li>상대의 전략을 파악하고 과감한 결단으로 승기를 잡는 순간을 창출</li>
-              <li>초반부터 중후반까지 고른 성능을 유지하여 게임 전체의 흐름을 주도</li>
-            </ul>
-            <p>
-              이러한 플레이 스타일은 T1 Faker와 유사하게 뛰어난 판단력과 섬세한 운영 능력을 겸비한 플레이어들에게서 자주 나타나며, 팀과의 조화로 게임을 장악하는 데 있어 탁월한 능력을 발휘합니다.
-            </p>
-          </div>
-          <div class="share-section">
-            <p>이 분석 결과를 친구들과 공유하고 나만의 롤체 스타일을 자랑하세요!</p>
-            <button class="share-button" id="downloadCard">내 결과 이미지 다운로드</button>
+          <div class="description">
+            <h2>title Text</h2>
+            <div class="content">
+              <p>특징</p>
+              <ul>
+                <li>디테일 1</li>
+                <li>디테일 2</li>
+                <li>디테일 3</li>
+                <li>디테일 4</li>
+              </ul>
+              <p>note</p>
+            </div>
+            <!-- 이미지 다운로드 버튼 -->
+            <div class="share-section">
+              <p>이 분석 결과를 친구들과 공유하고 나만의 롤체 스타일을 자랑하세요!</p>
+              <button class="share-button" id="downloadCard">내 결과 이미지 다운로드</button>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <div id="modal-container" class="modal"></div>
+    <!-- 모달 컨테이너 -->
+    <div id="modal-container" class="modal"></div>
 
-  <script>
-    const downloadButton = document.getElementById('downloadCard');
-    const cardToDownload = document.getElementById('cardToDownload');
-    const infoButton = document.getElementById('infoButton');
-    const modalContainer = document.getElementById('modal-container');
+    <script>
+      window.onload = async function () {
+        // 로컬 저장소에서 데이터 가져오기
+        const userName = localStorage.getItem("userName");
+        const nicknameTag = localStorage.getItem("nicknameTag");
+        const [nickname, tag] = nicknameTag.split("#");
 
-    downloadButton.addEventListener('click', () => {
-      html2canvas(cardToDownload, {
-        useCORS: true,
-        allowTaint: false,
-      }).then((canvas) => {
-        const link = document.createElement('a');
-        link.download = 'tft_card.png';
-        link.href = canvas.toDataURL('image/png');
-        link.click();
-      }).catch((error) => {
-        console.error('이미지 다운로드 중 오류:', error);
-      });
-    });
-
-    infoButton.addEventListener('click', () => {
-      fetch('modal.html')
-        .then(response => response.text())
-        .then(data => {
-          modalContainer.innerHTML = data;
-          modalContainer.style.display = 'flex';
-
-          const closeModal = document.getElementById('closeModal');
-          closeModal.addEventListener('click', () => {
-            modalContainer.style.display = 'none';
+        try {
+          // 첫 번째 API: 사용자 정보 전송 및 이미지 URL 요청
+          const imageResponse = await fetch("/api/getChampionImage", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ name: userName, nickname, tag }),
           });
-        })
-        .catch(error => {
-          console.error('Error loading modal:', error);
-        });
-    });
 
-    window.addEventListener('click', (e) => {
-      if (e.target === modalContainer) {
-        modalContainer.style.display = 'none';
-      }
-    });
-  </script>
-</body>
+          const imageResult = await imageResponse.json();
+
+          if (imageResponse.status === 200) {
+            // 이미지 URL 설정
+            const cardImageElement = document.querySelector(".card-image");
+            cardImageElement.src = imageResult.img_url;
+          } else {
+            console.error(imageResult.message);
+          }
+
+          // 두 번째 API: 카드 데이터 요청
+          const cardResponse = await fetch("/api/getCardData", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ name: userName, nickname, tag }),
+          });
+
+          const cardResult = await cardResponse.json();
+
+          if (cardResponse.status === 200) {
+            // card_title 데이터를 card-title에 삽입
+            const cardTitleElement = document.querySelector(".card-title");
+            cardTitleElement.textContent = cardResult.card_title;
+
+            // icon_content 데이터를 각 <p> 요소에 삽입
+            const iconContentElements = document.querySelectorAll(".icon-content p");
+            cardResult.icon_content.forEach((content, index) => {
+              if (iconContentElements[index]) {
+                iconContentElements[index].textContent = content;
+              }
+            });
+          } else {
+            console.error(cardResult.message);
+          }
+
+          // 세 번째 API: 텍스트 데이터 요청
+          const textResponse = await fetch("/api/getTextData", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ name: userName, nickname, tag }),
+          });
+
+          const textResult = await textResponse.json();
+
+          if (textResponse.status === 200) {
+            // title 데이터 삽입
+            const descriptionTitle = document.querySelector(".description h2");
+            descriptionTitle.textContent = textResult.title;
+
+            // description 데이터 삽입
+            const descriptionParagraph = document.querySelector(".description .content p");
+            descriptionParagraph.textContent = textResult.description;
+
+            // details 데이터 삽입
+            const detailsList = document.querySelector(".description .content ul");
+            detailsList.innerHTML = ""; // 기존 내용 제거
+            textResult.details.forEach((detail) => {
+              const listItem = document.createElement("li");
+              listItem.textContent = detail;
+              detailsList.appendChild(listItem);
+            });
+
+            // note 데이터 삽입
+            const noteParagraph = document.querySelector(".description .content > p:last-of-type");
+            noteParagraph.textContent = textResult.note;
+
+            // similar_pro_gamers 데이터 삽입
+            const proGamerParagraph = document.createElement("p");
+            proGamerParagraph.textContent = `이 유형과 비슷한 LOL 프로게이머: ${textResult.similar_pro_gamers.join(", ")}`;
+            detailsList.parentElement.appendChild(proGamerParagraph);
+          } else {
+            console.error(textResult.message);
+          }
+        } catch (error) {
+          console.error("API 요청 중 오류 발생:", error.message);
+        }
+
+        // 사용자 이름과 소환사명을 HTML에 표시
+        const titleElement = document.querySelector(".title-area h1");
+        titleElement.textContent = `${userName}님의 전략적 팀 전투 성향은...`;
+
+        const cardPlayerElement = document.getElementById("card-player");
+        cardPlayerElement.textContent = nicknameTag;
+      };
+
+      // 덱 유형 정보 버튼 기능
+      const infoButton = document.getElementById("infoButton");
+      const modalContainer = document.getElementById("modal-container");
+
+      infoButton.addEventListener("click", () => {
+        fetch("modal.html")
+          .then((response) => response.text())
+          .then((data) => {
+            modalContainer.innerHTML = data;
+            modalContainer.style.display = "flex";
+
+            const closeModal = document.getElementById("closeModal");
+            closeModal.addEventListener("click", () => {
+              modalContainer.style.display = "none";
+            });
+          })
+          .catch((error) => {
+            console.error("Error loading modal:", error);
+          });
+      });
+
+      window.addEventListener("click", (e) => {
+        if (e.target === modalContainer) {
+          modalContainer.style.display = "none";
+        }
+      });
+
+      // 이미지 다운로드 버튼 기능
+      const downloadButton = document.getElementById("downloadCard");
+      const cardToDownload = document.getElementById("cardToDownload");
+
+      downloadButton.addEventListener("click", () => {
+        html2canvas(cardToDownload, {
+          useCORS: true,
+          allowTaint: false,
+        })
+          .then((canvas) => {
+            const link = document.createElement("a");
+            link.download = "tft_card.png";
+            link.href = canvas.toDataURL("image/png");
+            link.click();
+          })
+          .catch((error) => {
+            console.error("이미지 다운로드 중 오류:", error);
+          });
+      });
+    </script>
+  </body>
 </html>

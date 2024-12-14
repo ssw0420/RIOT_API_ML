@@ -1,6 +1,10 @@
 const express = require("express");
 const UserInfo = require("../models/UserInfo");
+const ChampionInfo = require("../models/championInfo");
 const { fetchPUUID, fetchTopChampions } = require("../config/riotApi");
+const AssociationCard = require("../models/AssociationCard");
+const AssociationText = require("../models/AssociationText");
+
 const axios = require("axios");
 
 const router = express.Router();
@@ -66,12 +70,107 @@ router.post("/saveUser", async (req, res) => {
     res.json({
       user: user,
       status: "success",
-      //message: "사용자 정보 저장 및 Python 처리 완료",
       pythonResult: pythonResponse.data,
     });
   } catch (err) {
     console.error("오류 발생:", err.message);
     res.status(500).json({ message: "서버 오류 발생.", error: err.message });
+  }
+});
+
+// 사용자 정보로 이미지 URL 가져오기 API
+router.post("/getChampionImage", async (req, res) => {
+  const { name, nickname, tag } = req.body;
+
+  try {
+    // `user_infos` 컬렉션에서 사용자 정보 검색
+    const user = await UserInfo.findOne({ name, nickname, tag });
+    if (!user) {
+      return res.status(404).json({ message: "사용자를 찾을 수 없습니다." });
+    }
+
+    // 사용자의 topChampions 배열에서 첫 번째 챔피언 ID 가져오기
+    const firstChampionId = user.topChampions[0]?.championId;
+    if (!firstChampionId) {
+      return res.status(400).json({ message: "사용자에게 등록된 챔피언 정보가 없습니다." });
+    }
+
+    // `champion_infos_eg` 컬렉션에서 championId로 이미지 URL 검색
+    const championInfo = await ChampionInfo.findOne({ championId: firstChampionId });
+    if (!championInfo) {
+      return res.status(404).json({ message: "챔피언 정보를 찾을 수 없습니다." });
+    }
+
+    // 이미지 URL 반환
+    return res.status(200).json({ img_url: championInfo.img_url });
+  } catch (error) {
+    console.error("오류 발생:", error.message);
+    return res.status(500).json({ message: "서버 오류 발생", error: error.message });
+  }
+});
+
+// 클러스터에 맞는 카드 데이터 불러오기 API
+router.post("/getCardData", async (req, res) => {
+  const { name, nickname, tag } = req.body;
+
+  try {
+    // user_infos 컬렉션에서 사용자 데이터 조회
+    const user = await UserInfo.findOne({ name, nickname, tag });
+
+    if (!user) {
+      return res.status(404).json({ message: "사용자 정보를 찾을 수 없습니다." });
+    }
+
+    const assignedCluster = user.assignedCluster;
+
+    // association_card 컬렉션에서 클러스터 번호와 일치하는 데이터 조회
+    const cardData = await AssociationCard.findOne({ number: assignedCluster });
+
+    if (!cardData) {
+      return res.status(404).json({ message: "클러스터에 해당하는 카드 데이터를 찾을 수 없습니다." });
+    }
+
+    res.status(200).json({
+      card_title: cardData.card_title,
+      icon_content: cardData.icon_content,
+    });
+  } catch (error) {
+    console.error("오류 발생:", error.message);
+    res.status(500).json({ message: "서버 오류 발생.", error: error.message });
+  }
+});
+
+// association_text에서 데이터 불러오기 API
+router.post("/getTextData", async (req, res) => {
+  const { name, nickname, tag } = req.body;
+
+  try {
+    // user_infos 컬렉션에서 사용자 데이터 조회
+    const user = await UserInfo.findOne({ name, nickname, tag });
+
+    if (!user) {
+      return res.status(404).json({ message: "사용자 정보를 찾을 수 없습니다." });
+    }
+
+    const assignedCluster = user.assignedCluster;
+
+    // association_text 컬렉션에서 클러스터 번호와 일치하는 데이터 조회
+    const textData = await AssociationText.findOne({ number: assignedCluster });
+
+    if (!textData) {
+      return res.status(404).json({ message: "클러스터에 해당하는 텍스트 데이터를 찾을 수 없습니다." });
+    }
+
+    res.status(200).json({
+      title: textData.title,
+      description: textData.description,
+      details: textData.details,
+      note: textData.note,
+      similar_pro_gamers: textData.similar_pro_gamers,
+    });
+  } catch (error) {
+    console.error("오류 발생:", error.message);
+    res.status(500).json({ message: "서버 오류 발생.", error: error.message });
   }
 });
 

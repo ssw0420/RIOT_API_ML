@@ -80,6 +80,10 @@
         const name = document.getElementById("name").value;
         const nicknameTag = document.getElementById("nicknameTag").value;
 
+        // 로컬 저장소에 데이터 저장
+        localStorage.setItem("userName", name);
+        localStorage.setItem("nicknameTag", nicknameTag);
+
         try {
           const response = await fetch("/api/saveUser", {
             method: "POST",
@@ -88,8 +92,10 @@
           });
 
           const result = await response.json();
-          alert(result.message || "저장 완료!");
-          window.location.href = "result.html";
+          //alert(result.message || "저장 완료!");
+
+          // 로딩 화면으로 이동
+          window.location.href = "loading.html";
         } catch (error) {
           alert("오류가 발생했습니다. 다시 시도해주세요.");
         }

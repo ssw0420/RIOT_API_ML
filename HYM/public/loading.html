@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>로딩 중...</title>
+  <link rel="stylesheet" href="loading.css">
+</head>
+<body>
+  <div class="container">
+    <img id="background" src="assets/background.png" alt="Background">
+    <img id="logo" src="assets/logo.png" alt="Riot Games Logo">
+
+    <div class="loading-container">
+      <div class="loading-icon">
+        <img src="assets/loading_logo.png" alt="Loading Logo">
+        <div class="spinner"></div>
+      </div>
+      <p class="loading-text">전략가의 유형 확인 중...</p>
+    </div>
+  </div>
+
+  <script>
+    setTimeout(() => {
+      window.location.href = 'result.html'; 
+    }, 3000);
+  </script>
+</body>
+</html>
